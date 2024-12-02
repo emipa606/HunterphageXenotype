@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hunterphage Xenotype (Continued)</name>
+  <packageId>Mlie.HunterphageXenotype</packageId>
+  <author>BlackMarket420</author>
+  <url>https://github.com/emipa606/HunterphageXenotype</url>
+  <supportedVersions>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.Rimworld.Royalty</packageId>
+      <displayName>Rimworld Royalty</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1149640/RimWorld__Royalty/</downloadUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.Rimworld.Ideology</packageId>
+      <displayName>Rimworld Ideology</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1392840/RimWorld__Ideology/</downloadUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.Rimworld.Biotech</packageId>
+      <displayName>Rimworld Biotech</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.Rimworld.Royalty</li>
+    <li>Ludeon.Rimworld.Ideology</li>
+    <li>Ludeon.Rimworld.Biotech</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of BlackMarket420s mod https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/HunterphageXenotype][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://i.imgur.com/9LWAeE7.png[/img]
+Adds a new xenotype "The Hunterphage" in your rimworld playthrough, along with new weapons and apparels to use, new buildings to research and build, new items and drugs to abuse, and a faction that you can interact or conquer.
+
+The hunterphage xenotype is inspired by my favorite game growing up "Dungeon Blitz", preferably the rogue discipline "Shadow Stalker". Some of its abilities are paying homage to my most used rogue discipline, and its abilities are a little bit crazy, but hey, so is the Shadow Stalker that the xenotype is paying homage to.
+
+The rest, like weapons and apparels, are referencing other games, and what are these games you ask? Well, it's up to your eagle eyed vision to spot those references :3
+
+I bet you're wondering and ask why I made this mod in the first place eh? The answer is, well, for fun ofc. I just want to play as a bad-ass hunter with shadow stalker abilities, and create a hunters covenant to dominate other neighboring factions, all while looking good doing it.
+
+The Hunterphage mod is just a precursor of other projects I have in mind, so look forward to it!
+[img]https://i.imgur.com/eZ8dtf8.png[/img]
+[img]https://i.imgur.com/vCx2sLz.png[/img]
+[img]https://i.imgur.com/mwsmDwZ.png[/img]
+[img]https://i.imgur.com/8YhmVgO.png[/img]
+[img]https://i.imgur.com/l3LEJiZ.png[/img]
+[img]https://i.imgur.com/gO1z37Z.png[/img]
+[img]https://i.imgur.com/sjqcyCV.png[/img]
+[img]https://i.imgur.com/QsrRCV5.png[/img]
+[img]https://i.imgur.com/CYpGNvr.png[/img]
+[img]https://i.imgur.com/95c3mKM.png[/img]
+[img]https://i.imgur.com/QncuTWS.png[/img]
+[img]https://i.imgur.com/s3xk5PZ.png[/img]
+[img]https://i.imgur.com/RPzzPKR.png[/img]
+[img]https://i.imgur.com/Ky496hi.png[/img]
+[img]https://i.imgur.com/yyGEIWu.jpg[/img]
+[img]https://i.imgur.com/KSSTbcE.jpg[/img]
+[img]https://i.imgur.com/fquyJzm.png[/img]
+[img]https://i.imgur.com/p50zmqh.png[/img]
+[img]https://i.imgur.com/II8s4Oh.png[/img]
+[img]https://i.imgur.com/dejBzV2.png[/img]
+[img]https://i.imgur.com/L3fHReb.png[/img]
+[img]https://i.imgur.com/VVIEOMj.png[/img]
+[img]https://i.imgur.com/7VYE7hd.png[/img]
+[img]https://i.imgur.com/WUoELSP.png[/img]
+[img]https://i.imgur.com/dzIjI4Y.png[/img]
+[img]https://i.imgur.com/ZTNn2xv.png[/img]
+[img]https://i.imgur.com/ZmdVc7m.png[/img]
+[img]https://i.imgur.com/YECLC6W.png[/img]
+[img]https://i.imgur.com/DgThIzT.png[/img]
+[img]https://i.imgur.com/Kly8mVn.png[/img]
+[img]https://i.imgur.com/gnSeFo3.png[/img]
+[img]https://i.imgur.com/tO6gnnw.png[/img]
+[img]https://i.imgur.com/nN5LdaG.png[/img]
+[img]https://i.imgur.com/DwMHLr8.png[/img]
+[img]https://i.imgur.com/GsdpJQm.png[/img]
+[img]https://i.imgur.com/xnPSKLF.png[/img]
+[img]https://i.imgur.com/QD84LWz.png[/img]
+[img]https://i.imgur.com/DzWV7Pl.png[/img]
+[img]https://i.imgur.com/2JLRRsv.png[/img]
+[img]https://i.imgur.com/LCnzziC.png[/img]
+[img]https://i.imgur.com/BFS5fiv.png[/img]
+[img]https://i.imgur.com/wJqwbh1.png[/img]
+[img]https://i.imgur.com/aq7qQ4k.png[/img]
+[img]https://i.imgur.com/bSVpViV.png[/img]
+[img]https://i.imgur.com/YOPIUHV.png[/img]
+"Planned Projects Underway"
+  - New enemies and enemy faction "The Army of Fetid Corpse"
+  - Chemfuelpunk, it's Dieselpunk but chemfuel
+  - Chemfuelpunk Vehicles
+[img]https://i.imgur.com/kekF0pY.png[/img]
+Q: Is it safe to add mid-save?
+A: Probably, but the faction wont appear if you do. But I bet you can fix it with a few mods.
+
+Q: Is it CE compatible?
+A: No, I don't make CE patches, sorry. Please ask the authors of CE instead.
+
+Q: Do you take commissions?
+A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://discord.com/invite/rimworld.
+
+-RimWorld is owned by Ludeon Studios
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/][img]https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: xenotype,  hive faction,  hunter</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+</ModMetaData>
