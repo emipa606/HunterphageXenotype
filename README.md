@@ -1,4 +1,4 @@
-# [Hunterphage Xenotype (Continued)]()
+# [Hunterphage Xenotype (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3376685206)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -138,4 +138,6 @@ A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://d
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: xenotype,  hive faction,  hunter
+[![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: xenotype,  hive faction,  hunter 
+
+[![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3376685206) | tags: xenotype,  hive faction,  hunter

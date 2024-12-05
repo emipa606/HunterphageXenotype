@@ -6,6 +6,7 @@
     <description>One of the basic apparels of the hunters workshop, fairly cheap to produce and provides fair amounts of protection.</description>
     <label>hunter's duster</label>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -79,6 +80,7 @@
     <defName>Apparel_CommonAttire</defName>
     <description>A basic polo shirt, pants, vest, and belt combo attire.</description>
     <label>common hunter attire</label>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>208</displayPriority>
@@ -147,6 +149,7 @@
     <defName>Apparel_HunterGarb</defName>
     <description>Commomnly worn apparel by active hunters in the field.</description>
     <label>hunter garb</label>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>208</displayPriority>
@@ -217,6 +220,7 @@
     <label>hunter cap</label>
     <description>A basic feathered tricorn, not much in providing protection in the skull, but it insulates heat well and an ideal conversation piece.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -284,6 +288,7 @@
     <label>hunter fedora</label>
     <description>An iconic headgear favored by seasoned gun-wielding hunters, claiming that they could cover a single target with bullet holes faster while wearing the fedora.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -353,6 +358,7 @@
     <label>hunter tricorne</label>
     <description>Specially designed tricorn that grants a slight bonus to melee hit and dodge chance.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparel</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -424,6 +430,7 @@
     <description>A dark version of the hunter's duster.</description>
     <label>black hunter's duster</label>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparelBlack</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -497,6 +504,7 @@
     <defName>Apparel_HunterGarbBlack</defName>
     <description>A black variant of the hunter garb, now with protective plating for extra defense.</description>
     <label>black hunter garb</label>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparelBlack</researchPrerequisite>
       <displayPriority>208</displayPriority>
@@ -569,6 +577,7 @@
     <label>sniper top hat</label>
     <description>A fancy-looking top hat worn by experienced sharp shooters. Wearing it can grant the wearer a bonus to ranged weapon accuracy and social impact.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparelBlack</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -637,6 +646,7 @@
     <label>hunter sombrero</label>
     <description>An intimidating piece of headgear worn by elite hunters, specially worn to interogate prisoners and suppressing slaves.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparelBlack</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -705,6 +715,7 @@
     <label>black hunter tricorne</label>
     <description>A variant of the hunter tricorn, which provides slight increase in armor and melee capabilities.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>HuntersApparelBlack</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -776,6 +787,7 @@
     <description>An apparel worn by the powderkeg hunters, designed to be fireproof and provides more armor rating.</description>
     <label>powder keg garb</label>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>PowderkegApparels</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -851,6 +863,7 @@
     <description>An upgraded variant on the powder keg garb, which provides better damage resistance and grants the wearer extra carry weight.</description>
     <label>armored powder keg garb</label>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>PowderkegApparels</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -927,7 +940,7 @@
     <defName>Backpack_ShoulderBackPack</defName>
     <label>shoulder backpack</label>
     <description>A basic shoulder backpack with a carry capacity of 50kg, perfect for long distance travel throughout the rim.</description>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>BackPacks</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -1040,7 +1053,7 @@
     <defName>Backpack_AdventurerBackPack</defName>
     <label>adventurer backpack</label>
     <description>A large adventurer backpack that grants 100 kg of carry capacity. Perfect for long term expeditions.</description>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>BackPacks</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -1154,7 +1167,7 @@
   <ThingDef ParentName="ApparelBase">
     <defName>Handwear_HunterGloves</defName>
     <label>hunters gloves</label>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <description>A standard pair of gloves worn by hunters of the hunters covenant, which adjustable straps that can fit in any hand sizes, sufficiently armored, and provides a small decrease in aiming delay.</description>
     <graphicData>
       <texPath>Things/Apparels/Misc/Gloves/HunterGloves</texPath>
@@ -1228,7 +1241,7 @@
   <ThingDef ParentName="ApparelBase">
     <defName>Handwear_StakeDriverGloves</defName>
     <label>stake driver gloves</label>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <description>A pair of gloves with stake drivers attached in both sides, which can inflict deadly blast damage in melee range. These gloves were commonly worn by the powderkeg hunters on the hunters covenant.</description>
     <graphicData>
       <texPath>Things/Apparels/Misc/Gloves/StakeDriverGloves</texPath>
@@ -1309,7 +1322,7 @@
   <ThingDef ParentName="ApparelBase">
     <defName>FootWear_HunterBoots</defName>
     <label>hunters boots</label>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <description>A standard pair of boots commonly worn by active hunters on the field, which grants bonus to movement speed when worn.</description>
     <graphicData>
       <texPath>Things/Apparels/Misc/Boots/HunterBoots</texPath>
@@ -1387,6 +1400,7 @@
     <label>shadow walker coat</label>
     <description>A light weight and fire-proof coat worn by the mysterious shadow walkers. Although it provides absolute defense to fire and heat damage, it has terrible defense to sharp and blunt damage, but the coat compensates with providing the user with increased movement speed and manipulation.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>ShadowWalkerApparels</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -1466,6 +1480,7 @@
     <label>shadow walker feathered coat</label>
     <description>A feathered variant of the shadow walker coat, which immitates the notorious shadow crows.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>ShadowWalkerApparels</researchPrerequisite>
       <displayPriority>215</displayPriority>
@@ -1544,7 +1559,7 @@
   <ThingDef ParentName="ApparelBase">
     <defName>Handwear_ShadowGuards</defName>
     <label>shadow guards</label>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <description>A pair of gloves worn by the shadow walkers, complete with wrist guards and mechanical enhancements that provides extra protection and bonus to melee and ranged combat efficiency.</description>
     <graphicData>
       <texPath>Things/Apparels/ShadowWarriors_Apparels/Gloves/ShadowGuards</texPath>
@@ -1627,7 +1642,7 @@
   <ThingDef ParentName="ApparelBase">
     <defName>FootWear_ShadowStubs</defName>
     <label>shadow stubs</label>
-    <techLevel>Industrial</techLevel>
+    <techLevel>Medieval</techLevel>
     <description>A pair of boots commonly worn by the shadow walkers, which grants bonus to movement speed and manipulation when worn.</description>
     <graphicData>
       <texPath>Things/Apparels/ShadowWarriors_Apparels/Boots/ShadowStubs</texPath>
@@ -1709,6 +1724,7 @@
     <label>rogue hood</label>
     <description>A dark hood worn by the shadow walkers, capable of raising the wearer's consciousness by a slight margin.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>ShadowWalkerApparels</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -1783,6 +1799,7 @@
     <label>phantom hood</label>
     <description>A dark hood and mask worn by the shadow walkers, capable of raising the wearer's sight and consciousness by a slight margin.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>ShadowWalkerApparels</researchPrerequisite>
       <displayPriority>100</displayPriority>
@@ -1857,6 +1874,7 @@
     <label>crow feathered hood</label>
     <description>A specialy-made hood with feathered plumage and a plague doctor mask, which grants sufficient protection in the head, a slight bonus to consciousness, and a bonus immunity to disease and toxic hazards. This headgear is specialy worn by the infamous shadow crows.</description>
     <possessionCount>1</possessionCount>
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <researchPrerequisite>ShadowWalkerApparels</researchPrerequisite>
       <displayPriority>100</displayPriority>

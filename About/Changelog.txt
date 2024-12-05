@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.5.1 - Lowered tech-level on the relevant apparel and weapons to medieval
+
+
 1.5.0 - First publish
 Used DeepL to update translations for ChineseSimplified, French, German
 
