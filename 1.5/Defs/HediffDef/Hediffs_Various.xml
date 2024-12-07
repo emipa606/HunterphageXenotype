@@ -454,8 +454,8 @@
     <description>A technique that renders the user invisible, all while boosting melee damage significantly.</description>
     <isBad>false</isBad>
     <comps>
-      <li Class="HediffCompProperties">
-        <compClass>HediffComp_Invisibility</compClass>
+      <li Class="HediffCompProperties_Invisibility">
+        <visibleToPlayer>true</visibleToPlayer>
       </li>
     </comps>
     <stages>

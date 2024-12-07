@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.5.2 - Fixed the shadow cloak ability
+
+
 1.5.1 - Lowered tech-level on the relevant apparel and weapons to medieval
 
 
