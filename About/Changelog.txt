@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.5.3 - All special weapons should now be storable
+
+
 1.5.2 - Fixed the shadow cloak ability
 
 

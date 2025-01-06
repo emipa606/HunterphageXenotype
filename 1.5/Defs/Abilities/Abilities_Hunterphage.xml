@@ -93,6 +93,7 @@
     <jobDef>CastAbilityOnThingMelee</jobDef>
     <displayOrder>400</displayOrder>
     <hostile>false</hostile>
+    <casterMustBeCapableOfViolence>false</casterMustBeCapableOfViolence>
     <statBases>
       <Ability_Duration>8000</Ability_Duration>
     </statBases>

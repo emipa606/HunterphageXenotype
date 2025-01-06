@@ -3,7 +3,7 @@
   <!-- Special Weapons -->
   <!-- Ranged -->
   <!-- Betelgeuse -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_Betelgeuse</defName>
     <label>"betelgeuse" volley hand cannon</label>
     <description>A rare firearm created by a nameless gunsmith. Known to be a variant of a volley rifle, but its cylinders were reduced to fit explosive bolts instead of bullets, which is capable of firing five explosive bolts in a single volley. Mass production of such a weapon were proceeded as planned, but was later called off due to numerous reports of death from friendly fire, so there's only a handful of the betelgeuse that exists to this day.</description>
@@ -18,6 +18,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>5500</MarketValue>
@@ -29,16 +30,6 @@
       <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <ShootingAccuracyPawn>100.00</ShootingAccuracyPawn>
     </equippedStatOffsets>
@@ -100,7 +91,7 @@
     </projectile>
   </ThingDef>
   <!-- Black Mamba -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_BlackMamba</defName>
     <label>black mamba revolver</label>
     <description>A jet-black and crimson-red revolver. Unlike regular revolvers, the black mamba possess the lowest base damage, making its dps undesirable, but it does possess a unique quirk. The bullet that the black mamba use has a corrosive acid payload, where upon impact, it can slowly deal corrosive damage over time on a single target.</description>
@@ -115,6 +106,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>9500</MarketValue>
@@ -126,16 +118,6 @@
       <AccuracyLong>0.75</AccuracyLong>-->
       <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
@@ -201,7 +183,7 @@
     </projectile>
   </ThingDef>
   <!-- Chaos Revolver -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_ChaosRevolver</defName>
     <label>chaos revolver</label>
     <description>An unusual silver revolver with chaotic properties. Its base damage is decent and its dps is also somewhat decent, but the weapon possess a unique quirk. Each bullet fired from the chaos revolver can inflict random types of damage which inflicts random types of effects, like inflicting fire damage and setting the target on fire, debilitate the enemy and inflict armor bane, ect. The chaos revolver can inflict a total of seven extra damages along side its base damage, and its extra damage has a mid to low chance of triggering.</description>
@@ -216,6 +198,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>9500</MarketValue>
@@ -227,16 +210,6 @@
       <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>1.4</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <ShootingAccuracyPawn>100.00</ShootingAccuracyPawn>
     </equippedStatOffsets>
@@ -328,7 +301,7 @@
     </projectile>
   </ThingDef>
   <!-- Peacekeeper Revolver -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_PeacekeeperRevolver</defName>
     <label>peacekeeper revolver</label>
     <description>A rare firearm created by a nameless gunsmith. like the betelgeuse, the peacekeeper can fire explosive bolts against groups of enemies, but in a more controlled manner that can minimize friendly fire. In every sense of a word, this weapon is a passable weapon for mass production, but was pulled-out from mass production due to unknown reason, therefore only a handful of these peacekeepers exists on the rim.</description>
@@ -343,6 +316,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>7500</MarketValue>
@@ -354,16 +328,6 @@
       <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>1.4</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <ShootingAccuracyPawn>100.00</ShootingAccuracyPawn>
     </equippedStatOffsets>
@@ -425,7 +389,7 @@
     </projectile>
   </ThingDef>
   <!-- Santiago -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_Santiago</defName>
     <label>santiago</label>
     <description>A replica of the original santiago that was wielded by the founder of the hunters covenant. The santiago replica is a breech-loading type of firearm just like the original, where it allows the user to fire sharp bullets at a rapid pace just by replacing the replaceable ignition chamber. The replica also comes with a hook-type bayonet which deals both stab and cut damage in melee range. During the early founding of the hunters covenant, the hunterphages discovered breech-loading technology and are determined to mass produce breech-loading firearms for the hunters, but due to the lack of resources and expenses, only a single breech-loading rifle was created where it was modified and used by the founder of the covenant. Later down the road, they have reached the point where they could mass produce breech-loading firearms, but was later abandoned after discovering revolver tech firearms, so only a single breech-loading firearm was created in the history of the hunters covenant. Although breech-loading firearms were abandoned, several gunsmiths produced a handful of replicas of the original weapon as a form of revering their original founder, therefore , only a handful of the santiago replicas can be found throughout the rim.</description>
@@ -440,6 +404,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>5500</MarketValue>
@@ -451,16 +416,6 @@
       <AccuracyLong>0.75</AccuracyLong>
       <RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <RangedCooldownFactor>-0.10</RangedCooldownFactor>
       <AimingDelayFactor>-0.10</AimingDelayFactor>
@@ -525,7 +480,7 @@
     </projectile>
   </ThingDef>
   <!-- Victory Rifle -->
-  <ThingDef ParentName="BaseWeapon">
+  <ThingDef ParentName="BaseGunWithQuality">
     <defName>Gun_Special_VictoryRifle</defName>
     <label>victory rifle</label>
     <description>An advanced scoped revolver rifle where, according to its name sake, can guarantee victory in battle. The victory rifle is equipped with an advanced scope that looks alien in nature, where upon using it, can increase their shooting accuracy, and aid the user in pinpointing the target's weak spots and brutally exploiting it. Thanks to its advanced scope, the rifle has a chance to deal stun damage, and a slim chance of inflicting a critical hit that guarantees death upon impact.</description>
@@ -540,6 +495,7 @@
     <thingSetMakerTags>
       <li>RewardStandardQualitySuper</li>
     </thingSetMakerTags>
+    <smeltable>false</smeltable>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <MarketValue>9500</MarketValue>
@@ -551,16 +507,6 @@
       <AccuracyLong>0.90</AccuracyLong>
       <RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <ShootingAccuracyPawn>100.00</ShootingAccuracyPawn>
     </equippedStatOffsets>
@@ -656,16 +602,6 @@
     <equippedStatOffsets>
       <InjuryHealingFactor>0.2</InjuryHealingFactor>
     </equippedStatOffsets>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponMelee</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <tools>
       <li>
         <label>handle</label>
@@ -696,6 +632,26 @@
     <tradeTags>
       <li>Artifact</li>
     </tradeTags>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <burnableByRecipe>true</burnableByRecipe>
+    <thingCategories>
+      <li>WeaponsMelee</li>
+    </thingCategories>
+    <weaponClasses>
+      <li>Melee</li>
+    </weaponClasses>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtWeaponMelee</nameMaker>
+        <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
+        <minQualityForArtistic>Excellent</minQualityForArtistic>
+      </li>
+    </comps>
   </ThingDef>
   <ToolCapacityDef>
     <defName>BloodLetter_BloodCut</defName>
@@ -736,16 +692,6 @@
       <MarketValue>10200</MarketValue>
       <Mass>0.95</Mass>
     </statBases>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponMelee</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
     <equippedStatOffsets>
       <IncomingDamageFactor>-0.2</IncomingDamageFactor>
     </equippedStatOffsets>
@@ -781,6 +727,26 @@
     <tradeTags>
       <li>Artifact</li>
     </tradeTags>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <burnableByRecipe>true</burnableByRecipe>
+    <thingCategories>
+      <li>WeaponsMelee</li>
+    </thingCategories>
+    <weaponClasses>
+      <li>Melee</li>
+    </weaponClasses>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtWeaponMelee</nameMaker>
+        <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
+        <minQualityForArtistic>Excellent</minQualityForArtistic>
+      </li>
+    </comps>
   </ThingDef>
   <ToolCapacityDef>
     <defName>HolyFire_Slash</defName>
