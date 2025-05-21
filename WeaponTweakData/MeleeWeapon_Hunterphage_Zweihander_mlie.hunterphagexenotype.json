@@ -1,0 +1,11 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_Zweihander",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.468303025,
+  "Rotation": 45.0,
+  "BladeStart": 0.3353281,
+  "BladeEnd": 1.15052223,
+  "MeleeWeaponType": 6
+}

@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_ShortSword",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.3179835,
+  "OffY": -0.0057815183,
+  "HandsMode": 1,
+  "BladeStart": 0.115630373,
+  "BladeEnd": 0.780505061,
+  "MeleeWeaponType": 6
+}

@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_BastardSword",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.398924768,
+  "OffY": -0.00578150153,
+  "Rotation": 45.0,
+  "BladeStart": 0.115630373,
+  "BladeEnd": 1.03489184,
+  "MeleeWeaponType": 6
+}

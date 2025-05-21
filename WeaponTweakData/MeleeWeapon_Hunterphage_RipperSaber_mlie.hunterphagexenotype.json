@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_RipperSaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.323765039,
+  "OffY": -0.0115630329,
+  "HandsMode": 1,
+  "BladeStart": 0.2428238,
+  "BladeEnd": 0.786286533,
+  "MeleeWeaponType": 6
+}

@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.5.4 - Added Melee Animations properties
+
+
 1.5.3 - All special weapons should now be storable
 
 

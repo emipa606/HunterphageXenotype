@@ -1,0 +1,14 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_ShadowDagger",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.260168344,
+  "OffY": -0.00578152,
+  "ScaleX": 0.85,
+  "ScaleY": 0.85,
+  "HandsMode": 1,
+  "BladeStart": 0.14453797,
+  "BladeEnd": 0.5954964,
+  "MeleeWeaponType": 6
+}

@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "Melee_AutomatonHandBlade",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.278530359,
+  "OffY": -0.002054044,
+  "Rotation": 30.0,
+  "BladeStart": 0.364235669,
+  "BladeEnd": 0.8325387,
+  "MeleeWeaponType": 6
+}

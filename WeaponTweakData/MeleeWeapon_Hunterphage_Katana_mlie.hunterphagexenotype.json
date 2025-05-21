@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_Katana",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.3295466,
+  "OffY": -0.0173445567,
+  "Rotation": 25.0,
+  "BladeStart": 0.115630373,
+  "BladeEnd": 0.907698452,
+  "MeleeWeaponType": 6
+}

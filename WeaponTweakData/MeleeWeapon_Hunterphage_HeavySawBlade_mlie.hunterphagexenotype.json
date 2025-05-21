@@ -1,0 +1,14 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_HeavySawBlade",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.456739962,
+  "OffY": 0.02312608,
+  "Rotation": 30.0,
+  "ScaleX": 1.3,
+  "ScaleY": 1.3,
+  "BladeStart": 0.3411096,
+  "BladeEnd": 1.16786683,
+  "MeleeWeaponType": 6
+}

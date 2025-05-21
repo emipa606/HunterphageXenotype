@@ -1,0 +1,9 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_HuntersBattleAxe",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "ScaleX": 1.3,
+  "ScaleY": 1.3,
+  "MeleeWeaponType": 6
+}

@@ -1,0 +1,13 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_HunterSpear",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.237042278,
+  "OffY": -0.0115630366,
+  "ScaleX": 1.3,
+  "ScaleY": 1.3,
+  "BladeStart": 0.543462753,
+  "BladeEnd": 0.8441017,
+  "MeleeWeaponType": 6
+}

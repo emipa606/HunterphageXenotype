@@ -1,0 +1,12 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Hunterphage_ShadowSaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.3353281,
+  "OffY": -0.0115630329,
+  "HandsMode": 1,
+  "BladeStart": 0.2832944,
+  "BladeEnd": 0.81519413,
+  "MeleeWeaponType": 6
+}

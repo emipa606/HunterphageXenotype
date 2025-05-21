@@ -1,0 +1,14 @@
+{
+  "TextureModID": "mlie.hunterphagexenotype",
+  "ItemDefName": "MeleeWeapon_Special_CaptainLudsHolyBlade",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.5376812,
+  "OffY": -0.00578152,
+  "Rotation": 45.0,
+  "ScaleX": 1.25,
+  "ScaleY": 1.25,
+  "BladeStart": 0.20235315,
+  "BladeEnd": 1.33553088,
+  "MeleeWeaponType": 6
+}
