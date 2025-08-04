@@ -9,5 +9,11 @@
     " hive faction",
     " hunter"
   ],
-  "LastXmlCleaning": "2025-05-21T20:56:04.9304487+02:00"
+  "LastXmlCleaning": "2025-05-21T20:56:04.9304487+02:00",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 17697,
+  "LinesOfXML": 550906,
+  "CodeBaseSize": 91
 }
