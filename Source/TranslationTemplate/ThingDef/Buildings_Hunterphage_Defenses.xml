@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ballista bolt -->
+  <Bullet_Ballistaz.label>ballista bolt</Bullet_Ballistaz.label>
+  <!-- EN: frontier barbed wire -->
+  <FrontierBarbedWire.label>frontier barbed wire</FrontierBarbedWire.label>
+  <!-- EN: A basic defensive structure that slows down the enemy, and injure them in the process, perfect to prevent any hostiles from crossing your territory. -->
+  <FrontierBarbedWire.description>A basic defensive structure that slows down the enemy, and injure them in the process, perfect to prevent any hostiles from crossing your territory.</FrontierBarbedWire.description>
+  <!-- EN: frontier wall -->
+  <FrontierWall.label>frontier wall</FrontierWall.label>
+  <!-- EN: An impassable, defensive wall that was used to keep the horrors of the rim at bay. Highly resistant in most forms of damage and capable of holding a roof. -->
+  <FrontierWall.description>An impassable, defensive wall that was used to keep the horrors of the rim at bay. Highly resistant in most forms of damage and capable of holding a roof.</FrontierWall.description>
+  <!-- EN: frontier embrasure wall -->
+  <FrontierWallEmbrasure.label>frontier embrasure wall</FrontierWallEmbrasure.label>
+  <!-- EN: A frontier wall with elongated holes to shoot at. Capable of holding a roof -->
+  <FrontierWallEmbrasure.description>A frontier wall with elongated holes to shoot at. Capable of holding a roof</FrontierWallEmbrasure.description>
+  <!-- EN: manned ballista turret -->
+  <Gun_BallistaTurretz.label>manned ballista turret</Gun_BallistaTurretz.label>
+  <!-- EN: A mannable ballista made to be mounted on a turret. -->
+  <Gun_BallistaTurretz.description>A mannable ballista made to be mounted on a turret.</Gun_BallistaTurretz.description>
+  <!-- EN: manned ballista turret -->
+  <Gun_BallistaTurretz.verbs.Verb_Shoot.label>manned ballista turret</Gun_BallistaTurretz.verbs.Verb_Shoot.label>
+  <!-- EN: manned cannon turret -->
+  <Gun_Cannonz.label>manned cannon turret</Gun_Cannonz.label>
+  <!-- EN: A mannable cannon made to be mounted on a turret. -->
+  <Gun_Cannonz.description>A mannable cannon made to be mounted on a turret.</Gun_Cannonz.description>
+  <!-- EN: manned cannon turret -->
+  <Gun_Cannonz.verbs.Verb_Shoot.label>manned cannon turret</Gun_Cannonz.verbs.Verb_Shoot.label>
+  <!-- EN: manned gatling turret -->
+  <Gun_GatlingTurretz.label>manned gatling turret</Gun_GatlingTurretz.label>
+  <!-- EN: A mannable gatling gun made to be mounted on a turret. -->
+  <Gun_GatlingTurretz.description>A mannable gatling gun made to be mounted on a turret.</Gun_GatlingTurretz.description>
+  <!-- EN: manned gatling turret -->
+  <Gun_GatlingTurretz.verbs.Verb_Shoot.label>manned gatling turret</Gun_GatlingTurretz.verbs.Verb_Shoot.label>
+  <!-- EN: frontier mine -->
+  <Trap_ExplosiveMine.label>frontier mine</Trap_ExplosiveMine.label>
+  <!-- EN: An explosive proximity mine which triggers a frag explosion when stepped by an enemy. -->
+  <Trap_ExplosiveMine.description>An explosive proximity mine which triggers a frag explosion when stepped by an enemy.</Trap_ExplosiveMine.description>
+  <!-- EN: ballista turret "mannable" -->
+  <Turret_Mannable_Ballista.label>ballista turret "mannable"</Turret_Mannable_Ballista.label>
+  <!-- EN: A stationary ballista bolt launcher mounted in a quad-pod, capable of firing ten bolts at high speeds that penetrates armor. -->
+  <Turret_Mannable_Ballista.description>A stationary ballista bolt launcher mounted in a quad-pod, capable of firing ten bolts at high speeds that penetrates armor.</Turret_Mannable_Ballista.description>
+  <!-- EN: Shots remaining -->
+  <Turret_Mannable_Ballista.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</Turret_Mannable_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until bolt replenishment -->
+  <Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>Shots until bolt replenishment</Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new bolts -->
+  <Turret_Mannable_Ballista.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new bolts</Turret_Mannable_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: cannon turret "mannable" -->
+  <Turret_Mannable_Cannon.label>cannon turret "mannable"</Turret_Mannable_Cannon.label>
+  <!-- EN: A stationary cannon mounted in a mechanical cannon emplacement. Built specifically for long-ranged bombardment, this cannon can unleash hell through groups of enemies through using some of the deadliest cannon shells ever produced from the hunters workshop. -->
+  <Turret_Mannable_Cannon.description>A stationary cannon mounted in a mechanical cannon emplacement. Built specifically for long-ranged bombardment, this cannon can unleash hell through groups of enemies through using some of the deadliest cannon shells ever produced from the hunters workshop.</Turret_Mannable_Cannon.description>
+  <!-- EN: Shots remaining -->
+  <Turret_Mannable_Cannon.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</Turret_Mannable_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until reload -->
+  <Turret_Mannable_Cannon.comps.CompRefuelable.fuelLabel>Shots until reload</Turret_Mannable_Cannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of ammo -->
+  <Turret_Mannable_Cannon.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Out of ammo</Turret_Mannable_Cannon.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: gatling turret "mannable" -->
+  <Turret_Mannable_Gatling.label>gatling turret "mannable"</Turret_Mannable_Gatling.label>
+  <!-- EN: A stationary gatling gun mounted in a quad-pod. It can fire deadly rounds of bullets at great distance. -->
+  <Turret_Mannable_Gatling.description>A stationary gatling gun mounted in a quad-pod. It can fire deadly rounds of bullets at great distance.</Turret_Mannable_Gatling.description>
+  <!-- EN: Shots remaining -->
+  <Turret_Mannable_Gatling.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</Turret_Mannable_Gatling.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until reload -->
+  <Turret_Mannable_Gatling.comps.CompRefuelable.fuelLabel>Shots until reload</Turret_Mannable_Gatling.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of ammo -->
+  <Turret_Mannable_Gatling.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Out of ammo</Turret_Mannable_Gatling.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tobacco plant -->
+  <Plant_Tobacco.label>tobacco plant</Plant_Tobacco.label>
+  <!-- EN: A precious plant that was used to produce tobacco pipes, a soothing yet preety addictive drug. -->
+  <Plant_Tobacco.description>A precious plant that was used to produce tobacco pipes, a soothing yet preety addictive drug.</Plant_Tobacco.description>
+  <!-- EN: steel elixir -->
+  <SteelElixir.label>steel elixir</SteelElixir.label>
+  <!-- EN: A specially brewed elixir discovered by the hunters workshop. Drinking it will grant the consumer enhanced damage resistance, and immunity to fire. Although in exchange, the steel elixir will taste incredibly bad, and they'll move very slow.\n\nThis drug is widely distributed throughout the rim and mostly seen being used by combatants of well developed civilizations. -->
+  <SteelElixir.description>A specially brewed elixir discovered by the hunters workshop. Drinking it will grant the consumer enhanced damage resistance, and immunity to fire. Although in exchange, the steel elixir will taste incredibly bad, and they'll move very slow.
+
+This drug is widely distributed throughout the rim and mostly seen being used by combatants of well developed civilizations.</SteelElixir.description>
+  <!-- EN: Drink {0} -->
+  <SteelElixir.ingestible.ingestCommandString>Drink {0}</SteelElixir.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <SteelElixir.ingestible.ingestReportString>Drinking {0}.</SteelElixir.ingestible.ingestReportString>
+  <!-- EN: Tobacco cigars -->
+  <Tobacco.label>Tobacco cigars</Tobacco.label>
+  <!-- EN: A fancy looking joint filled with tobacco leaves, once smoked, it can calm the user's nerves and heightened their senses temporarily. -->
+  <Tobacco.description>A fancy looking joint filled with tobacco leaves, once smoked, it can calm the user's nerves and heightened their senses temporarily.</Tobacco.description>
+  <!-- EN: Smoke {0} -->
+  <Tobacco.ingestible.ingestCommandString>Smoke {0}</Tobacco.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Tobacco.ingestible.ingestReportString>Smoking {0}.</Tobacco.ingestible.ingestReportString>
+  <!-- EN: Consuming {0}. -->
+  <Tobacco.ingestible.ingestReportStringEat>Consuming {0}.</Tobacco.ingestible.ingestReportStringEat>
+  <!-- EN: tobacco leaves -->
+  <TobaccoLeaves.label>tobacco leaves</TobaccoLeaves.label>
+  <!-- EN: Raw cut leaves of a tobacco plant. Can be manufactured into tobacco pipes at a nearest drug lab. -->
+  <TobaccoLeaves.description>Raw cut leaves of a tobacco plant. Can be manufactured into tobacco pipes at a nearest drug lab.</TobaccoLeaves.description>
+  <!-- EN: trolls blood elixir -->
+  <TrollsBloodElixir.label>trolls blood elixir</TrollsBloodElixir.label>
+  <!-- EN: A specially brewed elixir discovered by the hunters workshop. Directly drinking this elixir can instantaneously regenerate the consumer's permanent and fatal wounds, and cure chronic illnesses. Although the downside is that their hunger rate has been quadrupled temporarily.\n\nDue to the high cost of producing one vile, only a handful of these elixirs were ever produced, unless they have some ways to accuire those raw resources, perhaps...... -->
+  <TrollsBloodElixir.description>A specially brewed elixir discovered by the hunters workshop. Directly drinking this elixir can instantaneously regenerate the consumer's permanent and fatal wounds, and cure chronic illnesses. Although the downside is that their hunger rate has been quadrupled temporarily.
+
+Due to the high cost of producing one vile, only a handful of these elixirs were ever produced, unless they have some ways to accuire those raw resources, perhaps......</TrollsBloodElixir.description>
+  <!-- EN: Drink {0} -->
+  <TrollsBloodElixir.ingestible.ingestCommandString>Drink {0}</TrollsBloodElixir.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <TrollsBloodElixir.ingestible.ingestReportString>Drinking {0}.</TrollsBloodElixir.ingestible.ingestReportString>
+</LanguageData>

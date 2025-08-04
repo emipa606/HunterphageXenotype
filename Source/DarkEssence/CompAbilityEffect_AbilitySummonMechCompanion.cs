@@ -5,7 +5,7 @@ namespace DarkEssence;
 
 public class CompAbilityEffect_AbilitySummonMechCompanion : CompAbilityEffect
 {
-    public new CompProperties_AbilitySummonMechCompanion Props => (CompProperties_AbilitySummonMechCompanion)props;
+    private new CompProperties_AbilitySummonMechCompanion Props => (CompProperties_AbilitySummonMechCompanion)props;
 
     public override void Apply(LocalTargetInfo target, LocalTargetInfo dest)
     {

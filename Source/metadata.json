@@ -2,14 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5",
+  "PreviewVersion": "1.6",
   "SocialImageSet": true,
   "SearchTags": [
     "xenotype",
     " hive faction",
     " hunter"
   ],
-  "LastXmlCleaning": "2025-05-21T20:56:04.9304487+02:00",
+  "LastXmlCleaning": "2025-08-04T21:58:07.9620357+02:00",
   "Patches": true,
   "Defs": true,
   "Assemblies": true,

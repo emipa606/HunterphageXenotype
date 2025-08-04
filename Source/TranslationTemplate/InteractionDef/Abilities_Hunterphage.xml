@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: socialite -->
+  <Socialize.label>socialite</Socialize.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] suggested that [INITIATOR_nameDef] and [RECIPIENT_nameDef] are connected to the red strings of fate.</li>
+    <li>r_logentry->[INITIATOR_nameDef] suggestes [RECIPIENT_nameDef] that they should grab a bottle of cold beer and hang out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] compliments [RECIPIENT_nameDef] about how lovely they look.</li>
+    <li>r_logentry->[INITIATOR_nameDef] invites [RECIPIENT_nameDef] for a dinner.</li>
+    <li>r_logentry->Are you a piece of flake [RECIPIENT_nameDef]? Because I am addicted to you.</li>
+  -->
+  <Socialize.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] suggested that [INITIATOR_nameDef] and [RECIPIENT_nameDef] are connected to the red strings of fate.</li>
+    <li>r_logentry->[INITIATOR_nameDef] suggestes [RECIPIENT_nameDef] that they should grab a bottle of cold beer and hang out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] compliments [RECIPIENT_nameDef] about how lovely they look.</li>
+    <li>r_logentry->[INITIATOR_nameDef] invites [RECIPIENT_nameDef] for a dinner.</li>
+    <li>r_logentry->Are you a piece of flake [RECIPIENT_nameDef]? Because I am addicted to you.</li>
+  </Socialize.logRulesInitiator.rulesStrings>
+</LanguageData>

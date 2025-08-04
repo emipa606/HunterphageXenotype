@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bulk goods trader -->
+  <Caravan_Hunterphage_BulkGoods.label>bulk goods trader</Caravan_Hunterphage_BulkGoods.label>
+  <!-- EN: combat supplier -->
+  <Caravan_Hunterphage_CombatSupplier.label>combat supplier</Caravan_Hunterphage_CombatSupplier.label>
+  <!-- EN: exotic goods trader -->
+  <Caravan_Hunterphage_Exotic.label>exotic goods trader</Caravan_Hunterphage_Exotic.label>
+  <!-- EN: slaver -->
+  <Caravan_Hunterphage_Slaver.label>slaver</Caravan_Hunterphage_Slaver.label>
+  <!-- EN: wandering merchant -->
+  <Visitor_Hunterphage_Standard.label>wandering merchant</Visitor_Hunterphage_Standard.label>
+</LanguageData>

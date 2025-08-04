@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mote -->
+  <BloodLetter_Effect_Impact.label>Mote</BloodLetter_Effect_Impact.label>
+  <!-- EN: Mote -->
+  <Fiery_Effect_Impact.label>Mote</Fiery_Effect_Impact.label>
+  <!-- EN: Mote -->
+  <Mote_AuraAttack.label>Mote</Mote_AuraAttack.label>
+  <!-- EN: Mote -->
+  <Mote_BlastStabz.label>Mote</Mote_BlastStabz.label>
+  <!-- EN: Mote -->
+  <Mote_CorrosiveDamage.label>Mote</Mote_CorrosiveDamage.label>
+  <!-- EN: Mote -->
+  <Mote_Corruption.label>Mote</Mote_Corruption.label>
+  <!-- EN: Mote -->
+  <Mote_CriticalHit.label>Mote</Mote_CriticalHit.label>
+  <!-- EN: Mote -->
+  <Mote_CriticalHitOne.label>Mote</Mote_CriticalHitOne.label>
+  <!-- EN: Mote -->
+  <Mote_DarkChi.label>Mote</Mote_DarkChi.label>
+  <!-- EN: Mote -->
+  <Mote_DarkStab.label>Mote</Mote_DarkStab.label>
+  <!-- EN: Mote -->
+  <Mote_HeartSeeker.label>Mote</Mote_HeartSeeker.label>
+  <!-- EN: Mote -->
+  <Mote_ShadowEdge.label>Mote</Mote_ShadowEdge.label>
+</LanguageData>

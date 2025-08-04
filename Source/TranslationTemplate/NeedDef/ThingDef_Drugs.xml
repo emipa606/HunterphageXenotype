@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: steel elixir -->
+  <Chemical_SteelElixir.label>steel elixir</Chemical_SteelElixir.label>
+  <!-- EN: Because of a steel elixir addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_SteelElixir.description>Because of a steel elixir addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_SteelElixir.description>
+  <!-- EN: tobacco -->
+  <Chemical_TobaccoNeed.label>tobacco</Chemical_TobaccoNeed.label>
+  <!-- EN: Because of a tobacco addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_TobaccoNeed.description>Because of a tobacco addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_TobaccoNeed.description>
+  <!-- EN: trolls blood elixir -->
+  <Chemical_TrollsBloodElixir.label>trolls blood elixir</Chemical_TrollsBloodElixir.label>
+  <!-- EN: Because of a trolls blood elixir addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_TrollsBloodElixir.description>Because of a trolls blood elixir addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Chemical_TrollsBloodElixir.description>
+</LanguageData>

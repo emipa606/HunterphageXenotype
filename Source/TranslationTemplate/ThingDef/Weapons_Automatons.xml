@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: handcannon bullet -->
+  <Bullet_AutomatonHandCannon.label>handcannon bullet</Bullet_AutomatonHandCannon.label>
+  <!-- EN: automaton handcannon -->
+  <Gun_AutomatonHandCannon.label>automaton handcannon</Gun_AutomatonHandCannon.label>
+  <!-- EN: A six-barreled handcannon wielded by the automaton soldiers. -->
+  <Gun_AutomatonHandCannon.description>A six-barreled handcannon wielded by the automaton soldiers.</Gun_AutomatonHandCannon.description>
+  <!-- EN: stock -->
+  <Gun_AutomatonHandCannon.tools.stock.label>stock</Gun_AutomatonHandCannon.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AutomatonHandCannon.tools.barrel.label>barrel</Gun_AutomatonHandCannon.tools.barrel.label>
+  <!-- EN: automaton handcannon -->
+  <Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>automaton handcannon</Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>
+  <!-- EN: automaton hand blade -->
+  <Melee_AutomatonHandBlade.label>automaton hand blade</Melee_AutomatonHandBlade.label>
+  <!-- EN: An sharp hand blade wielded by an automaton soldier. -->
+  <Melee_AutomatonHandBlade.description>An sharp hand blade wielded by an automaton soldier.</Melee_AutomatonHandBlade.description>
+  <!-- EN: edge -->
+  <Melee_AutomatonHandBlade.tools.edge.label>edge</Melee_AutomatonHandBlade.tools.edge.label>
+  <!-- EN: blade tip -->
+  <Melee_AutomatonHandBlade.tools.blade_tip.label>blade tip</Melee_AutomatonHandBlade.tools.blade_tip.label>
+</LanguageData>

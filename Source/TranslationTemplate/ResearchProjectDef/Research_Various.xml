@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: back packs -->
+  <BackPacks.label>back packs</BackPacks.label>
+  <!-- EN: Research a way to manufacture some backpacks. -->
+  <BackPacks.description>Research a way to manufacture some backpacks.</BackPacks.description>
+  <!-- EN: manned ballista turret -->
+  <BallistaTurret.label>manned ballista turret</BallistaTurret.label>
+  <!-- EN: Research a way to build a mannable ballista turret. -->
+  <BallistaTurret.description>Research a way to build a mannable ballista turret.</BallistaTurret.description>
+  <!-- EN: hunter's workbench -->
+  <BasicHunterArmaments.label>hunter's workbench</BasicHunterArmaments.label>
+  <!-- EN: An introductory research which allows you to build a hunters workbench, and craft simple components. -->
+  <BasicHunterArmaments.description>An introductory research which allows you to build a hunters workbench, and craft simple components.</BasicHunterArmaments.description>
+  <!-- EN: manned cannon turret -->
+  <CannonTurret.label>manned cannon turret</CannonTurret.label>
+  <!-- EN: Research a way to build a mannable cannon turret, along with a way to manufacture some devious cannon shells. -->
+  <CannonTurret.description>Research a way to build a mannable cannon turret, along with a way to manufacture some devious cannon shells.</CannonTurret.description>
+  <!-- EN: elixirs -->
+  <Elixirz.label>elixirs</Elixirz.label>
+  <!-- EN: Research a way to brew some effective elixirs for combat, and other conveniences. -->
+  <Elixirz.description>Research a way to brew some effective elixirs for combat, and other conveniences.</Elixirz.description>
+  <!-- EN: exotic weaponry -->
+  <ExoticWeaponry.label>exotic weaponry</ExoticWeaponry.label>
+  <!-- EN: Research a way to craft some bizarre-looking firearms that are more effective in combat than they look. -->
+  <ExoticWeaponry.description>Research a way to craft some bizarre-looking firearms that are more effective in combat than they look.</ExoticWeaponry.description>
+  <!-- EN: hand-held flamers -->
+  <Flamer.label>hand-held flamers</Flamer.label>
+  <!-- EN: Research a way to craft a hand-held flame thrower. -->
+  <Flamer.description>Research a way to craft a hand-held flame thrower.</Flamer.description>
+  <!-- EN: flintlock armaments -->
+  <FlintlockArmaments.label>flintlock armaments</FlintlockArmaments.label>
+  <!-- EN: Research a way to craft basic flintlock firearms. -->
+  <FlintlockArmaments.description>Research a way to craft basic flintlock firearms.</FlintlockArmaments.description>
+  <!-- EN: frontier defenses -->
+  <FrontierDefenses.label>frontier defenses</FrontierDefenses.label>
+  <!-- EN: Research a way to build some sturdy defenses that can protect you from the early horrors of the rim. -->
+  <FrontierDefenses.description>Research a way to build some sturdy defenses that can protect you from the early horrors of the rim.</FrontierDefenses.description>
+  <!-- EN: manned gatling turret -->
+  <GatlingTurret.label>manned gatling turret</GatlingTurret.label>
+  <!-- EN: Research a way to build a mannable gatling turret. -->
+  <GatlingTurret.description>Research a way to build a mannable gatling turret.</GatlingTurret.description>
+  <!-- EN: heavy weaponry -->
+  <HeavyWeaponry.label>heavy weaponry</HeavyWeaponry.label>
+  <!-- EN: Research a way to craft some devastating heavy weapons used by the powder keg hunters. -->
+  <HeavyWeaponry.description>Research a way to craft some devastating heavy weapons used by the powder keg hunters.</HeavyWeaponry.description>
+  <!-- EN: melee weapons -->
+  <HunterMelee.label>melee weapons</HunterMelee.label>
+  <!-- EN: Research a way to manufacture some melee weapons used by the hunterphages. -->
+  <HunterMelee.description>Research a way to manufacture some melee weapons used by the hunterphages.</HunterMelee.description>
+  <!-- EN: hunter's apparel -->
+  <HuntersApparel.label>hunter's apparel</HuntersApparel.label>
+  <!-- EN: Research a way to manufacture hunter-based apparels. -->
+  <HuntersApparel.description>Research a way to manufacture hunter-based apparels.</HuntersApparel.description>
+  <!-- EN: black hunter's apparel -->
+  <HuntersApparelBlack.label>black hunter's apparel</HuntersApparelBlack.label>
+  <!-- EN: Research a way to manufacture a few black variant hunter-based apparels. -->
+  <HuntersApparelBlack.description>Research a way to manufacture a few black variant hunter-based apparels.</HuntersApparelBlack.description>
+  <!-- EN: percussion armaments -->
+  <PercussionArmaments.label>percussion armaments</PercussionArmaments.label>
+  <!-- EN: Research a way to craft percussion firearms. -->
+  <PercussionArmaments.description>Research a way to craft percussion firearms.</PercussionArmaments.description>
+  <!-- EN: powder keg hunter's apparel -->
+  <PowderkegApparels.label>powder keg hunter's apparel</PowderkegApparels.label>
+  <!-- EN: Research a way to manufacture some apparels worn by the powder keg hunters. -->
+  <PowderkegApparels.description>Research a way to manufacture some apparels worn by the powder keg hunters.</PowderkegApparels.description>
+  <!-- EN: revolver armaments -->
+  <RevolverArmaments.label>revolver armaments</RevolverArmaments.label>
+  <!-- EN: Research a way to craft revolver-type firearms. -->
+  <RevolverArmaments.description>Research a way to craft revolver-type firearms.</RevolverArmaments.description>
+  <!-- EN: ripper blades -->
+  <RipperBlades.label>ripper blades</RipperBlades.label>
+  <!-- EN: Research a way to manufacture some deadly ripper-type melee weapons. -->
+  <RipperBlades.description>Research a way to manufacture some deadly ripper-type melee weapons.</RipperBlades.description>
+  <!-- EN: shadow blades -->
+  <ShadowBlades.label>shadow blades</ShadowBlades.label>
+  <!-- EN: Research a way to manufacture some melee weapons used by the shadow walkers. -->
+  <ShadowBlades.description>Research a way to manufacture some melee weapons used by the shadow walkers.</ShadowBlades.description>
+  <!-- EN: shadow walkers apparel -->
+  <ShadowWalkerApparels.label>shadow walkers apparel</ShadowWalkerApparels.label>
+  <!-- EN: Research a way to manufacture apparels worn by the mysterious shadow walkers. -->
+  <ShadowWalkerApparels.description>Research a way to manufacture apparels worn by the mysterious shadow walkers.</ShadowWalkerApparels.description>
+</LanguageData>

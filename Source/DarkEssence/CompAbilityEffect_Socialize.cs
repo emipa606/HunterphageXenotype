@@ -9,7 +9,7 @@ public class CompAbilityEffect_Socialize : CompAbilityEffect_WithDest
 
     public override bool HideTargetPawnTooltip => true;
 
-    public override TargetingParameters targetParams => new TargetingParameters
+    public override TargetingParameters targetParams => new()
     {
         canTargetSelf = true,
         canTargetBuildings = false,

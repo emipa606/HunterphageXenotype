@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: crushing aura -->
+  <AuraCrush.label>crushing aura</AuraCrush.label>
+  <!-- EN: aura slash -->
+  <AuraSlash.label>aura slash</AuraSlash.label>
+  <!-- EN: aura stab -->
+  <AuraStab.label>aura stab</AuraStab.label>
+  <!-- EN: blast stab -->
+  <BlastStab.label>blast stab</BlastStab.label>
+  <!-- EN: death impact -->
+  <DeathImpact.label>death impact</DeathImpact.label>
+  <!-- EN: heart seeker stab -->
+  <HeartSeekerStab.label>heart seeker stab</HeartSeekerStab.label>
+  <!-- EN: shadow edge slash -->
+  <ShadowEdgeSlash.label>shadow edge slash</ShadowEdgeSlash.label>
+  <!-- EN: shadow impact crush -->
+  <ShadowImpactCrush.label>shadow impact crush</ShadowImpactCrush.label>
+</LanguageData>

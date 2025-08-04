@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: craft tobacco in bulk -->
+  <Craft_Tobacco_Bulk.label>craft tobacco in bulk</Craft_Tobacco_Bulk.label>
+  <!-- EN: Craft 4 rolls of tobacco cigars -->
+  <Craft_Tobacco_Bulk.description>Craft 4 rolls of tobacco cigars</Craft_Tobacco_Bulk.description>
+  <!-- EN: Crafting tobacco cigars. -->
+  <Craft_Tobacco_Bulk.jobString>Crafting tobacco cigars.</Craft_Tobacco_Bulk.jobString>
+</LanguageData>

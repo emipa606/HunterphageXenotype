@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: steel elixir addiction -->
+  <SteelElixirAddiction.label>steel elixir addiction</SteelElixirAddiction.label>
+  <!-- EN: A chemical addiction to steel elixir. Long-term presence of steel elixir has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of steel elixir, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <SteelElixirAddiction.description>A chemical addiction to steel elixir. Long-term presence of steel elixir has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+
+Without regular doses of steel elixir, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</SteelElixirAddiction.description>
+  <!-- EN: withdrawal -->
+  <SteelElixirAddiction.stages.withdrawal.label>withdrawal</SteelElixirAddiction.stages.withdrawal.label>
+  <!-- EN: high on steel elixir -->
+  <SteelElixirHigh.label>high on steel elixir</SteelElixirHigh.label>
+  <!-- EN: An effect after drinking the steel elixir, granting increased damage resistance and immunity to fire. -->
+  <SteelElixirHigh.description>An effect after drinking the steel elixir, granting increased damage resistance and immunity to fire.</SteelElixirHigh.description>
+  <!-- EN: a steel elixir high -->
+  <SteelElixirHigh.labelNoun>a steel elixir high</SteelElixirHigh.labelNoun>
+  <!-- EN: steel elixir tolerance -->
+  <SteelElixirTolerance.label>steel elixir tolerance</SteelElixirTolerance.label>
+  <!-- EN: A built-up tolerance to steel elixir. The more severe this tolerance is, the more steel elixir it takes to get the same effect. -->
+  <SteelElixirTolerance.description>A built-up tolerance to steel elixir. The more severe this tolerance is, the more steel elixir it takes to get the same effect.</SteelElixirTolerance.description>
+  <!-- EN: small -->
+  <SteelElixirTolerance.stages.small.label>small</SteelElixirTolerance.stages.small.label>
+  <!-- EN: large -->
+  <SteelElixirTolerance.stages.large.label>large</SteelElixirTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SteelElixirTolerance.stages.massive.label>massive</SteelElixirTolerance.stages.massive.label>
+  <!-- EN: tobacco addiction -->
+  <TobaccoAddiction.label>tobacco addiction</TobaccoAddiction.label>
+  <!-- EN: Addiction to tobacco. -->
+  <TobaccoAddiction.description>Addiction to tobacco.</TobaccoAddiction.description>
+  <!-- EN: withdrawal -->
+  <TobaccoAddiction.stages.withdrawal.label>withdrawal</TobaccoAddiction.stages.withdrawal.label>
+  <!-- EN: smoked some tobacco leaves -->
+  <TobaccoHigh.label>smoked some tobacco leaves</TobaccoHigh.label>
+  <!-- EN: A side effect after smoking a tobacco pipe. -->
+  <TobaccoHigh.description>A side effect after smoking a tobacco pipe.</TobaccoHigh.description>
+  <!-- EN: a tobacco high -->
+  <TobaccoHigh.labelNoun>a tobacco high</TobaccoHigh.labelNoun>
+  <!-- EN: trolls blood elixir addiction -->
+  <TrollsBloodElixirAddiction.label>trolls blood elixir addiction</TrollsBloodElixirAddiction.label>
+  <!-- EN: A chemical addiction to trolls blood elixir. Long-term presence of trolls blood elixir has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of trolls blood elixir, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <TrollsBloodElixirAddiction.description>A chemical addiction to trolls blood elixir. Long-term presence of trolls blood elixir has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+
+Without regular doses of trolls blood elixir, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</TrollsBloodElixirAddiction.description>
+  <!-- EN: withdrawal -->
+  <TrollsBloodElixirAddiction.stages.withdrawal.label>withdrawal</TrollsBloodElixirAddiction.stages.withdrawal.label>
+  <!-- EN: high on trolls blood elixir -->
+  <TrollsBloodElixirHigh.label>high on trolls blood elixir</TrollsBloodElixirHigh.label>
+  <!-- EN: An effect after drinking the trolls blood elixir, which can regenerate permanent and fatal wounds, and cure chronic illnesses instantaneously, although in exchange of increased hunger rate. -->
+  <TrollsBloodElixirHigh.description>An effect after drinking the trolls blood elixir, which can regenerate permanent and fatal wounds, and cure chronic illnesses instantaneously, although in exchange of increased hunger rate.</TrollsBloodElixirHigh.description>
+  <!-- EN: a trolls blood elixir high -->
+  <TrollsBloodElixirHigh.labelNoun>a trolls blood elixir high</TrollsBloodElixirHigh.labelNoun>
+  <!-- EN: trolls blood elixir tolerance -->
+  <TrollsBloodElixirTolerance.label>trolls blood elixir tolerance</TrollsBloodElixirTolerance.label>
+  <!-- EN: A built-up tolerance to trolls blood elixir. The more severe this tolerance is, the more trolls blood elixir it takes to get the same effect. -->
+  <TrollsBloodElixirTolerance.description>A built-up tolerance to trolls blood elixir. The more severe this tolerance is, the more trolls blood elixir it takes to get the same effect.</TrollsBloodElixirTolerance.description>
+  <!-- EN: small -->
+  <TrollsBloodElixirTolerance.stages.small.label>small</TrollsBloodElixirTolerance.stages.small.label>
+  <!-- EN: large -->
+  <TrollsBloodElixirTolerance.stages.large.label>large</TrollsBloodElixirTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <TrollsBloodElixirTolerance.stages.massive.label>massive</TrollsBloodElixirTolerance.stages.massive.label>
+</LanguageData>

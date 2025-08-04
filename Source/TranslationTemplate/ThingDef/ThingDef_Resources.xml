@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ballista bolts -->
+  <BallistaBolts.label>ballista bolts</BallistaBolts.label>
+  <!-- EN: A simple, yet very deadly, ammunition used in mannable ballista turrets. -->
+  <BallistaBolts.description>A simple, yet very deadly, ammunition used in mannable ballista turrets.</BallistaBolts.description>
+  <!-- EN: anti-armor cannon shell -->
+  <Bullet_Shell_AntiArmor.label>anti-armor cannon shell</Bullet_Shell_AntiArmor.label>
+  <!-- EN: high-explosive cannon shell -->
+  <Bullet_Shell_HighExCannon.label>high-explosive cannon shell</Bullet_Shell_HighExCannon.label>
+  <!-- EN: scroll of dwarves "Summon Automatons" -->
+  <Dwarven_SummonAutomatons.label>scroll of dwarves "Summon Automatons"</Dwarven_SummonAutomatons.label>
+  <!-- EN: An advanced dwarven device that can teach any pawn with a dark constitution gene the summon ballista ability. -->
+  <Dwarven_SummonAutomatons.description>An advanced dwarven device that can teach any pawn with a dark constitution gene the summon ballista ability.</Dwarven_SummonAutomatons.description>
+  <!-- EN: Use {0_label} -->
+  <Dwarven_SummonAutomatons.comps.CompUsableImplant.useLabel>Use {0_label}</Dwarven_SummonAutomatons.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of dwarves "Summon Ballista" -->
+  <Dwarven_SummonBallista.label>scroll of dwarves "Summon Ballista"</Dwarven_SummonBallista.label>
+  <!-- EN: An advanced dwarven device that can teach any pawn with a dark constitution gene the summon ballista ability. -->
+  <Dwarven_SummonBallista.description>An advanced dwarven device that can teach any pawn with a dark constitution gene the summon ballista ability.</Dwarven_SummonBallista.description>
+  <!-- EN: Use {0_label} -->
+  <Dwarven_SummonBallista.comps.CompUsableImplant.useLabel>Use {0_label}</Dwarven_SummonBallista.comps.CompUsableImplant.useLabel>
+  <!-- EN: gatling ammo box -->
+  <GatlingAmmoBox.label>gatling ammo box</GatlingAmmoBox.label>
+  <!-- EN: A metal box full of readily-made ammunition used in mannable gatling turrets.\n\nCaution! Very explosive! -->
+  <GatlingAmmoBox.description>A metal box full of readily-made ammunition used in mannable gatling turrets.
+
+Caution! Very explosive!</GatlingAmmoBox.description>
+  <!-- EN: scroll of shadows "Corrupt Chi" -->
+  <ScrollShadowWalker_CorruptChi.label>scroll of shadows "Corrupt Chi"</ScrollShadowWalker_CorruptChi.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the corrupt chi ability. -->
+  <ScrollShadowWalker_CorruptChi.description>An advanced archotech device that can teach any pawn with a dark constitution gene the corrupt chi ability.</ScrollShadowWalker_CorruptChi.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_CorruptChi.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_CorruptChi.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Crow's Leap" -->
+  <ScrollShadowWalker_CrowsLeap.label>scroll of shadows "Crow's Leap"</ScrollShadowWalker_CrowsLeap.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the crow's leap ability. -->
+  <ScrollShadowWalker_CrowsLeap.description>An advanced archotech device that can teach any pawn with a dark constitution gene the crow's leap ability.</ScrollShadowWalker_CrowsLeap.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_CrowsLeap.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_CrowsLeap.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Dark Knife" -->
+  <ScrollShadowWalker_DarkKnife.label>scroll of shadows "Dark Knife"</ScrollShadowWalker_DarkKnife.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark knife ability. -->
+  <ScrollShadowWalker_DarkKnife.description>An advanced archotech device that can teach any pawn with a dark constitution gene the dark knife ability.</ScrollShadowWalker_DarkKnife.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_DarkKnife.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_DarkKnife.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Dark Mine" -->
+  <ScrollShadowWalker_DarkMine.label>scroll of shadows "Dark Mine"</ScrollShadowWalker_DarkMine.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark mine ability. -->
+  <ScrollShadowWalker_DarkMine.description>An advanced archotech device that can teach any pawn with a dark constitution gene the dark mine ability.</ScrollShadowWalker_DarkMine.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_DarkMine.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_DarkMine.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Dark Shuriken" -->
+  <ScrollShadowWalker_DarkShuriken.label>scroll of shadows "Dark Shuriken"</ScrollShadowWalker_DarkShuriken.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark shuriken ability. -->
+  <ScrollShadowWalker_DarkShuriken.description>An advanced archotech device that can teach any pawn with a dark constitution gene the dark shuriken ability.</ScrollShadowWalker_DarkShuriken.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_DarkShuriken.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_DarkShuriken.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Dark Spear" -->
+  <ScrollShadowWalker_DarkSpear.label>scroll of shadows "Dark Spear"</ScrollShadowWalker_DarkSpear.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark spear ability. -->
+  <ScrollShadowWalker_DarkSpear.description>An advanced archotech device that can teach any pawn with a dark constitution gene the dark spear ability.</ScrollShadowWalker_DarkSpear.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_DarkSpear.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_DarkSpear.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Phantom Of Death" -->
+  <ScrollShadowWalker_PhantomOfDeath.label>scroll of shadows "Phantom Of Death"</ScrollShadowWalker_PhantomOfDeath.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the phantom of death ability. -->
+  <ScrollShadowWalker_PhantomOfDeath.description>An advanced archotech device that can teach any pawn with a dark constitution gene the phantom of death ability.</ScrollShadowWalker_PhantomOfDeath.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_PhantomOfDeath.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_PhantomOfDeath.comps.CompUsableImplant.useLabel>
+  <!-- EN: scroll of shadows "Summon Decoy" -->
+  <ScrollShadowWalker_SummonDecoy.label>scroll of shadows "Summon Decoy"</ScrollShadowWalker_SummonDecoy.label>
+  <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the summon decoy ability. -->
+  <ScrollShadowWalker_SummonDecoy.description>An advanced archotech device that can teach any pawn with a dark constitution gene the summon decoy ability.</ScrollShadowWalker_SummonDecoy.description>
+  <!-- EN: Use {0_label} -->
+  <ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>Use {0_label}</ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>
+  <!-- EN: anti-armor cannon shell -->
+  <Shell_AntiArmorCannon.label>anti-armor cannon shell</Shell_AntiArmorCannon.label>
+  <!-- EN: A specially-grade cannon shell made by the hunters workshop. Although it deals less damage, it can inflict enemies under a 10.9 explosion radius with armor bane. -->
+  <Shell_AntiArmorCannon.description>A specially-grade cannon shell made by the hunters workshop. Although it deals less damage, it can inflict enemies under a 10.9 explosion radius with armor bane.</Shell_AntiArmorCannon.description>
+  <!-- EN: high-explosive cannon shell -->
+  <Shell_HighExplosiveCannon.label>high-explosive cannon shell</Shell_HighExplosiveCannon.label>
+  <!-- EN: An explosive shell used by the mannable cannon turret. -->
+  <Shell_HighExplosiveCannon.description>An explosive shell used by the mannable cannon turret.</Shell_HighExplosiveCannon.description>
+  <!-- EN: daedalus components -->
+  <SimpleComponent.label>daedalus components</SimpleComponent.label>
+  <!-- EN: A collection of gears and complicated mechanical components which are used to craft multiple equipments, and build wonderful low-tech contraptions. -->
+  <SimpleComponent.description>A collection of gears and complicated mechanical components which are used to craft multiple equipments, and build wonderful low-tech contraptions.</SimpleComponent.description>
+  <!-- EN: visceral solution -->
+  <VisceralSolution.label>visceral solution</VisceralSolution.label>
+  <!-- EN: A syrup-like substance made from brain matter. Exclusively manufactured from the hunter's workshop as a main ingredient for their combat potions. -->
+  <VisceralSolution.description>A syrup-like substance made from brain matter. Exclusively manufactured from the hunter's workshop as a main ingredient for their combat potions.</VisceralSolution.description>
+</LanguageData>

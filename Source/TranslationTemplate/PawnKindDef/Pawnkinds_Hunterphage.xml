@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wanderer -->
+  <Companions_Starter.label>wanderer</Companions_Starter.label>
+  <!-- EN: powder keg hunter -->
+  <Hunter_ArmoredPowderKeg.label>powder keg hunter</Hunter_ArmoredPowderKeg.label>
+  <!-- EN: powder keg heavy blade -->
+  <Hunter_ArmoredPowderKegMelee.label>powder keg heavy blade</Hunter_ArmoredPowderKegMelee.label>
+  <!-- EN: hunter -->
+  <Hunter_Basic.label>hunter</Hunter_Basic.label>
+  <!-- EN: hunter slasher -->
+  <Hunter_BasicMelee.label>hunter slasher</Hunter_BasicMelee.label>
+  <!-- EN: hunter bodyguard -->
+  <Hunter_Bodyguard.label>hunter bodyguard</Hunter_Bodyguard.label>
+  <!-- EN: elite hunter -->
+  <Hunter_Elite.label>elite hunter</Hunter_Elite.label>
+  <!-- EN: elite hunter bane blade -->
+  <Hunter_EliteMelee.label>elite hunter bane blade</Hunter_EliteMelee.label>
+  <!-- EN: intermediate hunter -->
+  <Hunter_Intermediate.label>intermediate hunter</Hunter_Intermediate.label>
+  <!-- EN: intermediate hunter marauder -->
+  <Hunter_IntermediateMelee.label>intermediate hunter marauder</Hunter_IntermediateMelee.label>
+  <!-- EN: covenant master -->
+  <Hunter_Leader.label>covenant master</Hunter_Leader.label>
+  <!-- EN: powder keg hunter -->
+  <Hunter_PowderKeg.label>powder keg hunter</Hunter_PowderKeg.label>
+  <!-- EN: merchant -->
+  <Hunter_Trader.label>merchant</Hunter_Trader.label>
+  <!-- EN: wanderer -->
+  <Hunterphage_Starter.label>wanderer</Hunterphage_Starter.label>
+  <!-- EN: shadow crow -->
+  <ShadowWalker_Elite.label>shadow crow</ShadowWalker_Elite.label>
+  <!-- EN: shadow walker initiate -->
+  <ShadowWalker_Initiate.label>shadow walker initiate</ShadowWalker_Initiate.label>
+  <!-- EN: shadow walker veteran -->
+  <ShadowWalker_Veteran.label>shadow walker veteran</ShadowWalker_Veteran.label>
+  <!-- EN: wanderer -->
+  <Wanderer.label>wanderer</Wanderer.label>
+</LanguageData>

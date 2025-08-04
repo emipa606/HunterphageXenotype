@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on steel elixir -->
+  <SteelElixirHigh.stages.high_on_steel_elixir.label>high on steel elixir</SteelElixirHigh.stages.high_on_steel_elixir.label>
+  <!-- EN: BLEHH!!! THIS TASTE LIKE SHIT!! -->
+  <SteelElixirHigh.stages.high_on_steel_elixir.description>BLEHH!!! THIS TASTE LIKE SHIT!!</SteelElixirHigh.stages.high_on_steel_elixir.description>
+  <!-- EN: steel elixir withdrawal -->
+  <SteelElixirWithdrawal.stages.steel_elixir_withdrawal.label>steel elixir withdrawal</SteelElixirWithdrawal.stages.steel_elixir_withdrawal.label>
+  <!-- EN: I don't feel so good. Though I don't want to drink that shit, but.....UGHHH!! -->
+  <SteelElixirWithdrawal.stages.steel_elixir_withdrawal.description>I don't feel so good. Though I don't want to drink that shit, but.....UGHHH!!</SteelElixirWithdrawal.stages.steel_elixir_withdrawal.description>
+  <!-- EN: smoked a tobacco cigars -->
+  <TobaccoHighThought.stages.smoked_a_tobacco_cigars.label>smoked a tobacco cigars</TobaccoHighThought.stages.smoked_a_tobacco_cigars.label>
+  <!-- EN: I can feel my senses heightened, it feels really good!. -->
+  <TobaccoHighThought.stages.smoked_a_tobacco_cigars.description>I can feel my senses heightened, it feels really good!.</TobaccoHighThought.stages.smoked_a_tobacco_cigars.description>
+  <!-- EN: tobacco withdrawal -->
+  <TobaccoWithdrawal.stages.tobacco_withdrawal.label>tobacco withdrawal</TobaccoWithdrawal.stages.tobacco_withdrawal.label>
+  <!-- EN: I need something to smoke, I NEED TOBACCO DAMN IT!! -->
+  <TobaccoWithdrawal.stages.tobacco_withdrawal.description>I need something to smoke, I NEED TOBACCO DAMN IT!!</TobaccoWithdrawal.stages.tobacco_withdrawal.description>
+  <!-- EN: high on trolls blood elixir -->
+  <TrollsBloodElixirHigh.stages.high_on_trolls_blood_elixir.label>high on trolls blood elixir</TrollsBloodElixirHigh.stages.high_on_trolls_blood_elixir.label>
+  <!-- EN: I feel refreshed! As if I'm being reborned! -->
+  <TrollsBloodElixirHigh.stages.high_on_trolls_blood_elixir.description>I feel refreshed! As if I'm being reborned!</TrollsBloodElixirHigh.stages.high_on_trolls_blood_elixir.description>
+  <!-- EN: trolls blood elixir withdrawal -->
+  <TrollsBloodElixirWithdrawal.stages.trolls_blood_elixir_withdrawal.label>trolls blood elixir withdrawal</TrollsBloodElixirWithdrawal.stages.trolls_blood_elixir_withdrawal.label>
+  <!-- EN: It feels as if every cell in my body are crying in agony! -->
+  <TrollsBloodElixirWithdrawal.stages.trolls_blood_elixir_withdrawal.description>It feels as if every cell in my body are crying in agony!</TrollsBloodElixirWithdrawal.stages.trolls_blood_elixir_withdrawal.description>
+</LanguageData>

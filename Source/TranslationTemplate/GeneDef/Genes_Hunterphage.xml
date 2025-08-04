@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blade heart -->
+  <Gene_Hunterphage_BladeHeart.label>blade heart</Gene_Hunterphage_BladeHeart.label>
+  <!-- EN: Carriers of this gene possess an invisible aura originating from their heart, which allows them to passively inflict aura damage in melee range. -->
+  <Gene_Hunterphage_BladeHeart.description>Carriers of this gene possess an invisible aura originating from their heart, which allows them to passively inflict aura damage in melee range.</Gene_Hunterphage_BladeHeart.description>
+  <!-- EN: casanova -->
+  <Gene_Hunterphage_Casanova.label>casanova</Gene_Hunterphage_Casanova.label>
+  <!-- EN: Carriers of this gene are born celebrities. With a near perfect face and slick tongue, they can easily move the masses, improve relations, gain better trade deals, and are more likely to land a lover compared to other unfortunate souls. -->
+  <Gene_Hunterphage_Casanova.description>Carriers of this gene are born celebrities. With a near perfect face and slick tongue, they can easily move the masses, improve relations, gain better trade deals, and are more likely to land a lover compared to other unfortunate souls.</Gene_Hunterphage_Casanova.description>
+  <!-- EN: casanova -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.0.symbol>casanova</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: silver tongue -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.1.symbol>silver tongue</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: celeb -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.2.symbol>celeb</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: good looking -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.3.symbol>good looking</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cute -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.4.symbol>cute</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: beauti -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.5.symbol>beauti</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: smooth -->
+  <Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.6.symbol>smooth</Gene_Hunterphage_Casanova.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: dark constitution -->
+  <Gene_Hunterphage_DarkConstitution.label>dark constitution</Gene_Hunterphage_DarkConstitution.label>
+  <!-- EN: Carriers of this gene possess an ideal constitution which grants additional capacities, stats, and damage resistance. It can also grant them the ability to learn other shadow walker abilities, including the rare and powerful ones. -->
+  <Gene_Hunterphage_DarkConstitution.description>Carriers of this gene possess an ideal constitution which grants additional capacities, stats, and damage resistance. It can also grant them the ability to learn other shadow walker abilities, including the rare and powerful ones.</Gene_Hunterphage_DarkConstitution.description>
+  <!-- EN: natural -->
+  <Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.0.symbol>natural</Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: martial -->
+  <Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.1.symbol>martial</Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: umbra -->
+  <Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.2.symbol>umbra</Gene_Hunterphage_DarkConstitution.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: constitution -->
+  <Gene_Hunterphage_DarkConstitution.symbolPack.suffixSymbols.0.symbol>constitution</Gene_Hunterphage_DarkConstitution.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: body -->
+  <Gene_Hunterphage_DarkConstitution.symbolPack.suffixSymbols.1.symbol>body</Gene_Hunterphage_DarkConstitution.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: hyper healing -->
+  <Gene_Hunterphage_HyperHealing.label>hyper healing</Gene_Hunterphage_HyperHealing.label>
+  <!-- EN: Carriers of this gene have hyper-sensitive regenerative cells. Upon recieving damage, the cells will quickly heal minor wounds, gives immunity to any permanent ailments, and if the carrier entered painshock, the entire body will enter an adrenaline state. -->
+  <Gene_Hunterphage_HyperHealing.description>Carriers of this gene have hyper-sensitive regenerative cells. Upon recieving damage, the cells will quickly heal minor wounds, gives immunity to any permanent ailments, and if the carrier entered painshock, the entire body will enter an adrenaline state.</Gene_Hunterphage_HyperHealing.description>
+  <!-- EN: gifted melee combatant -->
+  <Gene_Hunterphage_MeleeGifted.label>gifted melee combatant</Gene_Hunterphage_MeleeGifted.label>
+  <!-- EN: Carriers of this gene are innately powerful melee combatants. Their muscles were greatly enhanced through the means of genetic tampering, allowing them to become incredibly brutal and refined in their melee swings, all while becoming highly sensitive against their enemy's melee strikes. -->
+  <Gene_Hunterphage_MeleeGifted.description>Carriers of this gene are innately powerful melee combatants. Their muscles were greatly enhanced through the means of genetic tampering, allowing them to become incredibly brutal and refined in their melee swings, all while becoming highly sensitive against their enemy's melee strikes.</Gene_Hunterphage_MeleeGifted.description>
+  <!-- EN: bash -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.0.symbol>bash</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slay -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.1.symbol>slay</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: strong -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.2.symbol>strong</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: strike -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.3.symbol>strike</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: hercu -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.4.symbol>hercu</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: achillo -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.5.symbol>achillo</Gene_Hunterphage_MeleeGifted.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: basher -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.0.symbol>basher</Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: striker -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.1.symbol>striker</Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: slayer -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.2.symbol>slayer</Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.2.symbol>
+  <!-- EN: leonidas -->
+  <Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.3.symbol>leonidas</Gene_Hunterphage_MeleeGifted.symbolPack.wholeNameSymbols.3.symbol>
+  <!-- EN: natural hunter -->
+  <Gene_Hunterphage_NaturalHunter.label>natural hunter</Gene_Hunterphage_NaturalHunter.label>
+  <!-- EN: Carriers of this gene are natural experts in ranged combat. Their reflexes and reaction time were geneticaly fine-tunned, which allows them to take down far-away targets with incredible speed and efficientcy. Their way of handling a ranged weapon lowers the chance of startling animals during the occational hunt. -->
+  <Gene_Hunterphage_NaturalHunter.description>Carriers of this gene are natural experts in ranged combat. Their reflexes and reaction time were geneticaly fine-tunned, which allows them to take down far-away targets with incredible speed and efficientcy. Their way of handling a ranged weapon lowers the chance of startling animals during the occational hunt.</Gene_Hunterphage_NaturalHunter.description>
+  <!-- EN: shooter -->
+  <Gene_Hunterphage_NaturalHunter.symbolPack.prefixSymbols.0.symbol>shooter</Gene_Hunterphage_NaturalHunter.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sniper -->
+  <Gene_Hunterphage_NaturalHunter.symbolPack.prefixSymbols.1.symbol>sniper</Gene_Hunterphage_NaturalHunter.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: odessius -->
+  <Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.0.symbol>odessius</Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: marksman -->
+  <Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.1.symbol>marksman</Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: eagle eye -->
+  <Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.2.symbol>eagle eye</Gene_Hunterphage_NaturalHunter.symbolPack.wholeNameSymbols.2.symbol>
+  <!-- EN: natural killer -->
+  <Gene_Hunterphage_NaturalKiller.label>natural killer</Gene_Hunterphage_NaturalKiller.label>
+  <!-- EN: Carriers of this gene are a natural in ending someone's life. They revel in the act of killing, and gets irritated when they never get to end someone in a long time. -->
+  <Gene_Hunterphage_NaturalKiller.description>Carriers of this gene are a natural in ending someone's life. They revel in the act of killing, and gets irritated when they never get to end someone in a long time.</Gene_Hunterphage_NaturalKiller.description>
+  <!-- EN: killer star -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.0.symbol>killer star</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: murder -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.1.symbol>murder</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: death -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.2.symbol>death</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: kill -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.3.symbol>kill</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: slay -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.4.symbol>slay</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: snuff -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.5.symbol>snuff</Gene_Hunterphage_NaturalKiller.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: vore -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.0.symbol>vore</Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: killer -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.1.symbol>killer</Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: slayer -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.2.symbol>slayer</Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: doom bringer -->
+  <Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.3.symbol>doom bringer</Gene_Hunterphage_NaturalKiller.symbolPack.suffixSymbols.3.symbol>
+  <!-- EN: shadow walker -->
+  <Gene_Hunterphage_ShadowWalker.label>shadow walker</Gene_Hunterphage_ShadowWalker.label>
+  <!-- EN: Carriers of this gene are able to wield abilities of a shadow walker along with permanent buffs and increased stats. Abilities from this gene are innately integrated, already present during its conception, and it possess great potential that even the mechanoids deemed its existance a threat. Such a gene are just one of the wonders the old empire are able to produce. -->
+  <Gene_Hunterphage_ShadowWalker.description>Carriers of this gene are able to wield abilities of a shadow walker along with permanent buffs and increased stats. Abilities from this gene are innately integrated, already present during its conception, and it possess great potential that even the mechanoids deemed its existance a threat. Such a gene are just one of the wonders the old empire are able to produce.</Gene_Hunterphage_ShadowWalker.description>
+  <!-- EN: dark -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.prefixSymbols.0.symbol>dark</Gene_Hunterphage_ShadowWalker.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: miasmic -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.prefixSymbols.1.symbol>miasmic</Gene_Hunterphage_ShadowWalker.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: warrior -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.0.symbol>warrior</Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: hunter -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.1.symbol>hunter</Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: ninja -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.2.symbol>ninja</Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: crusader -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.3.symbol>crusader</Gene_Hunterphage_ShadowWalker.symbolPack.suffixSymbols.3.symbol>
+  <!-- EN: dark walker -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.wholeNameSymbols.0.symbol>dark walker</Gene_Hunterphage_ShadowWalker.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: night walker -->
+  <Gene_Hunterphage_ShadowWalker.symbolPack.wholeNameSymbols.1.symbol>night walker</Gene_Hunterphage_ShadowWalker.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: tobacco dependency -->
+  <Gene_Hunterphage_TobaccoDependency.label>tobacco dependency</Gene_Hunterphage_TobaccoDependency.label>
+  <!-- EN: Carriers of this gene has a life-long dependency in smoking tobacco cigars. Hunterphages, in particular, are required to smoke tobacco in order to keep their muderous tendencies in check, and it remained that way even after they were created a long time ago. -->
+  <Gene_Hunterphage_TobaccoDependency.description>Carriers of this gene has a life-long dependency in smoking tobacco cigars. Hunterphages, in particular, are required to smoke tobacco in order to keep their muderous tendencies in check, and it remained that way even after they were created a long time ago.</Gene_Hunterphage_TobaccoDependency.description>
+</LanguageData>

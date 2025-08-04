@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dark chi -->
+  <DarkChiProj.label>dark chi</DarkChiProj.label>
+  <!-- EN: dark knife -->
+  <DarkKnife.label>dark knife</DarkKnife.label>
+  <!-- EN: dark spear -->
+  <DarkSpear.label>dark spear</DarkSpear.label>
+  <!-- EN: Mote -->
+  <Mote_CrowFeathers.label>Mote</Mote_CrowFeathers.label>
+  <!-- EN: Mote -->
+  <Mote_DarkChi_Charge.label>Mote</Mote_DarkChi_Charge.label>
+  <!-- EN: Mote -->
+  <Mote_PurpleSparkBig.label>Mote</Mote_PurpleSparkBig.label>
+  <!-- EN: shuriken -->
+  <Shurikenz.label>shuriken</Shurikenz.label>
+  <!-- EN: withering shuriken -->
+  <WitheringBlastz.label>withering shuriken</WitheringBlastz.label>
+</LanguageData>

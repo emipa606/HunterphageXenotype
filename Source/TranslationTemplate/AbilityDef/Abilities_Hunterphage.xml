@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: corrupt chi -->
+  <CorruptChi.label>corrupt chi</CorruptChi.label>
+  <!-- EN: Throw a ball full of corrupt chi against a singular target. Very effective against boss-like entities. -->
+  <CorruptChi.description>Throw a ball full of corrupt chi against a singular target. Very effective against boss-like entities.</CorruptChi.description>
+  <!-- EN: crows leap -->
+  <CrowsLeap.label>crows leap</CrowsLeap.label>
+  <!-- EN: Leap through distant location, exuding crow feathers and dark energy during propultion. -->
+  <CrowsLeap.description>Leap through distant location, exuding crow feathers and dark energy during propultion.</CrowsLeap.description>
+  <!-- EN: gravity jump -->
+  <CrowsLeap.verbProperties.label>gravity jump</CrowsLeap.verbProperties.label>
+  <!-- EN: dark knife -->
+  <DarkKnife.label>dark knife</DarkKnife.label>
+  <!-- EN: Throw a dangerously sharp knife against a singular distant enemy, inflicting armor bane upon impact. -->
+  <DarkKnife.description>Throw a dangerously sharp knife against a singular distant enemy, inflicting armor bane upon impact.</DarkKnife.description>
+  <!-- EN: dark shuriken -->
+  <DarkShuriken.label>dark shuriken</DarkShuriken.label>
+  <!-- EN: Throw a big shuriken that explodes upon impact, where it can take out groups of enemies and weakens them if they survived the blast. -->
+  <DarkShuriken.description>Throw a big shuriken that explodes upon impact, where it can take out groups of enemies and weakens them if they survived the blast.</DarkShuriken.description>
+  <!-- EN: dark spear -->
+  <DarkSpear.label>dark spear</DarkSpear.label>
+  <!-- EN: Throw a dangerously sharp spear against a singular distant enemy. -->
+  <DarkSpear.description>Throw a dangerously sharp spear against a singular distant enemy.</DarkSpear.description>
+  <!-- EN: phantom of death -->
+  <PhantomOfDeath.label>phantom of death</PhantomOfDeath.label>
+  <!-- EN: Shroud yourself with the essence of death, granting you a passive ability of inflicting instant death damage on melee hit. -->
+  <PhantomOfDeath.description>Shroud yourself with the essence of death, granting you a passive ability of inflicting instant death damage on melee hit.</PhantomOfDeath.description>
+  <!-- EN: shadow cloak -->
+  <ShadowCloak.label>shadow cloak</ShadowCloak.label>
+  <!-- EN: Render yourself invisible, while boosting your melee potential. -->
+  <ShadowCloak.description>Render yourself invisible, while boosting your melee potential.</ShadowCloak.description>
+  <!-- EN: shuriken throw -->
+  <Shuriken.label>shuriken throw</Shuriken.label>
+  <!-- EN: Throw a dangerously sharp shuriken on a distant enemy. -->
+  <Shuriken.description>Throw a dangerously sharp shuriken on a distant enemy.</Shuriken.description>
+  <!-- EN: socialize -->
+  <Socialize.label>socialize</Socialize.label>
+  <!-- EN: Use your good looks and silver tongue to improve their opinion on you. -->
+  <Socialize.description>Use your good looks and silver tongue to improve their opinion on you.</Socialize.description>
+  <!-- EN: summon automatons -->
+  <SummonAutomatons.label>summon automatons</SummonAutomatons.label>
+  <!-- EN: Summon automaton soldiers directly at the enemy to fight alongside you. Must be target at an enemy pawn. -->
+  <SummonAutomatons.description>Summon automaton soldiers directly at the enemy to fight alongside you. Must be target at an enemy pawn.</SummonAutomatons.description>
+  <!-- EN: summon ballista -->
+  <SummonBallista.label>summon ballista</SummonBallista.label>
+  <!-- EN: Summon a ballista turret that can provide cover fire for you. -->
+  <SummonBallista.description>Summon a ballista turret that can provide cover fire for you.</SummonBallista.description>
+  <!-- EN: summon dark mine -->
+  <SummonDarkMine.label>summon dark mine</SummonDarkMine.label>
+  <!-- EN: Summon a dark mine rune in medium distance, which explodes when triggered. -->
+  <SummonDarkMine.description>Summon a dark mine rune in medium distance, which explodes when triggered.</SummonDarkMine.description>
+  <!-- EN: summon decoy -->
+  <SummonDecoy.label>summon decoy</SummonDecoy.label>
+  <!-- EN: Summon an annoying decoy that draws the aggro of multiple enemies, where upon destruction, the dummy will explode. -->
+  <SummonDecoy.description>Summon an annoying decoy that draws the aggro of multiple enemies, where upon destruction, the dummy will explode.</SummonDecoy.description>
+</LanguageData>

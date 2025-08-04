@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on adrenaline -->
+  <AdrenalineHigh.label>high on adrenaline</AdrenalineHigh.label>
+  <!-- EN: Bursts of chemicals are coursing in the bloodstream. Eliminating all pain, reduce bleeding, and increase movement and healing speed. -->
+  <AdrenalineHigh.description>Bursts of chemicals are coursing in the bloodstream. Eliminating all pain, reduce bleeding, and increase movement and healing speed.</AdrenalineHigh.description>
+  <!-- EN: an adrenaline high -->
+  <AdrenalineHigh.labelNoun>an adrenaline high</AdrenalineHigh.labelNoun>
+  <!-- EN: armor bane -->
+  <ArmorBaneDamage.label>armor bane</ArmorBaneDamage.label>
+  <!-- EN: An armor bane. -->
+  <ArmorBaneDamage.description>An armor bane.</ArmorBaneDamage.description>
+  <!-- EN: armor bane scar -->
+  <ArmorBaneDamage.comps.HediffComp_GetsPermanent.permanentLabel>armor bane scar</ArmorBaneDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Corroded off -->
+  <ArmorBaneDamage.injuryProps.destroyedLabel>Corroded off</ArmorBaneDamage.injuryProps.destroyedLabel>
+  <!-- EN: Corroded away -->
+  <ArmorBaneDamage.injuryProps.destroyedOutLabel>Corroded away</ArmorBaneDamage.injuryProps.destroyedOutLabel>
+  <!-- EN: armor bane -->
+  <ArmorBaneDamage.labelNoun>armor bane</ArmorBaneDamage.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ArmorBaneDamage.labelNounPretty>{0} in the {1}</ArmorBaneDamage.labelNounPretty>
+  <!-- EN: blade heart -->
+  <BladeHeartDicipline.label>blade heart</BladeHeartDicipline.label>
+  <!-- EN: A powerful condition that allows a carrier to inflict aura damage, while having the chance to inflict armor bane when hitting the armor. -->
+  <BladeHeartDicipline.description>A powerful condition that allows a carrier to inflict aura damage, while having the chance to inflict armor bane when hitting the armor.</BladeHeartDicipline.description>
+  <!-- EN: aura impact -->
+  <BladeHeartDicipline.comps.HediffComp_VerbGiver.tools.aura_impact.label>aura impact</BladeHeartDicipline.comps.HediffComp_VerbGiver.tools.aura_impact.label>
+  <!-- EN: chi corruption -->
+  <ChiCorruption.label>chi corruption</ChiCorruption.label>
+  <!-- EN: A vile energy that can take hold of any sentient beings, be it humanoids or machines, where it can slowly weaken them and slowly inflict damage over time. All of this was possible by allowing the corrupted chi to rampage violently inside the target without regards of their well being. -->
+  <ChiCorruption.description>A vile energy that can take hold of any sentient beings, be it humanoids or machines, where it can slowly weaken them and slowly inflict damage over time. All of this was possible by allowing the corrupted chi to rampage violently inside the target without regards of their well being.</ChiCorruption.description>
+  <!-- EN: minor -->
+  <ChiCorruption.stages.minor.label>minor</ChiCorruption.stages.minor.label>
+  <!-- EN: moderate -->
+  <ChiCorruption.stages.moderate.label>moderate</ChiCorruption.stages.moderate.label>
+  <!-- EN: major -->
+  <ChiCorruption.stages.major.label>major</ChiCorruption.stages.major.label>
+  <!-- EN: serious -->
+  <ChiCorruption.stages.serious.label>serious</ChiCorruption.stages.serious.label>
+  <!-- EN: corrosive acid -->
+  <CorrosiveAcid.label>corrosive acid</CorrosiveAcid.label>
+  <!-- EN: A lethal solution that slowly eats away at any target, while lowering their move speed and manipulation over time. -->
+  <CorrosiveAcid.description>A lethal solution that slowly eats away at any target, while lowering their move speed and manipulation over time.</CorrosiveAcid.description>
+  <!-- EN: minor -->
+  <CorrosiveAcid.stages.minor.label>minor</CorrosiveAcid.stages.minor.label>
+  <!-- EN: moderate -->
+  <CorrosiveAcid.stages.moderate.label>moderate</CorrosiveAcid.stages.moderate.label>
+  <!-- EN: major -->
+  <CorrosiveAcid.stages.major.label>major</CorrosiveAcid.stages.major.label>
+  <!-- EN: corrosive damage -->
+  <CorrosiveDamage.label>corrosive damage</CorrosiveDamage.label>
+  <!-- EN: A severe injury caused by corrosive acid. -->
+  <CorrosiveDamage.description>A severe injury caused by corrosive acid.</CorrosiveDamage.description>
+  <!-- EN: acid scar -->
+  <CorrosiveDamage.comps.HediffComp_GetsPermanent.permanentLabel>acid scar</CorrosiveDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to corrosive acid -->
+  <CorrosiveDamage.injuryProps.destroyedLabel>Lost to corrosive acid</CorrosiveDamage.injuryProps.destroyedLabel>
+  <!-- EN: Lost to corrosive acid -->
+  <CorrosiveDamage.injuryProps.destroyedOutLabel>Lost to corrosive acid</CorrosiveDamage.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <CorrosiveDamage.labelNounPretty>{0} in the {1}</CorrosiveDamage.labelNounPretty>
+  <!-- EN: corrupt chi -->
+  <CorruptChi.label>corrupt chi</CorruptChi.label>
+  <!-- EN: A severe injury caused by corrupted chi. -->
+  <CorruptChi.description>A severe injury caused by corrupted chi.</CorruptChi.description>
+  <!-- EN: corrupt chi scar -->
+  <CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>corrupt chi scar</CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to rampaging chi -->
+  <CorruptChi.injuryProps.destroyedLabel>Lost to rampaging chi</CorruptChi.injuryProps.destroyedLabel>
+  <!-- EN: Lost to rampaging chi -->
+  <CorruptChi.injuryProps.destroyedOutLabel>Lost to rampaging chi</CorruptChi.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <CorruptChi.labelNounPretty>{0} in the {1}</CorruptChi.labelNounPretty>
+  <!-- EN: Crow Feathered Hood -->
+  <CrowFeatheredHood.label>Crow Feathered Hood</CrowFeatheredHood.label>
+  <!-- EN: Some effects after wearing a crow feathered hood. -->
+  <CrowFeatheredHood.description>Some effects after wearing a crow feathered hood.</CrowFeatheredHood.description>
+  <!-- EN: dark constitution -->
+  <DarkConstitution.label>dark constitution</DarkConstitution.label>
+  <!-- EN: A natural condition only present from hunterphages. -->
+  <DarkConstitution.description>A natural condition only present from hunterphages.</DarkConstitution.description>
+  <!-- EN: heat armor down -->
+  <FireArmorBane.label>heat armor down</FireArmorBane.label>
+  <!-- EN: A fire vulnerability. -->
+  <FireArmorBane.description>A fire vulnerability.</FireArmorBane.description>
+  <!-- EN: severe burn scar -->
+  <FireArmorBane.comps.HediffComp_GetsPermanent.permanentLabel>severe burn scar</FireArmorBane.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <FireArmorBane.injuryProps.destroyedLabel>Burned off</FireArmorBane.injuryProps.destroyedLabel>
+  <!-- EN: Burned away -->
+  <FireArmorBane.injuryProps.destroyedOutLabel>Burned away</FireArmorBane.injuryProps.destroyedOutLabel>
+  <!-- EN: heat armor bane -->
+  <FireArmorBane.labelNoun>heat armor bane</FireArmorBane.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <FireArmorBane.labelNounPretty>{0} in the {1}</FireArmorBane.labelNounPretty>
+  <!-- EN: hyper-regenerative -->
+  <HyperRegenerative.label>hyper-regenerative</HyperRegenerative.label>
+  <!-- EN: An innate ability that regenerates wounds incredibly fast. -->
+  <HyperRegenerative.description>An innate ability that regenerates wounds incredibly fast.</HyperRegenerative.description>
+  <!-- EN: Instant kill -->
+  <InstantDeath.label>Instant kill</InstantDeath.label>
+  <!-- EN: Death. -->
+  <InstantDeath.description>Death.</InstantDeath.description>
+  <!-- EN: Phantom Hood -->
+  <PhantomHood.label>Phantom Hood</PhantomHood.label>
+  <!-- EN: Some effects after wearing a phantom hood. -->
+  <PhantomHood.description>Some effects after wearing a phantom hood.</PhantomHood.description>
+  <!-- EN: phantom of death -->
+  <PhantomOfDeath.label>phantom of death</PhantomOfDeath.label>
+  <!-- EN: A powerful aura containing the essence of death. -->
+  <PhantomOfDeath.description>A powerful aura containing the essence of death.</PhantomOfDeath.description>
+  <!-- EN: death impact -->
+  <PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>death impact</PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>
+  <!-- EN: Rogue Hood -->
+  <RogueHood.label>Rogue Hood</RogueHood.label>
+  <!-- EN: Some effects after wearing a rogue hood. -->
+  <RogueHood.description>Some effects after wearing a rogue hood.</RogueHood.description>
+  <!-- EN: shadow walker cloak -->
+  <ShadowCloakz.label>shadow walker cloak</ShadowCloakz.label>
+  <!-- EN: A technique that renders the user invisible, all while boosting melee damage significantly. -->
+  <ShadowCloakz.description>A technique that renders the user invisible, all while boosting melee damage significantly.</ShadowCloakz.description>
+  <!-- EN: Shadow Guards -->
+  <ShadowGuards.label>Shadow Guards</ShadowGuards.label>
+  <!-- EN: Some effects after wearing a pair of shadow guards. -->
+  <ShadowGuards.description>Some effects after wearing a pair of shadow guards.</ShadowGuards.description>
+  <!-- EN: Shadow Stubs -->
+  <ShadowStubs.label>Shadow Stubs</ShadowStubs.label>
+  <!-- EN: Some effects after wearing a pair of shadow stubs. -->
+  <ShadowStubs.description>Some effects after wearing a pair of shadow stubs.</ShadowStubs.description>
+  <!-- EN: Shadow Walker Coat -->
+  <ShadowWalkerCoat.label>Shadow Walker Coat</ShadowWalkerCoat.label>
+  <!-- EN: Some effects after wearing a shadow walker coat. -->
+  <ShadowWalkerCoat.description>Some effects after wearing a shadow walker coat.</ShadowWalkerCoat.description>
+  <!-- EN: Shadow Walker Feathered Coat -->
+  <ShadowWalkerFeatheredCoat.label>Shadow Walker Feathered Coat</ShadowWalkerFeatheredCoat.label>
+  <!-- EN: Some effects after wearing a shadow walker feathered coat. -->
+  <ShadowWalkerFeatheredCoat.description>Some effects after wearing a shadow walker feathered coat.</ShadowWalkerFeatheredCoat.description>
+  <!-- EN: socialize -->
+  <Socialize.label>socialize</Socialize.label>
+  <!-- EN: Natural effects during socializations. -->
+  <Socialize.description>Natural effects during socializations.</Socialize.description>
+  <!-- EN: for -->
+  <Socialize.targetPrefix>for</Socialize.targetPrefix>
+  <!-- EN: Stake Driver Gloves -->
+  <StakeDriverGloves.label>Stake Driver Gloves</StakeDriverGloves.label>
+  <!-- EN: Some effects after wearing a pair of stake driver gloves. -->
+  <StakeDriverGloves.description>Some effects after wearing a pair of stake driver gloves.</StakeDriverGloves.description>
+  <!-- EN: stake driver -->
+  <StakeDriverGloves.comps.HediffComp_VerbGiver.tools.stake_driver.label>stake driver</StakeDriverGloves.comps.HediffComp_VerbGiver.tools.stake_driver.label>
+  <!-- EN: wither -->
+  <WitheringDamage.label>wither</WitheringDamage.label>
+  <!-- EN: An withering damage. -->
+  <WitheringDamage.description>An withering damage.</WitheringDamage.description>
+  <!-- EN: withered scar -->
+  <WitheringDamage.comps.HediffComp_GetsPermanent.permanentLabel>withered scar</WitheringDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Withered off -->
+  <WitheringDamage.injuryProps.destroyedLabel>Withered off</WitheringDamage.injuryProps.destroyedLabel>
+  <!-- EN: Withered away -->
+  <WitheringDamage.injuryProps.destroyedOutLabel>Withered away</WitheringDamage.injuryProps.destroyedOutLabel>
+  <!-- EN: wither -->
+  <WitheringDamage.labelNoun>wither</WitheringDamage.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <WitheringDamage.labelNounPretty>{0} in the {1}</WitheringDamage.labelNounPretty>
+</LanguageData>

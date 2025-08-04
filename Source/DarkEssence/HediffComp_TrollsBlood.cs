@@ -28,11 +28,11 @@ public class HediffComp_TrollsBlood : HediffComp
             return;
         }
 
-        TryHealRandomPermanentWound(Pawn, parent.LabelCap);
+        TryHealRandomPermanentWound(Pawn);
         ResetTicksToHeal();
     }
 
-    public static void TryHealRandomPermanentWound(Pawn pawn, string cause)
+    private static void TryHealRandomPermanentWound(Pawn pawn)
     {
         if (!pawn.health.hediffSet.hediffs.Where(hd => hd.IsPermanent() || hd.def.chronic || hd.def.displayWound)
                 .TryRandomElement(out var result))

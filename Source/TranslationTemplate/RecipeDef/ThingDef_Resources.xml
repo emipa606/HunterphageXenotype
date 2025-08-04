@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: craft gatling turret ammunition -->
+  <Craft_GatlingAmmunition_Bulk.label>craft gatling turret ammunition</Craft_GatlingAmmunition_Bulk.label>
+  <!-- EN: Craft 50 rounds of ammunition for the mannable gatling turret. -->
+  <Craft_GatlingAmmunition_Bulk.description>Craft 50 rounds of ammunition for the mannable gatling turret.</Craft_GatlingAmmunition_Bulk.description>
+  <!-- EN: Crafting ammunition. -->
+  <Craft_GatlingAmmunition_Bulk.jobString>Crafting ammunition.</Craft_GatlingAmmunition_Bulk.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ballista bolt -->
+  <Bullet_BallistaTurret.label>ballista bolt</Bullet_BallistaTurret.label>
+  <!-- EN: dark landmine rune -->
+  <DarkLandMinez.label>dark landmine rune</DarkLandMinez.label>
+  <!-- EN: An anti-personel land mine made of dark essence. Can disappear over time. -->
+  <DarkLandMinez.description>An anti-personel land mine made of dark essence. Can disappear over time.</DarkLandMinez.description>
+  <!-- EN: ballista turret gun -->
+  <Gun_Ballista.label>ballista turret gun</Gun_Ballista.label>
+  <!-- EN: A simple automatic ballista made to be mounted on a turret. -->
+  <Gun_Ballista.description>A simple automatic ballista made to be mounted on a turret.</Gun_Ballista.description>
+  <!-- EN: ballista turret gun -->
+  <Gun_Ballista.verbs.Verb_Shoot.label>ballista turret gun</Gun_Ballista.verbs.Verb_Shoot.label>
+  <!-- EN: blunderbuss turret gun -->
+  <Gun_Dummy_Blunderbuss.label>blunderbuss turret gun</Gun_Dummy_Blunderbuss.label>
+  <!-- EN: A simple blunderbuss weapon made to be mounted on a turret. -->
+  <Gun_Dummy_Blunderbuss.description>A simple blunderbuss weapon made to be mounted on a turret.</Gun_Dummy_Blunderbuss.description>
+  <!-- EN: blunderbuss turret gun -->
+  <Gun_Dummy_Blunderbuss.verbs.Verb_Shoot.label>blunderbuss turret gun</Gun_Dummy_Blunderbuss.verbs.Verb_Shoot.label>
+  <!-- EN: Randy Random turret dummy -->
+  <Turret_Randy.label>Randy Random turret dummy</Turret_Randy.label>
+  <!-- EN: A dummy of the most annoying storyteller in existence. Can disappear over time. -->
+  <Turret_Randy.description>A dummy of the most annoying storyteller in existence. Can disappear over time.</Turret_Randy.description>
+  <!-- EN: self-powered ballista turret -->
+  <Turret_SelfPoweredBallistaTurret.label>self-powered ballista turret</Turret_SelfPoweredBallistaTurret.label>
+  <!-- EN: An ancient ballista turret. Appears to be dwarven in nature and design. Can disappear over time. -->
+  <Turret_SelfPoweredBallistaTurret.description>An ancient ballista turret. Appears to be dwarven in nature and design. Can disappear over time.</Turret_SelfPoweredBallistaTurret.description>
+</LanguageData>

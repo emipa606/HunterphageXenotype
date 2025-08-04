@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: The Hunterphage -->
+  <Hunterphage.label>The Hunterphage</Hunterphage.label>
+  <!-- EN: You are a hunterphage that have declared independence, and wished to separate from the covenant and start a new life somewhere on the rim. Although the hunters covenant does encourage independence, and encourage them to choose a path that they want to take, the covenant have approved of your independence. But in exchange, you are to start from the very bottom with only a few supplies and companions provided from your pocket, all of it to prove your capacity to survive and lead others against the horrors of the rim.\n\nNaturally, you have accepted their terms, geared-up, brought your companions with you, and prepared to venture to the open world. -->
+  <Hunterphage.description>You are a hunterphage that have declared independence, and wished to separate from the covenant and start a new life somewhere on the rim. Although the hunters covenant does encourage independence, and encourage them to choose a path that they want to take, the covenant have approved of your independence. But in exchange, you are to start from the very bottom with only a few supplies and companions provided from your pocket, all of it to prove your capacity to survive and lead others against the horrors of the rim.
+
+Naturally, you have accepted their terms, geared-up, brought your companions with you, and prepared to venture to the open world.</Hunterphage.description>
+  <!-- EN: You are a hunterphage that have declared independence, and wished to separate from the covenant and start a new life somewhere on the rim. Although the hunters covenant does encourage independence, and encourage them to choose a path that they want to take, the covenant have approved of your independence. But in exchange, you are to start from the very bottom with only a few supplies and companions provided from your pocket, all of it to prove your capacity to survive and lead others against the horrors of the rim.\n\nNaturally, you have accepted their terms, geared-up, brought your companions with you, and prepared to venture to the open world. -->
+  <Hunterphage.scenario.description>You are a hunterphage that have declared independence, and wished to separate from the covenant and start a new life somewhere on the rim. Although the hunters covenant does encourage independence, and encourage them to choose a path that they want to take, the covenant have approved of your independence. But in exchange, you are to start from the very bottom with only a few supplies and companions provided from your pocket, all of it to prove your capacity to survive and lead others against the horrors of the rim.
+
+Naturally, you have accepted their terms, geared-up, brought your companions with you, and prepared to venture to the open world.</Hunterphage.scenario.description>
+  <!-- EN: The Hunterphage -->
+  <Hunterphage.scenario.name>The Hunterphage</Hunterphage.scenario.name>
+  <!-- EN: Start with one adult or child hunterphage and two other colonist of any age. -->
+  <Hunterphage.scenario.parts.ConfigurePawnsXenotypes.customSummary>Start with one adult or child hunterphage and two other colonist of any age.</Hunterphage.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <!-- EN: non-baby hunterphage -->
+  <Hunterphage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>non-baby hunterphage</Hunterphage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
+  <!-- EN: You and your companions have arrived in your destination, deprived of any civilization and dominated by mother nature.\n\nThis is where your independent life starts, but for how long will you and your people gonna survive? Only time will tell... -->
+  <Hunterphage.scenario.parts.GameStartDialog.text>You and your companions have arrived in your destination, deprived of any civilization and dominated by mother nature.
+
+This is where your independent life starts, but for how long will you and your people gonna survive? Only time will tell...</Hunterphage.scenario.parts.GameStartDialog.text>
+  <!-- EN: One hunterphage, a baseliner, and a highmate, trying to survive the rim. -->
+  <Hunterphage.scenario.summary>One hunterphage, a baseliner, and a highmate, trying to survive the rim.</Hunterphage.scenario.summary>
+</LanguageData>

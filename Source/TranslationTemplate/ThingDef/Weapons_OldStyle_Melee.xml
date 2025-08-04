@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bastard sword -->
+  <MeleeWeapon_Hunterphage_BastardSword.label>bastard sword</MeleeWeapon_Hunterphage_BastardSword.label>
+  <!-- EN: Few of the longswords that was ever used in the hunters covenant, famed for its balanced sharpness and durability. -->
+  <MeleeWeapon_Hunterphage_BastardSword.description>Few of the longswords that was ever used in the hunters covenant, famed for its balanced sharpness and durability.</MeleeWeapon_Hunterphage_BastardSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>handle</MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_BastardSword.tools.point.label>point</MeleeWeapon_Hunterphage_BastardSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Hunterphage_BastardSword.tools.edge.label>edge</MeleeWeapon_Hunterphage_BastardSword.tools.edge.label>
+  <!-- EN: heavy saw blade -->
+  <MeleeWeapon_Hunterphage_HeavySawBlade.label>heavy saw blade</MeleeWeapon_Hunterphage_HeavySawBlade.label>
+  <!-- EN: A two-handed great chainsaw mainly used by the powder keg hunters. Its saw tips are so sharp that it can rip apart tough flesh and armor with ease, although with an exchange of slight movement penalty. -->
+  <MeleeWeapon_Hunterphage_HeavySawBlade.description>A two-handed great chainsaw mainly used by the powder keg hunters. Its saw tips are so sharp that it can rip apart tough flesh and armor with ease, although with an exchange of slight movement penalty.</MeleeWeapon_Hunterphage_HeavySawBlade.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_HeavySawBlade.tools.handle.label>handle</MeleeWeapon_Hunterphage_HeavySawBlade.tools.handle.label>
+  <!-- EN: saw blades -->
+  <MeleeWeapon_Hunterphage_HeavySawBlade.tools.saw_blades.label>saw blades</MeleeWeapon_Hunterphage_HeavySawBlade.tools.saw_blades.label>
+  <!-- EN: hunter's battle axe -->
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.label>hunter's battle axe</MeleeWeapon_Hunterphage_HuntersBattleAxe.label>
+  <!-- EN: A large battleaxe used by experienced hunters, can inflict even greater cutting damage than most conventional melee weapons on the rim. -->
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.description>A large battleaxe used by experienced hunters, can inflict even greater cutting damage than most conventional melee weapons on the rim.</MeleeWeapon_Hunterphage_HuntersBattleAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>handle</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>point</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>
+  <!-- EN: axe head -->
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.axe_head.label>axe head</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.axe_head.label>
+  <!-- EN: hunter's spear -->
+  <MeleeWeapon_Hunterphage_HunterSpear.label>hunter's spear</MeleeWeapon_Hunterphage_HunterSpear.label>
+  <!-- EN: A sizable hunting spear that was used to hunt thrumbos due to its base armor penetration, now used to impale foolish pirates and hostile outlanders. -->
+  <MeleeWeapon_Hunterphage_HunterSpear.description>A sizable hunting spear that was used to hunt thrumbos due to its base armor penetration, now used to impale foolish pirates and hostile outlanders.</MeleeWeapon_Hunterphage_HunterSpear.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>handle</MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>point</MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>
+  <!-- EN: hunting knife -->
+  <MeleeWeapon_Hunterphage_HuntingKnife.label>hunting knife</MeleeWeapon_Hunterphage_HuntingKnife.label>
+  <!-- EN: A basic melee weapon and one of the lightest one-handed weapon, which allows for faster melee hits. It can also boost the user's plant worker speed when equipped -->
+  <MeleeWeapon_Hunterphage_HuntingKnife.description>A basic melee weapon and one of the lightest one-handed weapon, which allows for faster melee hits. It can also boost the user's plant worker speed when equipped</MeleeWeapon_Hunterphage_HuntingKnife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>handle</MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>point</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>edge</MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>
+  <!-- EN: katana -->
+  <MeleeWeapon_Hunterphage_Katana.label>katana</MeleeWeapon_Hunterphage_Katana.label>
+  <!-- EN: An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use. -->
+  <MeleeWeapon_Hunterphage_Katana.description>An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use.</MeleeWeapon_Hunterphage_Katana.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_Katana.tools.handle.label>handle</MeleeWeapon_Hunterphage_Katana.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_Katana.tools.point.label>point</MeleeWeapon_Hunterphage_Katana.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Hunterphage_Katana.tools.edge.label>edge</MeleeWeapon_Hunterphage_Katana.tools.edge.label>
+  <!-- EN: ripper saber -->
+  <MeleeWeapon_Hunterphage_RipperSaber.label>ripper saber</MeleeWeapon_Hunterphage_RipperSaber.label>
+  <!-- EN: A one-handed saber with a modified ripper chainsaw. -->
+  <MeleeWeapon_Hunterphage_RipperSaber.description>A one-handed saber with a modified ripper chainsaw.</MeleeWeapon_Hunterphage_RipperSaber.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_RipperSaber.tools.handle.label>handle</MeleeWeapon_Hunterphage_RipperSaber.tools.handle.label>
+  <!-- EN: saw blades -->
+  <MeleeWeapon_Hunterphage_RipperSaber.tools.saw_blades.label>saw blades</MeleeWeapon_Hunterphage_RipperSaber.tools.saw_blades.label>
+  <!-- EN: ripper saw blade -->
+  <MeleeWeapon_Hunterphage_RipperSawBlade.label>ripper saw blade</MeleeWeapon_Hunterphage_RipperSawBlade.label>
+  <!-- EN: A two-handed saw blade with a giant circular saw. The pizza cutter "circular saw" is so heavy that it takes some effort to swing it, but with the saw revving-up and the power of centrifugal force, the ripper saw blade can deal heavy amounts of damage in a single swing. -->
+  <MeleeWeapon_Hunterphage_RipperSawBlade.description>A two-handed saw blade with a giant circular saw. The pizza cutter "circular saw" is so heavy that it takes some effort to swing it, but with the saw revving-up and the power of centrifugal force, the ripper saw blade can deal heavy amounts of damage in a single swing.</MeleeWeapon_Hunterphage_RipperSawBlade.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_RipperSawBlade.tools.handle.label>handle</MeleeWeapon_Hunterphage_RipperSawBlade.tools.handle.label>
+  <!-- EN: saw blades -->
+  <MeleeWeapon_Hunterphage_RipperSawBlade.tools.saw_blades.label>saw blades</MeleeWeapon_Hunterphage_RipperSawBlade.tools.saw_blades.label>
+  <!-- EN: pizza cutter -->
+  <MeleeWeapon_Hunterphage_RipperSawBlade.tools.pizza_cutter.label>pizza cutter</MeleeWeapon_Hunterphage_RipperSawBlade.tools.pizza_cutter.label>
+  <!-- EN: ripper sword -->
+  <MeleeWeapon_Hunterphage_RipperSword.label>ripper sword</MeleeWeapon_Hunterphage_RipperSword.label>
+  <!-- EN: A one-handed sword with a modified vibrating ripper saw blades. -->
+  <MeleeWeapon_Hunterphage_RipperSword.description>A one-handed sword with a modified vibrating ripper saw blades.</MeleeWeapon_Hunterphage_RipperSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_RipperSword.tools.handle.label>handle</MeleeWeapon_Hunterphage_RipperSword.tools.handle.label>
+  <!-- EN: saw blades -->
+  <MeleeWeapon_Hunterphage_RipperSword.tools.saw_blades.label>saw blades</MeleeWeapon_Hunterphage_RipperSword.tools.saw_blades.label>
+  <!-- EN: shadow bane -->
+  <MeleeWeapon_Hunterphage_ShadowBane.label>shadow bane</MeleeWeapon_Hunterphage_ShadowBane.label>
+  <!-- EN: One of the deadliest weapon wielded by elite shadow walkers. This weapon in particular is designed to take down powerful targets more efficiently than any other melee weapons in the hunters covenant, and all of this was possible due to its ability to inflict armor bane more frequently and superior armor penetration. -->
+  <MeleeWeapon_Hunterphage_ShadowBane.description>One of the deadliest weapon wielded by elite shadow walkers. This weapon in particular is designed to take down powerful targets more efficiently than any other melee weapons in the hunters covenant, and all of this was possible due to its ability to inflict armor bane more frequently and superior armor penetration.</MeleeWeapon_Hunterphage_ShadowBane.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>handle</MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>
+  <!-- EN: blade edge -->
+  <MeleeWeapon_Hunterphage_ShadowBane.tools.blade_edge.label>blade edge</MeleeWeapon_Hunterphage_ShadowBane.tools.blade_edge.label>
+  <!-- EN: shadow dagger -->
+  <MeleeWeapon_Hunterphage_ShadowDagger.label>shadow dagger</MeleeWeapon_Hunterphage_ShadowDagger.label>
+  <!-- EN: A one-handed dagger wielded by the shadow walkers. Although lacking in damage, it's light and possess better grip, which allows for faster melee hits and increased chance to inflict armor bane in every hit. -->
+  <MeleeWeapon_Hunterphage_ShadowDagger.description>A one-handed dagger wielded by the shadow walkers. Although lacking in damage, it's light and possess better grip, which allows for faster melee hits and increased chance to inflict armor bane in every hit.</MeleeWeapon_Hunterphage_ShadowDagger.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>handle</MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>
+  <!-- EN: blade edge -->
+  <MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>blade edge</MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>
+  <!-- EN: shadow saber -->
+  <MeleeWeapon_Hunterphage_ShadowSaber.label>shadow saber</MeleeWeapon_Hunterphage_ShadowSaber.label>
+  <!-- EN: A one-handed saber wielded by the shadow walkers. Both increadibly sharp and easy to use, which allows for more deadly and precise cuts, along with an added bonus of having a chance to inflict armor bane upon melee hit. -->
+  <MeleeWeapon_Hunterphage_ShadowSaber.description>A one-handed saber wielded by the shadow walkers. Both increadibly sharp and easy to use, which allows for more deadly and precise cuts, along with an added bonus of having a chance to inflict armor bane upon melee hit.</MeleeWeapon_Hunterphage_ShadowSaber.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>handle</MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>
+  <!-- EN: blade edge -->
+  <MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>blade edge</MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>
+  <!-- EN: short sword -->
+  <MeleeWeapon_Hunterphage_ShortSword.label>short sword</MeleeWeapon_Hunterphage_ShortSword.label>
+  <!-- EN: A well rounded melee weapon, perfect for stabbing and cutting. -->
+  <MeleeWeapon_Hunterphage_ShortSword.description>A well rounded melee weapon, perfect for stabbing and cutting.</MeleeWeapon_Hunterphage_ShortSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_ShortSword.tools.handle.label>handle</MeleeWeapon_Hunterphage_ShortSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_ShortSword.tools.point.label>point</MeleeWeapon_Hunterphage_ShortSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>edge</MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>
+  <!-- EN: zweihander -->
+  <MeleeWeapon_Hunterphage_Zweihander.label>zweihander</MeleeWeapon_Hunterphage_Zweihander.label>
+  <!-- EN: A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half. -->
+  <MeleeWeapon_Hunterphage_Zweihander.description>A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half.</MeleeWeapon_Hunterphage_Zweihander.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>handle</MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Hunterphage_Zweihander.tools.point.label>point</MeleeWeapon_Hunterphage_Zweihander.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>edge</MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>
+</LanguageData>

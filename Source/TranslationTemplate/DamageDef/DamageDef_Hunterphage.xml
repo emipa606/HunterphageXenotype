@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: {0} have died in the explosion. -->
+  <AntiArmor.deathMessage>{0} have died in the explosion.</AntiArmor.deathMessage>
+  <!-- EN: blast stab -->
+  <BlastStabz.label>blast stab</BlastStabz.label>
+  <!-- EN: {0} was blasted to death. -->
+  <BlastStabz.deathMessage>{0} was blasted to death.</BlastStabz.deathMessage>
+  <!-- EN: cut -->
+  <BloodLetter_Cut.label>cut</BloodLetter_Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <BloodLetter_Cut.deathMessage>{0} has been cut to death.</BloodLetter_Cut.deathMessage>
+  <!-- EN: corrosion -->
+  <Corrosion.label>corrosion</Corrosion.label>
+  <!-- EN: {0} has succumbed to corrosion. -->
+  <Corrosion.deathMessage>{0} has succumbed to corrosion.</Corrosion.deathMessage>
+  <!-- EN: corrosive damage -->
+  <CorrosiveDamage.label>corrosive damage</CorrosiveDamage.label>
+  <!-- EN: {0} has died from corrosive damage. -->
+  <CorrosiveDamage.deathMessage>{0} has died from corrosive damage.</CorrosiveDamage.deathMessage>
+  <!-- EN: corruption -->
+  <Corruption.label>corruption</Corruption.label>
+  <!-- EN: {0} has succumbed to corruption. -->
+  <Corruption.deathMessage>{0} has succumbed to corruption.</Corruption.deathMessage>
+  <!-- EN: critical hit -->
+  <CriticalHit.label>critical hit</CriticalHit.label>
+  <!-- EN: {0} has been shot to death. -->
+  <CriticalHit.deathMessage>{0} has been shot to death.</CriticalHit.deathMessage>
+  <!-- EN: {0} have died in the explosion. -->
+  <DarkBlast.deathMessage>{0} have died in the explosion.</DarkBlast.deathMessage>
+  <!-- EN: dark chi -->
+  <DarkChiDamage.label>dark chi</DarkChiDamage.label>
+  <!-- EN: {0} has died from dark chi. -->
+  <DarkChiDamage.deathMessage>{0} has died from dark chi.</DarkChiDamage.deathMessage>
+  <!-- EN: {0} have peaced-out. -->
+  <DarkKnifeDamage.deathMessage>{0} have peaced-out.</DarkKnifeDamage.deathMessage>
+  <!-- EN: {0} have been stabbed to death. -->
+  <DarkSpearDamage.deathMessage>{0} have been stabbed to death.</DarkSpearDamage.deathMessage>
+  <!-- EN: death impact -->
+  <DeathImpact.label>death impact</DeathImpact.label>
+  <!-- EN: {0} has died. -->
+  <DeathImpact.deathMessage>{0} has died.</DeathImpact.deathMessage>
+  <!-- EN: {0} have died in the explosion. -->
+  <ExplosionEX.deathMessage>{0} have died in the explosion.</ExplosionEX.deathMessage>
+  <!-- EN: cut -->
+  <FierySlash.label>cut</FierySlash.label>
+  <!-- EN: {0} has been burnt in holy fire. -->
+  <FierySlash.deathMessage>{0} has been burnt in holy fire.</FierySlash.deathMessage>
+  <!-- EN: heart seeker stab -->
+  <HeartSeekerStabz.label>heart seeker stab</HeartSeekerStabz.label>
+  <!-- EN: {0} was cut to death. -->
+  <HeartSeekerStabz.deathMessage>{0} was cut to death.</HeartSeekerStabz.deathMessage>
+  <!-- EN: heart seeker stab -->
+  <HeartSeekerStabzNormal.label>heart seeker stab</HeartSeekerStabzNormal.label>
+  <!-- EN: {0} was cut to death. -->
+  <HeartSeekerStabzNormal.deathMessage>{0} was cut to death.</HeartSeekerStabzNormal.deathMessage>
+  <!-- EN: {0} have died in the explosion. -->
+  <RandyRevenge.deathMessage>{0} have died in the explosion.</RandyRevenge.deathMessage>
+  <!-- EN: shadow cut -->
+  <ShadowCut.label>shadow cut</ShadowCut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <ShadowCut.deathMessage>{0} has been cut to death.</ShadowCut.deathMessage>
+  <!-- EN: shadow edge slash -->
+  <ShadowEdgez.label>shadow edge slash</ShadowEdgez.label>
+  <!-- EN: {0} was cut to death. -->
+  <ShadowEdgez.deathMessage>{0} was cut to death.</ShadowEdgez.deathMessage>
+  <!-- EN: shadow edge slash -->
+  <ShadowEdgezNormal.label>shadow edge slash</ShadowEdgezNormal.label>
+  <!-- EN: {0} was cut to death. -->
+  <ShadowEdgezNormal.deathMessage>{0} was cut to death.</ShadowEdgezNormal.deathMessage>
+  <!-- EN: shadow impact crush -->
+  <ShadowImpactCrushz.label>shadow impact crush</ShadowImpactCrushz.label>
+  <!-- EN: {0} was crushed to death. -->
+  <ShadowImpactCrushz.deathMessage>{0} was crushed to death.</ShadowImpactCrushz.deathMessage>
+  <!-- EN: shadow impact crush -->
+  <ShadowImpactCrushzNormal.label>shadow impact crush</ShadowImpactCrushzNormal.label>
+  <!-- EN: {0} was crushed to death. -->
+  <ShadowImpactCrushzNormal.deathMessage>{0} was crushed to death.</ShadowImpactCrushzNormal.deathMessage>
+  <!-- EN: true shot -->
+  <TrueShot.label>true shot</TrueShot.label>
+  <!-- EN: {0} has been shot to death. -->
+  <TrueShot.deathMessage>{0} has been shot to death.</TrueShot.deathMessage>
+</LanguageData>

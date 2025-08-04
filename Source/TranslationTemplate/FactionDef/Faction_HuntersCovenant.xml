@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hunters covenant -->
+  <HuntersCovenant.label>hunters covenant</HuntersCovenant.label>
+  <!-- EN: A gathering of hunterphages that was formed thousands of years ago. After the collapse of the Archadia Empire, the hunterphages were scattered through multiple star systems, drifting aimlessly and deprived of purpose. But their days of aimless drifting finally ended when a lone hunterphage, Julius Macragge, stood up and unified his scattered brothers and sisters in a single covenant, which was later named as the hunters covenant. The hunters covenant endured multiple trials, from pirate raids to mechanoid onslaughts, but at the very end they manage to establish a haven that can last through many years to come. -->
+  <HuntersCovenant.description>A gathering of hunterphages that was formed thousands of years ago. After the collapse of the Archadia Empire, the hunterphages were scattered through multiple star systems, drifting aimlessly and deprived of purpose. But their days of aimless drifting finally ended when a lone hunterphage, Julius Macragge, stood up and unified his scattered brothers and sisters in a single covenant, which was later named as the hunters covenant. The hunters covenant endured multiple trials, from pirate raids to mechanoid onslaughts, but at the very end they manage to establish a haven that can last through many years to come.</HuntersCovenant.description>
+  <!-- EN: Covenant Master -->
+  <HuntersCovenant.leaderTitle>Covenant Master</HuntersCovenant.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <HuntersCovenant.messageDefendersAttacking>{0} from {1} are attacking your {2}.</HuntersCovenant.messageDefendersAttacking>
+  <!-- EN: hunter -->
+  <HuntersCovenant.pawnSingular>hunter</HuntersCovenant.pawnSingular>
+  <!-- EN: hunters -->
+  <HuntersCovenant.pawnsPlural>hunters</HuntersCovenant.pawnsPlural>
+</LanguageData>

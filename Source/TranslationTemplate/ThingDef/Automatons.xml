@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: automaton soldier -->
+  <Automaton_AutomatonSoldier.label>automaton soldier</Automaton_AutomatonSoldier.label>
+  <!-- EN: An experimental humanoid construct made of steel, and a creation of the proud dwarven mechanics. These constructs are built specifically for battle, able to wield one of the best weapons that their mechanical hands can carry, but due to their experimental status, they only have a limited lifespan and explodes upon death. -->
+  <Automaton_AutomatonSoldier.description>An experimental humanoid construct made of steel, and a creation of the proud dwarven mechanics. These constructs are built specifically for battle, able to wield one of the best weapons that their mechanical hands can carry, but due to their experimental status, they only have a limited lifespan and explodes upon death.</Automaton_AutomatonSoldier.description>
+  <!-- EN: left fist -->
+  <Automaton_AutomatonSoldier.tools.left_fist.label>left fist</Automaton_AutomatonSoldier.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Automaton_AutomatonSoldier.tools.right_fist.label>right fist</Automaton_AutomatonSoldier.tools.right_fist.label>
+  <!-- EN: head -->
+  <Automaton_AutomatonSoldier.tools.head.label>head</Automaton_AutomatonSoldier.tools.head.label>
+</LanguageData>

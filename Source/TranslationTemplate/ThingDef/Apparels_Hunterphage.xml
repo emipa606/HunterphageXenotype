@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: armored powder keg garb -->
+  <Apparel_ArmoredPowderkegGarb.label>armored powder keg garb</Apparel_ArmoredPowderkegGarb.label>
+  <!-- EN: An upgraded variant on the powder keg garb, which provides better damage resistance and grants the wearer extra carry weight. -->
+  <Apparel_ArmoredPowderkegGarb.description>An upgraded variant on the powder keg garb, which provides better damage resistance and grants the wearer extra carry weight.</Apparel_ArmoredPowderkegGarb.description>
+  <!-- EN: common hunter attire -->
+  <Apparel_CommonAttire.label>common hunter attire</Apparel_CommonAttire.label>
+  <!-- EN: A basic polo shirt, pants, vest, and belt combo attire. -->
+  <Apparel_CommonAttire.description>A basic polo shirt, pants, vest, and belt combo attire.</Apparel_CommonAttire.description>
+  <!-- EN: hunter cap -->
+  <Apparel_HunterCap.label>hunter cap</Apparel_HunterCap.label>
+  <!-- EN: A basic feathered tricorn, not much in providing protection in the skull, but it insulates heat well and an ideal conversation piece. -->
+  <Apparel_HunterCap.description>A basic feathered tricorn, not much in providing protection in the skull, but it insulates heat well and an ideal conversation piece.</Apparel_HunterCap.description>
+  <!-- EN: hunter fedora -->
+  <Apparel_HunterFedora.label>hunter fedora</Apparel_HunterFedora.label>
+  <!-- EN: An iconic headgear favored by seasoned gun-wielding hunters, claiming that they could cover a single target with bullet holes faster while wearing the fedora. -->
+  <Apparel_HunterFedora.description>An iconic headgear favored by seasoned gun-wielding hunters, claiming that they could cover a single target with bullet holes faster while wearing the fedora.</Apparel_HunterFedora.description>
+  <!-- EN: hunter garb -->
+  <Apparel_HunterGarb.label>hunter garb</Apparel_HunterGarb.label>
+  <!-- EN: Commomnly worn apparel by active hunters in the field. -->
+  <Apparel_HunterGarb.description>Commomnly worn apparel by active hunters in the field.</Apparel_HunterGarb.description>
+  <!-- EN: black hunter garb -->
+  <Apparel_HunterGarbBlack.label>black hunter garb</Apparel_HunterGarbBlack.label>
+  <!-- EN: A black variant of the hunter garb, now with protective plating for extra defense. -->
+  <Apparel_HunterGarbBlack.description>A black variant of the hunter garb, now with protective plating for extra defense.</Apparel_HunterGarbBlack.description>
+  <!-- EN: hunter's duster -->
+  <Apparel_HuntersDuster.label>hunter's duster</Apparel_HuntersDuster.label>
+  <!-- EN: One of the basic apparels of the hunters workshop, fairly cheap to produce and provides fair amounts of protection. -->
+  <Apparel_HuntersDuster.description>One of the basic apparels of the hunters workshop, fairly cheap to produce and provides fair amounts of protection.</Apparel_HuntersDuster.description>
+  <!-- EN: black hunter's duster -->
+  <Apparel_HuntersDusterBlack.label>black hunter's duster</Apparel_HuntersDusterBlack.label>
+  <!-- EN: A dark version of the hunter's duster. -->
+  <Apparel_HuntersDusterBlack.description>A dark version of the hunter's duster.</Apparel_HuntersDusterBlack.description>
+  <!-- EN: hunter sombrero -->
+  <Apparel_HunterSombrero.label>hunter sombrero</Apparel_HunterSombrero.label>
+  <!-- EN: An intimidating piece of headgear worn by elite hunters, specially worn to interogate prisoners and suppressing slaves. -->
+  <Apparel_HunterSombrero.description>An intimidating piece of headgear worn by elite hunters, specially worn to interogate prisoners and suppressing slaves.</Apparel_HunterSombrero.description>
+  <!-- EN: hunter tricorne -->
+  <Apparel_HunterTricorn.label>hunter tricorne</Apparel_HunterTricorn.label>
+  <!-- EN: Specially designed tricorn that grants a slight bonus to melee hit and dodge chance. -->
+  <Apparel_HunterTricorn.description>Specially designed tricorn that grants a slight bonus to melee hit and dodge chance.</Apparel_HunterTricorn.description>
+  <!-- EN: black hunter tricorne -->
+  <Apparel_HunterTricornBlack.label>black hunter tricorne</Apparel_HunterTricornBlack.label>
+  <!-- EN: A variant of the hunter tricorn, which provides slight increase in armor and melee capabilities. -->
+  <Apparel_HunterTricornBlack.description>A variant of the hunter tricorn, which provides slight increase in armor and melee capabilities.</Apparel_HunterTricornBlack.description>
+  <!-- EN: powder keg garb -->
+  <Apparel_PowderkegGarb.label>powder keg garb</Apparel_PowderkegGarb.label>
+  <!-- EN: An apparel worn by the powderkeg hunters, designed to be fireproof and provides more armor rating. -->
+  <Apparel_PowderkegGarb.description>An apparel worn by the powderkeg hunters, designed to be fireproof and provides more armor rating.</Apparel_PowderkegGarb.description>
+  <!-- EN: shadow walker coat -->
+  <Apparel_ShadowWalkerCoat.label>shadow walker coat</Apparel_ShadowWalkerCoat.label>
+  <!-- EN: A light weight and fire-proof coat worn by the mysterious shadow walkers. Although it provides absolute defense to fire and heat damage, it has terrible defense to sharp and blunt damage, but the coat compensates with providing the user with increased movement speed and manipulation. -->
+  <Apparel_ShadowWalkerCoat.description>A light weight and fire-proof coat worn by the mysterious shadow walkers. Although it provides absolute defense to fire and heat damage, it has terrible defense to sharp and blunt damage, but the coat compensates with providing the user with increased movement speed and manipulation.</Apparel_ShadowWalkerCoat.description>
+  <!-- EN: shadow walker feathered coat -->
+  <Apparel_ShadowWalkerFeatheredCoat.label>shadow walker feathered coat</Apparel_ShadowWalkerFeatheredCoat.label>
+  <!-- EN: A feathered variant of the shadow walker coat, which immitates the notorious shadow crows. -->
+  <Apparel_ShadowWalkerFeatheredCoat.description>A feathered variant of the shadow walker coat, which immitates the notorious shadow crows.</Apparel_ShadowWalkerFeatheredCoat.description>
+  <!-- EN: sniper top hat -->
+  <Apparel_SniperTopHat.label>sniper top hat</Apparel_SniperTopHat.label>
+  <!-- EN: A fancy-looking top hat worn by experienced sharp shooters. Wearing it can grant the wearer a bonus to ranged weapon accuracy and social impact. -->
+  <Apparel_SniperTopHat.description>A fancy-looking top hat worn by experienced sharp shooters. Wearing it can grant the wearer a bonus to ranged weapon accuracy and social impact.</Apparel_SniperTopHat.description>
+  <!-- EN: adventurer backpack -->
+  <Backpack_AdventurerBackPack.label>adventurer backpack</Backpack_AdventurerBackPack.label>
+  <!-- EN: A large adventurer backpack that grants 100 kg of carry capacity. Perfect for long term expeditions. -->
+  <Backpack_AdventurerBackPack.description>A large adventurer backpack that grants 100 kg of carry capacity. Perfect for long term expeditions.</Backpack_AdventurerBackPack.description>
+  <!-- EN: shoulder backpack -->
+  <Backpack_ShoulderBackPack.label>shoulder backpack</Backpack_ShoulderBackPack.label>
+  <!-- EN: A basic shoulder backpack with a carry capacity of 50kg, perfect for long distance travel throughout the rim. -->
+  <Backpack_ShoulderBackPack.description>A basic shoulder backpack with a carry capacity of 50kg, perfect for long distance travel throughout the rim.</Backpack_ShoulderBackPack.description>
+  <!-- EN: hunters boots -->
+  <FootWear_HunterBoots.label>hunters boots</FootWear_HunterBoots.label>
+  <!-- EN: A standard pair of boots commonly worn by active hunters on the field, which grants bonus to movement speed when worn. -->
+  <FootWear_HunterBoots.description>A standard pair of boots commonly worn by active hunters on the field, which grants bonus to movement speed when worn.</FootWear_HunterBoots.description>
+  <!-- EN: shadow stubs -->
+  <FootWear_ShadowStubs.label>shadow stubs</FootWear_ShadowStubs.label>
+  <!-- EN: A pair of boots commonly worn by the shadow walkers, which grants bonus to movement speed and manipulation when worn. -->
+  <FootWear_ShadowStubs.description>A pair of boots commonly worn by the shadow walkers, which grants bonus to movement speed and manipulation when worn.</FootWear_ShadowStubs.description>
+  <!-- EN: hunters gloves -->
+  <Handwear_HunterGloves.label>hunters gloves</Handwear_HunterGloves.label>
+  <!-- EN: A standard pair of gloves worn by hunters of the hunters covenant, which adjustable straps that can fit in any hand sizes, sufficiently armored, and provides a small decrease in aiming delay. -->
+  <Handwear_HunterGloves.description>A standard pair of gloves worn by hunters of the hunters covenant, which adjustable straps that can fit in any hand sizes, sufficiently armored, and provides a small decrease in aiming delay.</Handwear_HunterGloves.description>
+  <!-- EN: shadow guards -->
+  <Handwear_ShadowGuards.label>shadow guards</Handwear_ShadowGuards.label>
+  <!-- EN: A pair of gloves worn by the shadow walkers, complete with wrist guards and mechanical enhancements that provides extra protection and bonus to melee and ranged combat efficiency. -->
+  <Handwear_ShadowGuards.description>A pair of gloves worn by the shadow walkers, complete with wrist guards and mechanical enhancements that provides extra protection and bonus to melee and ranged combat efficiency.</Handwear_ShadowGuards.description>
+  <!-- EN: stake driver gloves -->
+  <Handwear_StakeDriverGloves.label>stake driver gloves</Handwear_StakeDriverGloves.label>
+  <!-- EN: A pair of gloves with stake drivers attached in both sides, which can inflict deadly blast damage in melee range. These gloves were commonly worn by the powderkeg hunters on the hunters covenant. -->
+  <Handwear_StakeDriverGloves.description>A pair of gloves with stake drivers attached in both sides, which can inflict deadly blast damage in melee range. These gloves were commonly worn by the powderkeg hunters on the hunters covenant.</Handwear_StakeDriverGloves.description>
+  <!-- EN: crow feathered hood -->
+  <Headgear_CrowFeatherHood.label>crow feathered hood</Headgear_CrowFeatherHood.label>
+  <!-- EN: A specialy-made hood with feathered plumage and a plague doctor mask, which grants sufficient protection in the head, a slight bonus to consciousness, and a bonus immunity to disease and toxic hazards. This headgear is specialy worn by the infamous shadow crows. -->
+  <Headgear_CrowFeatherHood.description>A specialy-made hood with feathered plumage and a plague doctor mask, which grants sufficient protection in the head, a slight bonus to consciousness, and a bonus immunity to disease and toxic hazards. This headgear is specialy worn by the infamous shadow crows.</Headgear_CrowFeatherHood.description>
+  <!-- EN: phantom hood -->
+  <Headgear_PhantomHood.label>phantom hood</Headgear_PhantomHood.label>
+  <!-- EN: A dark hood and mask worn by the shadow walkers, capable of raising the wearer's sight and consciousness by a slight margin. -->
+  <Headgear_PhantomHood.description>A dark hood and mask worn by the shadow walkers, capable of raising the wearer's sight and consciousness by a slight margin.</Headgear_PhantomHood.description>
+  <!-- EN: rogue hood -->
+  <Headgear_RogueHood.label>rogue hood</Headgear_RogueHood.label>
+  <!-- EN: A dark hood worn by the shadow walkers, capable of raising the wearer's consciousness by a slight margin. -->
+  <Headgear_RogueHood.description>A dark hood worn by the shadow walkers, capable of raising the wearer's consciousness by a slight margin.</Headgear_RogueHood.description>
+</LanguageData>

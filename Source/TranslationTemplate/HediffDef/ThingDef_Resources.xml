@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Extra skill : Corrupt Chi -->
+  <Skill_CorruptChi.label>Extra skill : Corrupt Chi</Skill_CorruptChi.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the corrupt chi skill, and grants a slight bonus to consciousness. -->
+  <Skill_CorruptChi.description>A unique condition after using a scroll of shadows, allowing the user to learn the corrupt chi skill, and grants a slight bonus to consciousness.</Skill_CorruptChi.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Corrupt Chi", along with receiving slight consciousness bonus. This can be installed up to 3 times. -->
+  <Skill_CorruptChi.descriptionShort>After using a scroll of shadows, they can learn the skill "Corrupt Chi", along with receiving slight consciousness bonus. This can be installed up to 3 times.</Skill_CorruptChi.descriptionShort>
+  <!-- EN: Extra skill : Crow's Leap -->
+  <Skill_CrowsLeap.label>Extra skill : Crow's Leap</Skill_CrowsLeap.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the crow's leap skill, and grants a slight bonus to manipulation. -->
+  <Skill_CrowsLeap.description>A unique condition after using a scroll of shadows, allowing the user to learn the crow's leap skill, and grants a slight bonus to manipulation.</Skill_CrowsLeap.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Crow's Leap", along with receiving slight manipulation bonus. This can be installed up to 3 times. -->
+  <Skill_CrowsLeap.descriptionShort>After using a scroll of shadows, they can learn the skill "Crow's Leap", along with receiving slight manipulation bonus. This can be installed up to 3 times.</Skill_CrowsLeap.descriptionShort>
+  <!-- EN: Extra skill : Dark Knife -->
+  <Skill_DarkKnife.label>Extra skill : Dark Knife</Skill_DarkKnife.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the dark knife skill, and grants a slight bonus to sight. -->
+  <Skill_DarkKnife.description>A unique condition after using a scroll of shadows, allowing the user to learn the dark knife skill, and grants a slight bonus to sight.</Skill_DarkKnife.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Dark Knife", along with receiving slight sight bonus. This can be installed up to 3 times. -->
+  <Skill_DarkKnife.descriptionShort>After using a scroll of shadows, they can learn the skill "Dark Knife", along with receiving slight sight bonus. This can be installed up to 3 times.</Skill_DarkKnife.descriptionShort>
+  <!-- EN: Extra skill : Dark Mine -->
+  <Skill_DarkMine.label>Extra skill : Dark Mine</Skill_DarkMine.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the dark mine skill, and grants a slight bonus to consciousness. -->
+  <Skill_DarkMine.description>A unique condition after using a scroll of shadows, allowing the user to learn the dark mine skill, and grants a slight bonus to consciousness.</Skill_DarkMine.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Dark Mine", along with receiving slight consciousness bonus. This can be installed up to 3 times. -->
+  <Skill_DarkMine.descriptionShort>After using a scroll of shadows, they can learn the skill "Dark Mine", along with receiving slight consciousness bonus. This can be installed up to 3 times.</Skill_DarkMine.descriptionShort>
+  <!-- EN: Extra skill : Dark Shuriken -->
+  <Skill_DarkShuriken.label>Extra skill : Dark Shuriken</Skill_DarkShuriken.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the dark shuriken skill, and slightly increase their shooting accuracy. -->
+  <Skill_DarkShuriken.description>A unique condition after using a scroll of shadows, allowing the user to learn the dark shuriken skill, and slightly increase their shooting accuracy.</Skill_DarkShuriken.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Dark Shuriken", along with receiving increased stats. This can be installed up to 3 times. -->
+  <Skill_DarkShuriken.descriptionShort>After using a scroll of shadows, they can learn the skill "Dark Shuriken", along with receiving increased stats. This can be installed up to 3 times.</Skill_DarkShuriken.descriptionShort>
+  <!-- EN: Extra skill : Dark Spear -->
+  <Skill_DarkSpear.label>Extra skill : Dark Spear</Skill_DarkSpear.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the dark spear skill, and slightly decrease their ranged weapon cooldown and aiming delay. -->
+  <Skill_DarkSpear.description>A unique condition after using a scroll of shadows, allowing the user to learn the dark spear skill, and slightly decrease their ranged weapon cooldown and aiming delay.</Skill_DarkSpear.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Dark Spear", along with receiving increased stats. This can be installed up to 3 times. -->
+  <Skill_DarkSpear.descriptionShort>After using a scroll of shadows, they can learn the skill "Dark Spear", along with receiving increased stats. This can be installed up to 3 times.</Skill_DarkSpear.descriptionShort>
+  <!-- EN: Extra skill : Phantom Of Death -->
+  <Skill_PhantomOfDeath.label>Extra skill : Phantom Of Death</Skill_PhantomOfDeath.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the phantom of death skill, and grants a slight bonus to consciousness. -->
+  <Skill_PhantomOfDeath.description>A unique condition after using a scroll of shadows, allowing the user to learn the phantom of death skill, and grants a slight bonus to consciousness.</Skill_PhantomOfDeath.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Phantom Of Death", along with receiving slight consciousness bonus. This can be installed up to 3 times. -->
+  <Skill_PhantomOfDeath.descriptionShort>After using a scroll of shadows, they can learn the skill "Phantom Of Death", along with receiving slight consciousness bonus. This can be installed up to 3 times.</Skill_PhantomOfDeath.descriptionShort>
+  <!-- EN: Extra skill : Summon Automatons -->
+  <Skill_SummonAutomatons.label>Extra skill : Summon Automatons</Skill_SummonAutomatons.label>
+  <!-- EN: A unique condition after using a scroll of dwarves, allowing the user to learn the summon automatons skill, and grants a slight bonus to manipulation. -->
+  <Skill_SummonAutomatons.description>A unique condition after using a scroll of dwarves, allowing the user to learn the summon automatons skill, and grants a slight bonus to manipulation.</Skill_SummonAutomatons.description>
+  <!-- EN: After using a scroll of dwarves, they can learn the skill "Summon Automatons", along with receiving slight manipulation bonus. This can be installed up to 3 times. -->
+  <Skill_SummonAutomatons.descriptionShort>After using a scroll of dwarves, they can learn the skill "Summon Automatons", along with receiving slight manipulation bonus. This can be installed up to 3 times.</Skill_SummonAutomatons.descriptionShort>
+  <!-- EN: Extra skill : Summon Ballista -->
+  <Skill_SummonBallista.label>Extra skill : Summon Ballista</Skill_SummonBallista.label>
+  <!-- EN: A unique condition after using a scroll of dwarves, allowing the user to learn the summon ballista skill, and grants a slight bonus to manipulation. -->
+  <Skill_SummonBallista.description>A unique condition after using a scroll of dwarves, allowing the user to learn the summon ballista skill, and grants a slight bonus to manipulation.</Skill_SummonBallista.description>
+  <!-- EN: After using a scroll of dwarves, they can learn the skill "Summon Ballista", along with receiving slight manipulation bonus. This can be installed up to 3 times. -->
+  <Skill_SummonBallista.descriptionShort>After using a scroll of dwarves, they can learn the skill "Summon Ballista", along with receiving slight manipulation bonus. This can be installed up to 3 times.</Skill_SummonBallista.descriptionShort>
+  <!-- EN: Extra skill : Summon Decoy -->
+  <Skill_SummonDecoy.label>Extra skill : Summon Decoy</Skill_SummonDecoy.label>
+  <!-- EN: A unique condition after using a scroll of shadows, allowing the user to learn the summon decoy skill, and grants a slight bonus to movement speed. -->
+  <Skill_SummonDecoy.description>A unique condition after using a scroll of shadows, allowing the user to learn the summon decoy skill, and grants a slight bonus to movement speed.</Skill_SummonDecoy.description>
+  <!-- EN: After using a scroll of shadows, they can learn the skill "Summon Decoy", along with receiving slight moving bonus. This can be installed up to 3 times. -->
+  <Skill_SummonDecoy.descriptionShort>After using a scroll of shadows, they can learn the skill "Summon Decoy", along with receiving slight moving bonus. This can be installed up to 3 times.</Skill_SummonDecoy.descriptionShort>
+</LanguageData>

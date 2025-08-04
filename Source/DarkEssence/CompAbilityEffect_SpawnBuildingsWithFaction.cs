@@ -5,7 +5,7 @@ namespace DarkEssence;
 
 public class CompAbilityEffect_SpawnBuildingsWithFaction : CompAbilityEffect
 {
-    public new CompProperties_AbilitySpawnBuldingsWithFaction Props =>
+    private new CompProperties_AbilitySpawnBuldingsWithFaction Props =>
         (CompProperties_AbilitySpawnBuldingsWithFaction)props;
 
     public override void Apply(LocalTargetInfo target, LocalTargetInfo dest)
