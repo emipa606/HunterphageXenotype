@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="HunterphageXenotype_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3376685206</linkUrl>
+		<banner>UpdateInfo/HunterphageXenotype</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="HunterphageXenotype_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>HunterphageXenotype_1_5_4</defName>
+		<date>2025/8/4</date>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+
