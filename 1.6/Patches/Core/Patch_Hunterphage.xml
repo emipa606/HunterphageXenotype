@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/StatDef[defName = "MeleeDodgeChance"]</xpath>
+    <value>
+      <workerClass>DarkEssence.StatWorker_HunterphageMeleeDodge</workerClass>
+    </value>
+  </Operation>
+</Patch>
