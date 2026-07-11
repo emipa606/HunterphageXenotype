@@ -1,5 +1,14 @@
 # Changelog for HunterphageXenotype
 
+1.6.1
+- Fixed Hunterphage newborn generation
+- Fixed FailSafe handling for pawns without a spawned corpse
+- Prevented AdrenalineHigh from being repeatedly added during pain shock
+- Fixed Troll's Blood healing interval randomization
+- Restricted the 60% melee dodge cap to Hunterphages with the gifted melee combatant gene
+- Fixed Blade Heart activation, removal, and cleanup in existing saves
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 
