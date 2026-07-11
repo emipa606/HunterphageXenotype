@@ -102,6 +102,9 @@
   <PawnKindDef ParentName="Hunters">
     <defName>Hunter_Basic</defName>
     <label>hunter</label>
+    <!-- Birth generation uses this pawn kind. Required skills cannot be
+         satisfied by newborns, so do not inherit the adult skill ranges. -->
+    <skills Inherit="False" />
     <combatPower>70</combatPower>
     <canBeSapper>false</canBeSapper>
     <isGoodBreacher>false</isGoodBreacher>
