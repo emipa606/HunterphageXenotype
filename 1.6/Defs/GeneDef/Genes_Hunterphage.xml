@@ -389,10 +389,7 @@
     <defName>Gene_Hunterphage_BladeHeart</defName>
     <label>blade heart</label>
     <description>Carriers of this gene possess an invisible aura originating from their heart, which allows them to passively inflict aura damage in melee range.</description>
-    <conditionalStatAffecters>
-      <li Class="DarkEssence.BladeHeartConditionalStatAffecter">
-      </li>
-    </conditionalStatAffecters>
+    <geneClass>DarkEssence.Gene_BladeHeart</geneClass>
     <iconPath>Things/Misc/Logo/Genes/BladeHeartGene</iconPath>
     <prerequisite>Gene_Hunterphage_ShadowWalker</prerequisite>
     <displayOrderInCategory>500</displayOrderInCategory>

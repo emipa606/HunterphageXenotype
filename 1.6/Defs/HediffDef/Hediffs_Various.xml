@@ -163,6 +163,7 @@
   <HediffDef ParentName="BladeHeartBase">
     <defName>BladeHeartDicipline</defName>
     <label>blade heart</label>
+    <hediffClass>DarkEssence.Hediff_BladeHeart</hediffClass>
     <defaultLabelColor>(0.3,0.2,0.6)</defaultLabelColor>
     <description>A powerful condition that allows a carrier to inflict aura damage, while having the chance to inflict armor bane when hitting the armor.</description>
     <isBad>false</isBad>
