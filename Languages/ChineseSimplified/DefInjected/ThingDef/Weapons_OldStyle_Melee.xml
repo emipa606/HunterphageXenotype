@@ -40,7 +40,7 @@
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>点</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>边缘</MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>
   <!-- EN: katana -->
-  <MeleeWeapon_Hunterphage_Katana.label>katana</MeleeWeapon_Hunterphage_Katana.label>
+  <MeleeWeapon_Hunterphage_Katana.label>武士刀</MeleeWeapon_Hunterphage_Katana.label>
   <!-- EN: An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use. -->
   <MeleeWeapon_Hunterphage_Katana.description>这是一种起源于一个早已被世人遗忘的名为“日本”的国家的古代武器，其制作工艺一直流传至今，直至最终落入猎食者之手。因其卓越的切割能力及易于使用而被广泛采用。</MeleeWeapon_Hunterphage_Katana.description>
   <MeleeWeapon_Hunterphage_Katana.tools.handle.label>手柄</MeleeWeapon_Hunterphage_Katana.tools.handle.label>
@@ -96,7 +96,7 @@
   <MeleeWeapon_Hunterphage_ShortSword.tools.point.label>点</MeleeWeapon_Hunterphage_ShortSword.tools.point.label>
   <MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>边缘</MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>
   <!-- EN: zweihander -->
-  <MeleeWeapon_Hunterphage_Zweihander.label>zweihander</MeleeWeapon_Hunterphage_Zweihander.label>
+  <MeleeWeapon_Hunterphage_Zweihander.label>双手巨剑</MeleeWeapon_Hunterphage_Zweihander.label>
   <!-- EN: A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half. -->
   <MeleeWeapon_Hunterphage_Zweihander.description>据古代记载，这是一款源自“德国”的双持巨剑。它曾被日耳曼雇佣兵“兰德斯克内赫特”使用，如今则被经验丰富的猎食者用来将镰刀兵一分为二。</MeleeWeapon_Hunterphage_Zweihander.description>
   <MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>手柄</MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>

@@ -133,7 +133,7 @@
   <!-- EN: Natural effects during socializations. -->
   <Socialize.description>社交互动中的自然效果。</Socialize.description>
   <!-- EN: for -->
-  <Socialize.targetPrefix>for</Socialize.targetPrefix>
+  <Socialize.targetPrefix>对</Socialize.targetPrefix>
   <!-- EN: Stake Driver Gloves -->
   <StakeDriverGloves.label>打桩手套</StakeDriverGloves.label>
   <!-- EN: Some effects after wearing a pair of stake driver gloves. -->

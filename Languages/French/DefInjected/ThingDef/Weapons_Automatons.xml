@@ -8,7 +8,7 @@
   <!-- EN: A six-barreled handcannon wielded by the automaton soldiers. -->
   <Gun_AutomatonHandCannon.description>Un pistolet à six canons manié par les soldats automates.</Gun_AutomatonHandCannon.description>
   <!-- EN: stock -->
-  <Gun_AutomatonHandCannon.tools.stock.label>stock</Gun_AutomatonHandCannon.tools.stock.label>
+  <Gun_AutomatonHandCannon.tools.stock.label>crosse</Gun_AutomatonHandCannon.tools.stock.label>
   <!-- EN: barrel -->
   <Gun_AutomatonHandCannon.tools.barrel.label>tonneau</Gun_AutomatonHandCannon.tools.barrel.label>
   <Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>pistolet-mitrailleur automaton</Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>

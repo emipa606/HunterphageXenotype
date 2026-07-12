@@ -52,7 +52,7 @@
   <HeartSeekerStabzNormal.deathMessage>{0} 被砍死了。</HeartSeekerStabzNormal.deathMessage>
   <RandyRevenge.deathMessage>{0} 在爆炸中丧生。</RandyRevenge.deathMessage>
   <!-- EN: shadow cut -->
-  <ShadowCut.label>shadow cut</ShadowCut.label>
+  <ShadowCut.label>暗影斩击</ShadowCut.label>
   <ShadowCut.deathMessage>{0}已被砍死。</ShadowCut.deathMessage>
   <!-- EN: shadow edge slash -->
   <ShadowEdgez.label>暗影之刃 劈砍</ShadowEdgez.label>
