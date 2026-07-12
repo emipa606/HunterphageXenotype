@@ -1,5 +1,18 @@
 # Changelog for HunterphageXenotype
 
+1.6.1 - Several fixes, thanks to SypherRed
+Fixed Hunterphage newborn generation failing because Hunter_Basic inherited adult skill requirements.
+Fixed a possible null reference when FailSafe processes a pawn without a spawned corpse.
+Prevented AdrenalineHigh from being repeatedly added during pain shock.
+Fixed Troll's Blood always using the same healing interval.
+Removed the unintended global melee dodge buff affecting every pawn.
+Added a targeted 60% melee dodge cap for pawns with the Gene_Hunterphage_MeleeGifted gene.
+Reworked Blade Heart so its hediff:
+is applied when the gene becomes active,
+is removed when the gene is removed,
+cleans up orphaned hediffs in existing saves.
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

@@ -6,4 +6,67 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="DarkEssence/DarkEssence.csproj" />
+  <Folder Name="/XML/1.6/Defs/Scenarios/">
+    <File Path="../1.6/Defs/Scenarios/Scenario_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Research/">
+    <File Path="../1.6/Defs/Research/Research_Various.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Designations/">
+    <File Path="../1.6/Defs/Designations/DesignationCategories_Hunterpahge.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/GeneDef/">
+    <File Path="../1.6/Defs/GeneDef/Genes_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Patches/Core/">
+    <File Path="../1.6/Patches/Core/Patch_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Socialize.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Faction/">
+    <File Path="../1.6/Defs/Faction/Faction_HuntersCovenant.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ThingDef_Automaton/">
+    <File Path="../1.6/Defs/ThingDef_Automaton/Automatons.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ThingDef_Items/">
+    <File Path="../1.6/Defs/ThingDef_Items/ThingDef_Drugs.xml" />
+    <File Path="../1.6/Defs/ThingDef_Items/ThingDef_Resources.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ThingDef_Apparels/">
+    <File Path="../1.6/Defs/ThingDef_Apparels/Apparels_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Abilities/">
+    <File Path="../1.6/Defs/Abilities/Abilities_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/SoundDefs/">
+    <File Path="../1.6/Defs/SoundDefs/SoundDef_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Pawnkinds/">
+    <File Path="../1.6/Defs/Pawnkinds/Pawnkinds_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Misc/Stats/">
+    <File Path="../1.6/Defs/Misc/Stats/Stats_Misc.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/DamageDef/">
+    <File Path="../1.6/Defs/DamageDef/DamageDef_Hunterphage.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/ThingDef_Weapons/">
+    <File Path="../1.6/Defs/ThingDef_Weapons/Weapons_Automatons.xml" />
+    <File Path="../1.6/Defs/ThingDef_Weapons/Weapons_OldStyle_Melee.xml" />
+    <File Path="../1.6/Defs/ThingDef_Weapons/Weapons_OldStyle_Ranged.xml" />
+    <File Path="../1.6/Defs/ThingDef_Weapons/Weapons_Special.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/Buildings/">
+    <File Path="../1.6/Defs/Buildings/Buildings_Hunterphage_Defenses.xml" />
+    <File Path="../1.6/Defs/Buildings/Buildings_Hunterphage_Skill.xml" />
+    <File Path="../1.6/Defs/Buildings/Buildings_Production.xml" />
+  </Folder>
+  <Folder Name="/XML/1.6/Defs/HediffDef/">
+    <File Path="../1.6/Defs/HediffDef/Hediffs_Various.xml" />
+  </Folder>
 </Solution>

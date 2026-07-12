@@ -50,6 +50,6 @@ public class HediffComp_TrollsBlood : HediffComp
 
     public override string CompDebugString()
     {
-        return "ticksToHeal: " + ticksToHeal;
+        return $"ticksToHeal: {ticksToHeal}";
     }
 }

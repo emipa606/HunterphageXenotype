@@ -10,8 +10,7 @@ public class Hediff_Socialize : HediffWithTarget
         get
         {
             var array = new[] { base.LabelBase, " ", def.targetPrefix, " ", null };
-            var num = 4;
-            array[num] = target?.LabelShortCap;
+            array[4] = target?.LabelShortCap;
             return string.Concat(array);
         }
     }

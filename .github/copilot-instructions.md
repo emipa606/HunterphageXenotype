@@ -1,47 +1,53 @@
-# GitHub Copilot Instructions for Hunterphage Xenotype (Continued)
+# Copilot Instructions for Hunterphage Xenotype (Continued)
 
 ## Mod Overview and Purpose
 
-The **Hunterphage Xenotype (Continued)** mod brings a new xenotype, "The Hunterphage," inspired by the rogue discipline "Shadow Stalker" from a favorite game, "Dungeon Blitz." It enhances the RimWorld experience by adding new weapons, apparel, buildings, items, drugs, and a unique faction, providing players with the opportunity to interact with or conquer them.
-
-The mod is an exciting addition for those looking to experience a rogue-like playthrough in RimWorld, emphasizing stealth and combat prowess with shadow-inspired abilities. This is only the beginning, as the mod creator hints at future projects like new enemies and factions, offering continued expansion on this dark and exhilarating theme.
+Hunterphage Xenotype (Continued) is a comprehensive mod for RimWorld, originally crafted by BlackMarket420 and updated to utilize the improved asset bundle support introduced in RimWorld 1.6. This mod introduces a new xenotype known as "The Hunterphage" along with a variety of new gameplay elements including weapons, apparel, buildings, items, drugs, and an interactive faction. The Hunterphage Xenotype draws inspiration from the rogue discipline "Shadow Stalker" from the game "Dungeon Blitz." The mod is designed to enhance your gameplay by allowing you to dominate other factions with powerful new abilities and stylish gear.
 
 ## Key Features and Systems
 
-- **Hunterphage Xenotype**: A unique race inspired by rogue-like abilities, focusing on combat and stealth.
-- **New Weapons and Apparel**: Inspired by various games, these items enhance the player's arsenal and style.
-- **Innovative Buildings**: Research and construct new buildings, offering tactical advantages.
-- **Unique Items and Drugs**: Experiment with new items that affect gameplay and strategy.
-- **Faction Interaction**: Engage with or battle against the new faction, offering a diverse range of strategic gameplay options.
+- **The Hunterphage Xenotype:** A new faction with unique abilities reminiscent of the Shadow Stalker. 
+- **New Weapons and Apparel:** A selection of gear inspired by various beloved games, enhancing combat and providing new strategies.
+- **Researchable Buildings:** Introduce new buildings that expand your colony's technology and production capabilities.
+- **Unique Items and Drugs:** Experiment with new resources that provide diverse benefits and effects.
+- **Interactive Faction:** Engage with or conquer the Hunterphage faction, adding depth to inter-factional interactions.
 
 ## Coding Patterns and Conventions
 
-- **Naming Conventions**: Follow C# conventions, using PascalCase for classes and methods.
-- **Code Structure**: Organize classes within files based on functionality (e.g., abilities, effects, genes).
-- **Class Inheritance**: Utilize inheritance for shared behaviors, such as `HediffWithComps` and `CompAbilityEffect`.
-- **Static Classes**: Use static classes for definitions, maintaining a centralized repository for constants like `DamageDefOf` and `ThingDefOf`.
+- **C# Usage:** The mod's core logic is written in C#, divided into functional components. Each file typically contains one primary class, and methods within these classes adhere to consistent naming conventions for clarity and maintainability.
+- **XML Definitions:** The mod defines new objects, items, and behaviors using XML. Each file encapsulates related definitions to promote modularity.
+- **File Organization:** C# source files and XML definition files are organized into directories named according to their content type, e.g., `DarkEssence` for core capabilities, `Defs` for game definitions.
 
 ## XML Integration
 
-- Integrate XML files for defining game objects, like weapons and buildings. Ensure definitions align with the static classes `ThingDefOf`, `DamageDefOf`, etc., for seamless integration into the game world.
+- **Ability and Item Definitions:** Use XML to define new abilities and items, with each object having its file for cleaner separation.
+- **Building and Item Defs:** XML files contain `ThingDef`, `StatDef`, and other definitions required to introduce new game entities.
+- **Balancing and Testing:** Iteratively adjust XML stats for balance; test changes within a controlled RimWorld environment for validation.
 
 ## Harmony Patching
 
-- Implement Harmony for overriding or extending game behaviors without modifying the original code. Ensure patches are targeted to specific methods, avoiding broad, invasive changes.
-- Use descriptive prefixes and postfixes in patching methods to maintain clarity and avoid code conflicts.
+- **Patching Use:** Use Harmony to modify existing game mechanics without altering the base game code, ensuring compatibility.
+- **Patch Locations:** Place Harmony patches before or after base method calls depending on the desired behavior change.
+- **Implementation Best Practices:** Keep Harmony patches exceedingly specific to limit potential conflicts, and document all patches thoroughly for future reference.
 
 ## Suggestions for Copilot
 
-- Copilot can assist by automating repetitive coding tasks, such as generating properties from definitions or scaffolding new class structures.
-- Use Copilot to suggest XML structure for new items and definitions based on existing patterns.
-- Leverage Copilot for generating unit tests for core functional methods, ensuring reliable and maintainable code.
-- Use Copilot for writing Harmony patches, providing suggestions to maintain proper method signatures and ensuring correct attribute usage.
+- **Code Generation:** Use Copilot to quickly scaffold C# methods for new abilities or items based on existing patterns within the mod.
+- **XML Suggestions:** Leverage Copilot to autocomplete XML tags and attributes based on similar existing definitions, particularly useful for large repetitive structures like item definitions.
+- **Error Identification:** Instruct Copilot to help identify potential logic errors in Harmony patches by analyzing method signatures and typical usage patterns.
 
-## Developer Contact
+Please ensure all contributions to the project follow these guidelines to maintain consistency and quality throughout the mod. For support or additional guidance, consider joining our dedicated Discord server.
 
-- **Commissions and Contributions**: The mod developer is open to commissions. Contact is available via Discord mentioned in the mod's details.
-- **Compatibility Notes**: The mod is not CE compatible at this time. Reach out to Combat Extended authors for patch inquiries.
+## Project Solution Guidelines
+- Relevant mod XML files are included as Solution Items under the solution folder named XML, these can be read and modified from within the solution.
+- Use these in-solution XML files as the primary files for reference and modification.
+- The `.github/copilot-instructions.md` file is included in the solution under the `.github` solution folder, so it should be read/modified from within the solution instead of using paths outside the solution. Update this file once only, as it and the parent-path solution reference point to the same file in this workspace.
+- When making functional changes in this mod, ensure the documented features stay in sync with implementation; use the in-solution `.github` copy as the primary file.
+- In the solution is also a project called Assembly-CSharp, containing a read-only version of the decompiled game source, for reference and debugging purposes.
+- For any new documentation, update this copilot-instructions.md file rather than creating separate documentation files.
 
----
 
-This document provides essential guidance to developers contributing to the Hunterphage Xenotype (Continued) mod, aiding in maintaining code quality and expanding its functionality.
+## Hard rules (must follow)
+- Do NOT run commands that modify the repo (no git commit, git apply, dotnet format) unless explicitly asked.
+- Prefer minimal reads: read only the smallest code region needed (around the suspicious lines).
+
