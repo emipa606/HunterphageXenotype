@@ -10,7 +10,7 @@ public class Adrenaline_Reactive : HediffComp
 
     public override void CompPostTick(ref float severityAdjustment)
     {
-        if (Pain)
+        if (Pain && !Pawn.health.hediffSet.HasHediff(Adrenalinehigh))
         {
             Pawn.health.AddHediff(Adrenalinehigh);
         }

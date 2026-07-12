@@ -17,7 +17,7 @@ public class HediffComp_TrollsBlood : HediffComp
 
     private void ResetTicksToHeal()
     {
-        ticksToHeal = Rand.Range(1, 2) * 100;
+        ticksToHeal = Rand.RangeInclusive(1, 2) * 100;
     }
 
     public override void CompPostTick(ref float severityAdjustment)

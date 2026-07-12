@@ -7,14 +7,18 @@ public class Hediff_FailSafe : HediffWithComps
     public override void Notify_PawnDied(DamageInfo? dinfo, Hediff culprit = null)
     {
         base.Notify_PawnDied(dinfo, culprit);
-        if (!pawn.Corpse.Spawned)
+        var corpse = pawn.Corpse;
+        if (corpse == null || !corpse.Spawned)
         {
             return;
         }
 
-        pawn.Corpse.Destroy();
+        var position = corpse.Position;
+        var map = corpse.Map;
+        corpse.Destroy();
+
         var effecter = EffecterDefOf.FailSafeExit.Spawn();
-        effecter.Trigger(new TargetInfo(pawn.Position, pawn.Map), TargetInfo.Invalid);
+        effecter.Trigger(new TargetInfo(position, map), TargetInfo.Invalid);
         effecter.Cleanup();
     }
 }
