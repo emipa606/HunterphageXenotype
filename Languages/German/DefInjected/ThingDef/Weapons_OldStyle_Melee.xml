@@ -40,7 +40,7 @@
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>Punkt</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>Rand</MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>
   <!-- EN: katana -->
-  <MeleeWeapon_Hunterphage_Katana.label>katana</MeleeWeapon_Hunterphage_Katana.label>
+  <MeleeWeapon_Hunterphage_Katana.label>Katana</MeleeWeapon_Hunterphage_Katana.label>
   <!-- EN: An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use. -->
   <MeleeWeapon_Hunterphage_Katana.description>Eine uralte Waffe, die ihren Ursprung in einem längst vergessenen Land namens „Japan“ hat und so lange weiterbestehte, bis die Herstellungsmethoden in die Hände der Hunterphagen fielen. Sie wird aufgrund ihrer hervorragenden Schneidkraft und ihrer einfachen Handhabung weit verbreitet eingesetzt.</MeleeWeapon_Hunterphage_Katana.description>
   <MeleeWeapon_Hunterphage_Katana.tools.handle.label>Griff</MeleeWeapon_Hunterphage_Katana.tools.handle.label>
@@ -96,7 +96,7 @@
   <MeleeWeapon_Hunterphage_ShortSword.tools.point.label>Punkt</MeleeWeapon_Hunterphage_ShortSword.tools.point.label>
   <MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>Rand</MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>
   <!-- EN: zweihander -->
-  <MeleeWeapon_Hunterphage_Zweihander.label>zweihander</MeleeWeapon_Hunterphage_Zweihander.label>
+  <MeleeWeapon_Hunterphage_Zweihander.label>Zweihänder</MeleeWeapon_Hunterphage_Zweihander.label>
   <!-- EN: A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half. -->
   <MeleeWeapon_Hunterphage_Zweihander.description>Ein zweihändiges Großschwert, das laut alten Aufzeichnungen seinen Ursprung in „Deutschland“ hat. Einst wurde es von den germanischen Söldnern, den „Landsknechten“, verwendet, heute nutzen es erfahrene Hunterphages, um Scyther in zwei Hälften zu zerteilen.</MeleeWeapon_Hunterphage_Zweihander.description>
   <MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>Griff</MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>

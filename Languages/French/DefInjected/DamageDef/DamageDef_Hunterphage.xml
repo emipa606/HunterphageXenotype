@@ -52,7 +52,7 @@
   <HeartSeekerStabzNormal.deathMessage>{0} a été tué à coups d'arme blanche.</HeartSeekerStabzNormal.deathMessage>
   <RandyRevenge.deathMessage>{0} ont péri dans l'explosion.</RandyRevenge.deathMessage>
   <!-- EN: shadow cut -->
-  <ShadowCut.label>shadow cut</ShadowCut.label>
+  <ShadowCut.label>entaille d'ombre</ShadowCut.label>
   <ShadowCut.deathMessage>{0} a été coupé à mort.</ShadowCut.deathMessage>
   <!-- EN: shadow edge slash -->
   <ShadowEdgez.label>coup de l'ombre</ShadowEdgez.label>

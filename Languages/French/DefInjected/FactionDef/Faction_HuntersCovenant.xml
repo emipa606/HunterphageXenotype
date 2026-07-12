@@ -10,7 +10,7 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <HuntersCovenant.messageDefendersAttacking>{0} de {1} attaquent votre {2}.</HuntersCovenant.messageDefendersAttacking>
   <!-- EN: hunter -->
-  <HuntersCovenant.pawnSingular>hunter</HuntersCovenant.pawnSingular>
+  <HuntersCovenant.pawnSingular>chasseur</HuntersCovenant.pawnSingular>
   <!-- EN: hunters -->
   <HuntersCovenant.pawnsPlural>chasseurs</HuntersCovenant.pawnsPlural>
 </LanguageData>

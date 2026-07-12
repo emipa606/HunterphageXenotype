@@ -8,7 +8,7 @@
   <!-- EN: handle -->
   <MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>manche</MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_Hunterphage_BastardSword.tools.point.label>point</MeleeWeapon_Hunterphage_BastardSword.tools.point.label>
+  <MeleeWeapon_Hunterphage_BastardSword.tools.point.label>pointe</MeleeWeapon_Hunterphage_BastardSword.tools.point.label>
   <!-- EN: edge -->
   <MeleeWeapon_Hunterphage_BastardSword.tools.edge.label>bord</MeleeWeapon_Hunterphage_BastardSword.tools.edge.label>
   <!-- EN: heavy saw blade -->
@@ -23,7 +23,7 @@
   <!-- EN: A large battleaxe used by experienced hunters, can inflict even greater cutting damage than most conventional melee weapons on the rim. -->
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.description>Une grande hache de combat utilisée par les chasseurs expérimentés, capable d'infliger des dégâts de tranchage encore plus importants que la plupart des armes de mêlée conventionnelles de la Bordure.</MeleeWeapon_Hunterphage_HuntersBattleAxe.description>
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>manche</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>
-  <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>point</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>pointe</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>
   <!-- EN: axe head -->
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.axe_head.label>tête de hache</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.axe_head.label>
   <!-- EN: hunter's spear -->
@@ -31,20 +31,20 @@
   <!-- EN: A sizable hunting spear that was used to hunt thrumbos due to its base armor penetration, now used to impale foolish pirates and hostile outlanders. -->
   <MeleeWeapon_Hunterphage_HunterSpear.description>Une lance de chasse imposante qui servait autrefois à chasser les thrumbos grâce à sa pénétration d'armure de base, et qui est désormais utilisée pour empaler les pirates imprudents et les étrangers hostiles.</MeleeWeapon_Hunterphage_HunterSpear.description>
   <MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>manche</MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>
-  <MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>point</MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>
+  <MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>pointe</MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>
   <!-- EN: hunting knife -->
   <MeleeWeapon_Hunterphage_HuntingKnife.label>couteau de chasse</MeleeWeapon_Hunterphage_HuntingKnife.label>
   <!-- EN: A basic melee weapon and one of the lightest one-handed weapon, which allows for faster melee hits. It can also boost the user's plant worker speed when equipped -->
   <MeleeWeapon_Hunterphage_HuntingKnife.description>Une arme de mêlée basique et l'une des armes à une main les plus légères, ce qui permet d'infliger des coups de mêlée plus rapides. Elle peut également augmenter la vitesse de travail de l'utilisateur lorsqu'il est équipé.</MeleeWeapon_Hunterphage_HuntingKnife.description>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>manche</MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>
-  <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>point</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
+  <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>pointe</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>bord</MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>
   <!-- EN: katana -->
   <MeleeWeapon_Hunterphage_Katana.label>katana</MeleeWeapon_Hunterphage_Katana.label>
   <!-- EN: An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use. -->
   <MeleeWeapon_Hunterphage_Katana.description>Une arme ancienne originaire d'un pays depuis longtemps oublié appelé « Japon », qui a perduré jusqu'à ce que ses méthodes de fabrication tombent entre les mains des Hunterphages. Largement utilisée pour son excellente capacité de coupe et sa facilité d'utilisation.</MeleeWeapon_Hunterphage_Katana.description>
   <MeleeWeapon_Hunterphage_Katana.tools.handle.label>manche</MeleeWeapon_Hunterphage_Katana.tools.handle.label>
-  <MeleeWeapon_Hunterphage_Katana.tools.point.label>point</MeleeWeapon_Hunterphage_Katana.tools.point.label>
+  <MeleeWeapon_Hunterphage_Katana.tools.point.label>pointe</MeleeWeapon_Hunterphage_Katana.tools.point.label>
   <MeleeWeapon_Hunterphage_Katana.tools.edge.label>bord</MeleeWeapon_Hunterphage_Katana.tools.edge.label>
   <!-- EN: ripper saber -->
   <MeleeWeapon_Hunterphage_RipperSaber.label>sabre-déchireur</MeleeWeapon_Hunterphage_RipperSaber.label>
@@ -71,7 +71,7 @@
   <!-- EN: One of the deadliest weapon wielded by elite shadow walkers. This weapon in particular is designed to take down powerful targets more efficiently than any other melee weapons in the hunters covenant, and all of this was possible due to its ability to inflict armor bane more frequently and superior armor penetration. -->
   <MeleeWeapon_Hunterphage_ShadowBane.description>L'une des armes les plus meurtrières maniées par les marcheurs de l'ombre d'élite. Cette arme en particulier est conçue pour neutraliser des cibles puissantes plus efficacement que n'importe quelle autre arme de mêlée du pacte des chasseurs, et tout cela est rendu possible grâce à sa capacité à infliger plus fréquemment le malus « Fléau de l'armure » et à sa pénétration d'armure supérieure.</MeleeWeapon_Hunterphage_ShadowBane.description>
   <MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>manche</MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>
-  <MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>
+  <MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>pointe</MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>
   <!-- EN: blade edge -->
   <MeleeWeapon_Hunterphage_ShadowBane.tools.blade_edge.label>tranchant de la lame</MeleeWeapon_Hunterphage_ShadowBane.tools.blade_edge.label>
   <!-- EN: shadow dagger -->
@@ -79,27 +79,27 @@
   <!-- EN: A one-handed dagger wielded by the shadow walkers. Although lacking in damage, it's light and possess better grip, which allows for faster melee hits and increased chance to inflict armor bane in every hit. -->
   <MeleeWeapon_Hunterphage_ShadowDagger.description>Une dague à une main maniée par les marcheurs de l'ombre. Bien qu'elle inflige peu de dégâts, elle est légère et offre une meilleure prise en main, ce qui permet d'enchaîner plus rapidement les coups au corps à corps et augmente les chances d'infliger un effet « Armure brisée » à chaque coup.</MeleeWeapon_Hunterphage_ShadowDagger.description>
   <MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>manche</MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>
-  <MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>
+  <MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>pointe</MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>
   <MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>tranchant de la lame</MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>
   <!-- EN: shadow saber -->
   <MeleeWeapon_Hunterphage_ShadowSaber.label>sabre d'ombre</MeleeWeapon_Hunterphage_ShadowSaber.label>
   <!-- EN: A one-handed saber wielded by the shadow walkers. Both increadibly sharp and easy to use, which allows for more deadly and precise cuts, along with an added bonus of having a chance to inflict armor bane upon melee hit. -->
   <MeleeWeapon_Hunterphage_ShadowSaber.description>Un sabre à une main manié par les marcheurs de l'ombre. À la fois incroyablement tranchant et facile à manier, il permet d'effectuer des coups plus meurtriers et plus précis, avec en prime une chance d'infliger l'effet « Fléau de l'armure » lors d'un coup au corps à corps.</MeleeWeapon_Hunterphage_ShadowSaber.description>
   <MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>manche</MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>
-  <MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>point</MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>
+  <MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>pointe</MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>
   <MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>tranchant de la lame</MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>
   <!-- EN: short sword -->
   <MeleeWeapon_Hunterphage_ShortSword.label>épée courte</MeleeWeapon_Hunterphage_ShortSword.label>
   <!-- EN: A well rounded melee weapon, perfect for stabbing and cutting. -->
   <MeleeWeapon_Hunterphage_ShortSword.description>Une arme de mêlée polyvalente, parfaite pour poignarder et trancher.</MeleeWeapon_Hunterphage_ShortSword.description>
   <MeleeWeapon_Hunterphage_ShortSword.tools.handle.label>manche</MeleeWeapon_Hunterphage_ShortSword.tools.handle.label>
-  <MeleeWeapon_Hunterphage_ShortSword.tools.point.label>point</MeleeWeapon_Hunterphage_ShortSword.tools.point.label>
+  <MeleeWeapon_Hunterphage_ShortSword.tools.point.label>pointe</MeleeWeapon_Hunterphage_ShortSword.tools.point.label>
   <MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>bord</MeleeWeapon_Hunterphage_ShortSword.tools.edge.label>
   <!-- EN: zweihander -->
   <MeleeWeapon_Hunterphage_Zweihander.label>zweihander</MeleeWeapon_Hunterphage_Zweihander.label>
   <!-- EN: A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half. -->
   <MeleeWeapon_Hunterphage_Zweihander.description>Une grande épée à deux mains originaire d'« Allemagne », selon d'anciens documents. Autrefois utilisée par les mercenaires germaniques appelés « Landsknechte », elle est désormais employée par les chasseurs de phages expérimentés pour trancher les faucheurs en deux.</MeleeWeapon_Hunterphage_Zweihander.description>
   <MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>manche</MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>
-  <MeleeWeapon_Hunterphage_Zweihander.tools.point.label>point</MeleeWeapon_Hunterphage_Zweihander.tools.point.label>
+  <MeleeWeapon_Hunterphage_Zweihander.tools.point.label>pointe</MeleeWeapon_Hunterphage_Zweihander.tools.point.label>
   <MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>bord</MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>
 </LanguageData>

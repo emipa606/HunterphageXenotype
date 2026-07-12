@@ -28,7 +28,7 @@
 
 La conception de ces armes remonte manifestement aux humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'avoir une faible chance d'infliger des dégâts considérables en un seul tir.</Gun_Blunderbuss.description>
   <!-- EN: stock -->
-  <Gun_Blunderbuss.tools.stock.label>stock</Gun_Blunderbuss.tools.stock.label>
+  <Gun_Blunderbuss.tools.stock.label>crosse</Gun_Blunderbuss.tools.stock.label>
   <!-- EN: barrel -->
   <Gun_Blunderbuss.tools.barrel.label>tonneau</Gun_Blunderbuss.tools.barrel.label>
   <Gun_Blunderbuss.verbs.Verb_Shoot.label>tromblon</Gun_Blunderbuss.verbs.Verb_Shoot.label>
@@ -38,7 +38,7 @@ La conception de ces armes remonte manifestement aux humains, mais l'atelier des
   <Gun_BlunderbussLongGun.description>Version à canon long du tromblon, bien qu'inférieure au fusil à silex classique en termes de portée, c'est la seule arme à feu de sa catégorie capable de tirer plusieurs plombs à courte et moyenne portée.
 
 Les conceptions de ces armes ont manifestement été imaginées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_BlunderbussLongGun.description>
-  <Gun_BlunderbussLongGun.tools.stock.label>stock</Gun_BlunderbussLongGun.tools.stock.label>
+  <Gun_BlunderbussLongGun.tools.stock.label>crosse</Gun_BlunderbussLongGun.tools.stock.label>
   <Gun_BlunderbussLongGun.tools.barrel.label>tonneau</Gun_BlunderbussLongGun.tools.barrel.label>
   <Gun_BlunderbussLongGun.verbs.Verb_Shoot.label>fusil à canon long de type « blunderbuss »</Gun_BlunderbussLongGun.verbs.Verb_Shoot.label>
   <!-- EN: enouy revolver -->
@@ -47,7 +47,7 @@ Les conceptions de ces armes ont manifestement été imaginées par les humains,
   <Gun_EnouyRevolver.description>Une variante du revolver traditionnel composée de 8 barillets assemblés à la manière d’un revolver, permettant un rechargement plus rapide grâce à la rotation d’un barillet vide avec un autre barillet.
 
 Les conceptions de ces armes ont manifestement été imaginées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_EnouyRevolver.description>
-  <Gun_EnouyRevolver.tools.stock.label>stock</Gun_EnouyRevolver.tools.stock.label>
+  <Gun_EnouyRevolver.tools.stock.label>crosse</Gun_EnouyRevolver.tools.stock.label>
   <Gun_EnouyRevolver.tools.barrel.label>tonneau</Gun_EnouyRevolver.tools.barrel.label>
   <Gun_EnouyRevolver.verbs.Verb_Shoot.label>revolver enouy</Gun_EnouyRevolver.verbs.Verb_Shoot.label>
   <!-- EN: flintlock long gun -->
@@ -56,7 +56,7 @@ Les conceptions de ces armes ont manifestement été imaginées par les humains,
   <Gun_FlintlockLongGun.description>Une arme longue à silex à longue portée utilisée dans les grandes forteresses défensives. Elle offre une meilleure portée et des dégâts accrus, mais en contrepartie, il faut plus de temps que d'habitude pour tirer une balle à intervalles réguliers.
 
 La conception de ces armes est manifestement d’origine humaine, mais l’atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d’infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_FlintlockLongGun.description>
-  <Gun_FlintlockLongGun.tools.stock.label>stock</Gun_FlintlockLongGun.tools.stock.label>
+  <Gun_FlintlockLongGun.tools.stock.label>crosse</Gun_FlintlockLongGun.tools.stock.label>
   <Gun_FlintlockLongGun.tools.barrel.label>tonneau</Gun_FlintlockLongGun.tools.barrel.label>
   <Gun_FlintlockLongGun.verbs.Verb_Shoot.label>fusil à silex</Gun_FlintlockLongGun.verbs.Verb_Shoot.label>
   <!-- EN: flintlock rifle -->
@@ -65,7 +65,7 @@ La conception de ces armes est manifestement d’origine humaine, mais l’ateli
   <Gun_FlintlockRifle.description>L'une des toutes premières armes à feu jamais créées, et une arme fiable tant pour la chasse que pour la défense de la colonie.
 
 Les plans de ces armes ont manifestement été conçus par les humains, mais l'atelier des chasseurs les a modifiées pour les adapter aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_FlintlockRifle.description>
-  <Gun_FlintlockRifle.tools.stock.label>stock</Gun_FlintlockRifle.tools.stock.label>
+  <Gun_FlintlockRifle.tools.stock.label>crosse</Gun_FlintlockRifle.tools.stock.label>
   <Gun_FlintlockRifle.tools.barrel.label>tonneau</Gun_FlintlockRifle.tools.barrel.label>
   <Gun_FlintlockRifle.verbs.Verb_Shoot.label>fusil à silex</Gun_FlintlockRifle.verbs.Verb_Shoot.label>
   <!-- EN: frontier revolver -->
@@ -74,14 +74,14 @@ Les plans de ces armes ont manifestement été conçus par les humains, mais l'a
   <Gun_FrontierRevolver.description>Un revolver à percussion à simple action, ancien mais fiable, que l'on retrouve dans les étuis de nombreux colons à travers la périphérie. Contrairement aux autres armes à feu de type revolver, le revolver de la frontière possède une cadence de tir légèrement plus rapide, un temps de préchauffage légèrement plus court, et chaque tir est d'une puissance redoutable.
 
 Les plans de ces armes ont manifestement été conçus par les humains, mais l'atelier des chasseurs les a modifiés pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_FrontierRevolver.description>
-  <Gun_FrontierRevolver.tools.stock.label>stock</Gun_FrontierRevolver.tools.stock.label>
+  <Gun_FrontierRevolver.tools.stock.label>crosse</Gun_FrontierRevolver.tools.stock.label>
   <Gun_FrontierRevolver.tools.barrel.label>tonneau</Gun_FrontierRevolver.tools.barrel.label>
   <Gun_FrontierRevolver.verbs.Verb_Shoot.label>revolver de pionnier</Gun_FrontierRevolver.verbs.Verb_Shoot.label>
   <!-- EN: hunters flame sprayer -->
   <Gun_HuntersFlamesprayer.label>lance-flammes des chasseurs</Gun_HuntersFlamesprayer.label>
   <!-- EN: A hand-held flame thrower that was used to burn insect hives and sangophages. Regardless of its size, this mini flamer can spread a sea of inferno at short range, and it can do so in a matter of seconds. A perfect weapon to use in kill boxes by funneling enemies in a tight corridor, and blasting them once they reach the exit. -->
   <Gun_HuntersFlamesprayer.description>Un lance-flammes portatif qui servait à brûler les ruches d'insectes et les sangophages. Malgré sa petite taille, ce mini-lance-flammes peut propager un véritable brasier à courte portée, et ce en quelques secondes seulement. Une arme parfaite à utiliser dans les « kill boxes » : elle permet de canaliser les ennemis dans un couloir étroit, puis de les pulvériser dès qu'ils atteignent la sortie.</Gun_HuntersFlamesprayer.description>
-  <Gun_HuntersFlamesprayer.tools.stock.label>stock</Gun_HuntersFlamesprayer.tools.stock.label>
+  <Gun_HuntersFlamesprayer.tools.stock.label>crosse</Gun_HuntersFlamesprayer.tools.stock.label>
   <Gun_HuntersFlamesprayer.tools.barrel.label>tonneau</Gun_HuntersFlamesprayer.tools.barrel.label>
   <Gun_HuntersFlamesprayer.verbs.Verb_SpewFire.label>lance-flammes des chasseurs</Gun_HuntersFlamesprayer.verbs.Verb_SpewFire.label>
   <!-- EN: marauder cannon -->
@@ -104,7 +104,7 @@ Les conceptions de ces armes ont manifestement été créées par les humains, m
   <Gun_PercussionLongGun.description>Une version à canon long du fusil à percussion, qui offre une plus grande portée et une meilleure pénétration des armures.
 
 Les plans de ces armes ont manifestement été conçus par les humains, mais l'atelier des chasseurs les a modifiées pour les adapter aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_PercussionLongGun.description>
-  <Gun_PercussionLongGun.tools.stock.label>stock</Gun_PercussionLongGun.tools.stock.label>
+  <Gun_PercussionLongGun.tools.stock.label>crosse</Gun_PercussionLongGun.tools.stock.label>
   <Gun_PercussionLongGun.tools.barrel.label>tonneau</Gun_PercussionLongGun.tools.barrel.label>
   <Gun_PercussionLongGun.verbs.Verb_Shoot.label>arme longue à percussion</Gun_PercussionLongGun.verbs.Verb_Shoot.label>
   <!-- EN: percussion rifle -->
@@ -113,7 +113,7 @@ Les plans de ces armes ont manifestement été conçus par les humains, mais l'a
   <Gun_PercussionRifle.description>Une version améliorée des armes à feu à silex, qui utilise des amorces à percussion pour enflammer la poudre noire à l'intérieur de la chambre. Grâce au rayage pentagonal du canon, le projectile peut parcourir une distance encore plus longue et transpercer même les armures les plus résistantes.
 
 Les conceptions de ces armes ont manifestement été imaginées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_PercussionRifle.description>
-  <Gun_PercussionRifle.tools.stock.label>stock</Gun_PercussionRifle.tools.stock.label>
+  <Gun_PercussionRifle.tools.stock.label>crosse</Gun_PercussionRifle.tools.stock.label>
   <Gun_PercussionRifle.tools.barrel.label>tonneau</Gun_PercussionRifle.tools.barrel.label>
   <Gun_PercussionRifle.verbs.Verb_Shoot.label>fusil à percussion</Gun_PercussionRifle.verbs.Verb_Shoot.label>
   <!-- EN: revolving long gun -->
@@ -122,7 +122,7 @@ Les conceptions de ces armes ont manifestement été imaginées par les humains,
   <Gun_RevolvingLongGun.description>Une version à canon long du fusil à barillet. Cette arme à canon long possède une cadence de tir faible, mais compense par une meilleure précision à chaque tir.
 
 Les conceptions de ces armes ont manifestement été imaginées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins du Covenant, permettant ainsi à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_RevolvingLongGun.description>
-  <Gun_RevolvingLongGun.tools.stock.label>stock</Gun_RevolvingLongGun.tools.stock.label>
+  <Gun_RevolvingLongGun.tools.stock.label>crosse</Gun_RevolvingLongGun.tools.stock.label>
   <Gun_RevolvingLongGun.tools.barrel.label>tonneau</Gun_RevolvingLongGun.tools.barrel.label>
   <Gun_RevolvingLongGun.verbs.Verb_Shoot.label>arme longue rotative</Gun_RevolvingLongGun.verbs.Verb_Shoot.label>
   <!-- EN: revolving rifle -->
@@ -131,7 +131,7 @@ Les conceptions de ces armes ont manifestement été imaginées par les humains,
   <Gun_RevolvingRifle.description>Un fusil à percussion à barillet à simple action. Grâce à son barillet, ce fusil peut tirer 5 balles tranchantes à un rythme régulier et dispose d’une capacité de pénétration de l’armure non négligeable.
 
 Les conceptions de ces armes ont manifestement été imaginées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, permettant ainsi à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_RevolvingRifle.description>
-  <Gun_RevolvingRifle.tools.stock.label>stock</Gun_RevolvingRifle.tools.stock.label>
+  <Gun_RevolvingRifle.tools.stock.label>crosse</Gun_RevolvingRifle.tools.stock.label>
   <Gun_RevolvingRifle.tools.barrel.label>tonneau</Gun_RevolvingRifle.tools.barrel.label>
   <Gun_RevolvingRifle.verbs.Verb_Shoot.label>fusil rotatif</Gun_RevolvingRifle.verbs.Verb_Shoot.label>
   <!-- EN: scoped percussion long gun -->
@@ -140,7 +140,7 @@ Les conceptions de ces armes ont manifestement été imaginées par les humains,
   <Gun_ScopedPercussionLongGun.description>Une version à canon long du fusil à percussion, qui offre une plus grande portée et une meilleure pénétration des armures, et qui est désormais équipée d’une lunette de visée permettant à son utilisateur d’améliorer la précision de ses tirs à distance.
 
 Les conceptions de ces armes ont manifestement été créées par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, permettant ainsi à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_ScopedPercussionLongGun.description>
-  <Gun_ScopedPercussionLongGun.tools.stock.label>stock</Gun_ScopedPercussionLongGun.tools.stock.label>
+  <Gun_ScopedPercussionLongGun.tools.stock.label>crosse</Gun_ScopedPercussionLongGun.tools.stock.label>
   <Gun_ScopedPercussionLongGun.tools.barrel.label>tonneau</Gun_ScopedPercussionLongGun.tools.barrel.label>
   <Gun_ScopedPercussionLongGun.verbs.Verb_Shoot.label>arme longue à percussion équipée d'une lunette</Gun_ScopedPercussionLongGun.verbs.Verb_Shoot.label>
   <!-- EN: scoped revolving long gun -->
@@ -149,7 +149,7 @@ Les conceptions de ces armes ont manifestement été créées par les humains, m
   <Gun_ScopedRevolvingLongGun.description>Une version à canon long du fusil à barillet. Ce fusil à barillet à canon long possède une cadence de tir lente, mais compense par une meilleure précision à chaque tir ; il est désormais équipé d’une lunette qui augmente encore davantage la précision de l’arme.
 
 Les conceptions de ces armes proviennent manifestement des humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, permettant ainsi à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_ScopedRevolvingLongGun.description>
-  <Gun_ScopedRevolvingLongGun.tools.stock.label>stock</Gun_ScopedRevolvingLongGun.tools.stock.label>
+  <Gun_ScopedRevolvingLongGun.tools.stock.label>crosse</Gun_ScopedRevolvingLongGun.tools.stock.label>
   <Gun_ScopedRevolvingLongGun.tools.barrel.label>tonneau</Gun_ScopedRevolvingLongGun.tools.barrel.label>
   <Gun_ScopedRevolvingLongGun.verbs.Verb_Shoot.label>arme longue à canon tournant équipée d'une lunette</Gun_ScopedRevolvingLongGun.verbs.Verb_Shoot.label>
   <!-- EN: six barrel magnum -->
@@ -158,7 +158,7 @@ Les conceptions de ces armes proviennent manifestement des humains, mais l'ateli
   <Gun_SixBarrelMagnum.description>Une arme à feu étrange dotée de six canons disposés à la manière d’un revolver. Malgré son design insolite, cette arme fonctionne comme un revolver en termes de tir et de rechargement, et peut infliger des dégâts dévastateurs à courte et moyenne portée. On pense qu’une telle arme était autrefois utilisée pour chasser les sorcières.
 
 Les plans de ces armes ont manifestement été conçus par les humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'infliger, avec une faible probabilité, des dégâts considérables en un seul tir.</Gun_SixBarrelMagnum.description>
-  <Gun_SixBarrelMagnum.tools.stock.label>stock</Gun_SixBarrelMagnum.tools.stock.label>
+  <Gun_SixBarrelMagnum.tools.stock.label>crosse</Gun_SixBarrelMagnum.tools.stock.label>
   <Gun_SixBarrelMagnum.tools.barrel.label>tonneau</Gun_SixBarrelMagnum.tools.barrel.label>
   <Gun_SixBarrelMagnum.verbs.Verb_Shoot.label>magnum à six canons</Gun_SixBarrelMagnum.verbs.Verb_Shoot.label>
   <!-- EN: turret magnum -->
@@ -167,7 +167,7 @@ Les plans de ces armes ont manifestement été conçus par les humains, mais l'a
   <Gun_TurretMagnum.description>Une arme de petit calibre à moyenne portée qui tire dix coups en une seule rafale. Cette capacité à tirer dix fois a été rendue possible grâce à la conception de son barillet en forme de disque, sur la circonférence duquel les balles sont chargées.
 
 La conception de ces armes est manifestement d'origine humaine, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_TurretMagnum.description>
-  <Gun_TurretMagnum.tools.stock.label>stock</Gun_TurretMagnum.tools.stock.label>
+  <Gun_TurretMagnum.tools.stock.label>crosse</Gun_TurretMagnum.tools.stock.label>
   <Gun_TurretMagnum.tools.barrel.label>tonneau</Gun_TurretMagnum.tools.barrel.label>
   <Gun_TurretMagnum.verbs.Verb_Shoot.label>tourelle magnum</Gun_TurretMagnum.verbs.Verb_Shoot.label>
   <!-- EN: volley rifle -->
@@ -176,7 +176,7 @@ La conception de ces armes est manifestement d'origine humaine, mais l'atelier d
   <Gun_VolleyRifle.description>Un fusil exotique, qui constitue une alternative au tromblon. Le fusil à salve est essentiellement composé de 7 cylindres rayés réunis en un seul, qui, lorsqu’ils sont tirés simultanément, permettent d’atteindre la cible visée avec une grande précision et une grande portée.
 
 Les conceptions de ces armes proviennent manifestement des humains, mais l'atelier des chasseurs les a modifiées pour répondre aux besoins de la Confrérie, ce qui permet à ces armes à feu d'avoir une faible probabilité d'infliger des dégâts considérables en un seul tir.</Gun_VolleyRifle.description>
-  <Gun_VolleyRifle.tools.stock.label>stock</Gun_VolleyRifle.tools.stock.label>
+  <Gun_VolleyRifle.tools.stock.label>crosse</Gun_VolleyRifle.tools.stock.label>
   <Gun_VolleyRifle.tools.barrel.label>tonneau</Gun_VolleyRifle.tools.barrel.label>
   <Gun_VolleyRifle.verbs.Verb_Shoot.label>fusil à salve</Gun_VolleyRifle.verbs.Verb_Shoot.label>
 </LanguageData>
