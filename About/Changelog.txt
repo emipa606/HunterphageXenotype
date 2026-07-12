@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.6.2 - Translation fixes, thanks to SypherRed
+
+
 1.6.1 - Several fixes, thanks to SypherRed
 Fixed Hunterphage newborn generation failing because Hunter_Basic inherited adult skill requirements.
 Fixed a possible null reference when FailSafe processes a pawn without a spawned corpse.

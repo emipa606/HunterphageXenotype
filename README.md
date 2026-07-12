@@ -4,6 +4,8 @@
 
 Update of BlackMarket420s mod https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138
 
+- Several bug-fixes included by SypherRed
+
 **The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md)**.
 To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3376685206).
 
