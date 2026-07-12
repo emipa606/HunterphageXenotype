@@ -10,4 +10,11 @@
     <li>r_logentry->[INITIATOR_nameDef] invites [RECIPIENT_nameDef] for a dinner.</li>
     <li>r_logentry->Are you a piece of flake [RECIPIENT_nameDef]? Because I am addicted to you.</li>
   -->
+  <Socialize.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] meinte, dass [INITIATOR_nameDef] und [RECIPIENT_nameDef] durch den roten Faden des Schicksals verbunden seien.</li>
+    <li>r_logentry->[INITIATOR_nameDef] schlug [RECIPIENT_nameDef] vor, sich eine Flasche kaltes Bier zu schnappen und gemeinsam Zeit zu verbringen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] machte [RECIPIENT_nameDef] ein Kompliment für das reizende Aussehen.</li>
+    <li>r_logentry->[INITIATOR_nameDef] lud [RECIPIENT_nameDef] zum Abendessen ein.</li>
+    <li>r_logentry->Bist du etwa eine Portion Flake, [RECIPIENT_nameDef]? Denn ich bin süchtig nach dir.</li>
+  </Socialize.logRulesInitiator.rulesStrings>
 </LanguageData>

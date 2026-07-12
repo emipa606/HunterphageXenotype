@@ -10,4 +10,11 @@
     <li>r_logentry->[INITIATOR_nameDef] invites [RECIPIENT_nameDef] for a dinner.</li>
     <li>r_logentry->Are you a piece of flake [RECIPIENT_nameDef]? Because I am addicted to you.</li>
   -->
+  <Socialize.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]表示，[INITIATOR_nameDef]和[RECIPIENT_nameDef]被命运的红线相连。</li>
+    <li>r_logentry->[INITIATOR_nameDef]提议和[RECIPIENT_nameDef]拿一瓶冰啤酒，一起消磨时光。</li>
+    <li>r_logentry->[INITIATOR_nameDef]称赞了[RECIPIENT_nameDef]迷人的外表。</li>
+    <li>r_logentry->[INITIATOR_nameDef]邀请[RECIPIENT_nameDef]共进晚餐。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]，你是一剂薄片吗？因为我对你上瘾了。</li>
+  </Socialize.logRulesInitiator.rulesStrings>
 </LanguageData>
