@@ -77,5 +77,5 @@ Achtung! Sehr explosiv!</GatlingAmmoBox.description>
   <!-- EN: visceral solution -->
   <VisceralSolution.label>viszerale Lösung</VisceralSolution.label>
   <!-- EN: A syrup-like substance made from brain matter. Exclusively manufactured from the hunter's workshop as a main ingredient for their combat potions. -->
-  <VisceralSolution.description>Eine sirupartige Substanz aus Hirnmasse. Wird ausschließlich in der Werkstatt des Jägers als Hauptzutat für dessen Kampftränke hergestellt.</VisceralSolution.description>
+  <VisceralSolution.description>Eine sirupartige Substanz aus Hirnmasse. Sie wird ausschließlich an der Jägerwerkbank als Hauptzutat für Kampftränke hergestellt.</VisceralSolution.description>
 </LanguageData>

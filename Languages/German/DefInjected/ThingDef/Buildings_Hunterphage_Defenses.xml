@@ -40,7 +40,7 @@
   <!-- EN: Shots remaining -->
   <Turret_Mannable_Ballista.comps.CompRefuelable.fuelGizmoLabel>Verbleibende Schüsse</Turret_Mannable_Ballista.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until bolt replenishment -->
-  <Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>Schüsse bis zur Nachladung des Bolzens</Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>
+  <Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>Schüsse bis zum Bolzennachschub</Turret_Mannable_Ballista.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new bolts -->
   <Turret_Mannable_Ballista.comps.CompRefuelable.outOfFuelMessage>Kann nicht schießen: Benötigt neue Bolzen</Turret_Mannable_Ballista.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: cannon turret "mannable" -->

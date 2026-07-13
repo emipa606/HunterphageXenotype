@@ -23,7 +23,7 @@
   <!-- EN: blunderbuss -->
   <Gun_Blunderbuss.label>Blunderbuss</Gun_Blunderbuss.label>
   <!-- EN: One of the earlier shotgun used by the pirates of old, now used by hunterphages as a tool for short-range slaughter. Like standard shotguns, it can fire five pellets simultaneously and can inflict decent amounts of damage.\n\nDesigns for these weapons were obviously originated by the humans, but the hunters workshop modified these weapons for the covenant's convience, allowing these firearms to have a low chance to inflict tremendous amounts of damage in a single hit. -->
-  <Gun_Blunderbuss.description>Eine frühe Schrotflinte, die einst von Piraten geführt wurde und den Hunterphagen heute als verheerende Nahkampfwaffe dient. Wie moderne Schrotflinten verschießt sie fünf Projektile gleichzeitig und richtet auf kurze Distanz beträchtlichen Schaden an.
+  <Gun_Blunderbuss.description>Eine frühe Schrotflinte, die einst von Piraten geführt wurde und den Hunterphagen heute als verheerende Waffe für kurze Distanzen dient. Wie moderne Schrotflinten verschießt sie fünf Projektile gleichzeitig und richtet auf kurze Distanz beträchtlichen Schaden an.
 
 Ursprünglich von Menschen entwickelt, wurde diese Waffe in der Jägerwerkstatt an die Bedürfnisse des Bundes angepasst. Dadurch besteht bei jedem Treffer eine geringe Chance, außergewöhnlich hohen Schaden zu verursachen.</Gun_Blunderbuss.description>
   <!-- EN: stock -->
@@ -92,7 +92,7 @@ Ursprünglich von Menschen entwickelt, wurde diese Waffe in der Jägerwerkstatt 
   <!-- EN: marauder gatling gun -->
   <Gun_MarauderGatling.label>Marodeur-Gatlingkanone</Gun_MarauderGatling.label>
   <!-- EN: A hand held, machine powered gatling gun wielded by the powder keg hunters. It is both bulky, heavy to use, and it relies on a chemfuel powered machine to fire 30 rounds of bullets against groups of enemies, but it does get the job done in providing crowd control and supressive fire againsts any enemies.\n\nDesigns for these weapons were obviously originated by the humans, but the hunters workshop modified these weapons for the covenant's convience, allowing these firearms to have a low chance to inflict tremendous amounts of damage in a single hit. -->
-  <Gun_MarauderGatling.description>Eine maschinengetriebene Gatlingkanone der Powder-Keg-Jäger. Sie ist sperrig, schwer zu führen und benötigt einen Chemfuel-Antrieb, feuert dafür aber 30 Geschosse auf einmal ab. Damit eignet sie sich hervorragend für Sperrfeuer und gegen dicht gedrängte Gegner.
+  <Gun_MarauderGatling.description>Eine maschinengetriebene Gatlingkanone der Powder-Keg-Jäger. Sie ist sperrig, schwer zu führen und benötigt einen Chemfuel-Antrieb, feuert dafür aber 30 Geschosse auf einmal ab. Damit eignet sie sich hervorragend für Sperrfeuer und den Einsatz gegen dicht gedrängte Gegner.
 
 Ursprünglich von Menschen entwickelt, wurde diese Waffe in der Jägerwerkstatt an die Bedürfnisse des Bundes angepasst. Dadurch besteht bei jedem Treffer eine geringe Chance, außergewöhnlich hohen Schaden zu verursachen.</Gun_MarauderGatling.description>
   <Gun_MarauderGatling.tools.barrel.label>Lauf</Gun_MarauderGatling.tools.barrel.label>

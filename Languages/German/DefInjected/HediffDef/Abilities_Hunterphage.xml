@@ -3,5 +3,5 @@
   <!-- EN: Failsafe -->
   <FailSafe.label>Ausfallsicherung</FailSafe.label>
   <!-- EN: An automaton failsafe -->
-  <FailSafe.description>Eine Sicherheitsvorkehrung für Automaten</FailSafe.description>
+  <FailSafe.description>Eine Sicherheitsvorkehrung für Automaten.</FailSafe.description>
 </LanguageData>

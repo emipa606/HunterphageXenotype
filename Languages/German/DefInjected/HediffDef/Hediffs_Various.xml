@@ -3,7 +3,7 @@
   <!-- EN: high on adrenaline -->
   <AdrenalineHigh.label>voller Adrenalin</AdrenalineHigh.label>
   <!-- EN: Bursts of chemicals are coursing in the bloodstream. Eliminating all pain, reduce bleeding, and increase movement and healing speed. -->
-  <AdrenalineHigh.description>Adrenalin durchströmt den Körper, unterdrückt sämtliche Schmerzen, verlangsamt Blutungen und beschleunigt Bewegung und Heilung.</AdrenalineHigh.description>
+  <AdrenalineHigh.description>Adrenalin durchströmt den Körper, unterdrückt sämtliche Schmerzen, verlangsamt Blutungen und erhöht die Bewegungs- und Heilungsgeschwindigkeit.</AdrenalineHigh.description>
   <!-- EN: an adrenaline high -->
   <AdrenalineHigh.labelNoun>ein Adrenalinschub</AdrenalineHigh.labelNoun>
   <!-- EN: armor bane -->
@@ -18,7 +18,7 @@
   <ArmorBaneDamage.injuryProps.destroyedOutLabel>Zerfressen</ArmorBaneDamage.injuryProps.destroyedOutLabel>
   <ArmorBaneDamage.labelNoun>Rüstungsfluch</ArmorBaneDamage.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ArmorBaneDamage.labelNounPretty>{0} in der {1}</ArmorBaneDamage.labelNounPretty>
+  <ArmorBaneDamage.labelNounPretty>{0}: {1}</ArmorBaneDamage.labelNounPretty>
   <!-- EN: blade heart -->
   <BladeHeartDicipline.label>Klingenherz</BladeHeartDicipline.label>
   <!-- EN: A powerful condition that allows a carrier to inflict aura damage, while having the chance to inflict armor bane when hitting the armor. -->
@@ -53,7 +53,7 @@
   <!-- EN: Lost to corrosive acid -->
   <CorrosiveDamage.injuryProps.destroyedLabel>Durch ätzende Säure zerstört</CorrosiveDamage.injuryProps.destroyedLabel>
   <CorrosiveDamage.injuryProps.destroyedOutLabel>Durch ätzende Säure zerstört</CorrosiveDamage.injuryProps.destroyedOutLabel>
-  <CorrosiveDamage.labelNounPretty>{0} in der {1}</CorrosiveDamage.labelNounPretty>
+  <CorrosiveDamage.labelNounPretty>{0}: {1}</CorrosiveDamage.labelNounPretty>
   <!-- EN: corrupt chi -->
   <CorruptChi.label>verdorbenes Chi</CorruptChi.label>
   <!-- EN: A severe injury caused by corrupted chi. -->
@@ -63,7 +63,7 @@
   <!-- EN: Lost to rampaging chi -->
   <CorruptChi.injuryProps.destroyedLabel>Dem wütenden Chi zum Opfer gefallen</CorruptChi.injuryProps.destroyedLabel>
   <CorruptChi.injuryProps.destroyedOutLabel>Dem wütenden Chi zum Opfer gefallen</CorruptChi.injuryProps.destroyedOutLabel>
-  <CorruptChi.labelNounPretty>{0} in der {1}</CorruptChi.labelNounPretty>
+  <CorruptChi.labelNounPretty>{0}: {1}</CorruptChi.labelNounPretty>
   <!-- EN: Crow Feathered Hood -->
   <CrowFeatheredHood.label>Krähenfederkapuze</CrowFeatheredHood.label>
   <!-- EN: Some effects after wearing a crow feathered hood. -->
@@ -73,7 +73,7 @@
   <!-- EN: A natural condition only present from hunterphages. -->
   <DarkConstitution.description>Ein natürlicher Zustand, der ausschließlich bei Hunterphagen auftritt.</DarkConstitution.description>
   <!-- EN: heat armor down -->
-  <FireArmorBane.label>Hitzeschutz herunter</FireArmorBane.label>
+  <FireArmorBane.label>verringerter Hitzeschutz</FireArmorBane.label>
   <!-- EN: A fire vulnerability. -->
   <FireArmorBane.description>Eine Feueranfälligkeit.</FireArmorBane.description>
   <!-- EN: severe burn scar -->
@@ -84,7 +84,7 @@
   <FireArmorBane.injuryProps.destroyedOutLabel>Verbrannt</FireArmorBane.injuryProps.destroyedOutLabel>
   <!-- EN: heat armor bane -->
   <FireArmorBane.labelNoun>Hitzeschutz-Fluch</FireArmorBane.labelNoun>
-  <FireArmorBane.labelNounPretty>{0} in der {1}</FireArmorBane.labelNounPretty>
+  <FireArmorBane.labelNounPretty>{0}: {1}</FireArmorBane.labelNounPretty>
   <!-- EN: hyper-regenerative -->
   <HyperRegenerative.label>hyperregenerativ</HyperRegenerative.label>
   <!-- EN: An innate ability that regenerates wounds incredibly fast. -->
@@ -130,7 +130,7 @@
   <!-- EN: socialize -->
   <Socialize.label>Kontakte knüpfen</Socialize.label>
   <!-- EN: Natural effects during socializations. -->
-  <Socialize.description>Natürliche Effekte während der Sozialisierung.</Socialize.description>
+  <Socialize.description>Natürliche Auswirkungen sozialer Interaktionen.</Socialize.description>
   <!-- EN: for -->
   <Socialize.targetPrefix>für</Socialize.targetPrefix>
   <!-- EN: Stake Driver Gloves -->
@@ -150,5 +150,5 @@
   <!-- EN: Withered away -->
   <WitheringDamage.injuryProps.destroyedOutLabel>Verwelkt</WitheringDamage.injuryProps.destroyedOutLabel>
   <WitheringDamage.labelNoun>verwelken</WitheringDamage.labelNoun>
-  <WitheringDamage.labelNounPretty>{0} in der {1}</WitheringDamage.labelNounPretty>
+  <WitheringDamage.labelNounPretty>{0}: {1}</WitheringDamage.labelNounPretty>
 </LanguageData>
