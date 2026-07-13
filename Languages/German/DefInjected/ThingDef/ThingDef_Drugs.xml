@@ -4,37 +4,37 @@
   <!-- EN: tobacco plant -->
   <Plant_Tobacco.label>Tabakpflanze</Plant_Tobacco.label>
   <!-- EN: A precious plant that was used to produce tobacco pipes, a soothing yet preety addictive drug. -->
-  <Plant_Tobacco.description>Eine wertvolle Pflanze, aus der Tabakpfeifen hergestellt wurden – eine beruhigende, aber ziemlich süchtig machende Droge.</Plant_Tobacco.description>
+  <Plant_Tobacco.description>Eine wertvolle Pflanze, deren Blätter zu beruhigenden, aber stark suchterzeugenden Tabakzigarren verarbeitet werden.</Plant_Tobacco.description>
   <!-- EN: steel elixir -->
   <SteelElixir.label>Stahlelixier</SteelElixir.label>
   <!-- EN: A specially brewed elixir discovered by the hunters workshop. Drinking it will grant the consumer enhanced damage resistance, and immunity to fire. Although in exchange, the steel elixir will taste incredibly bad, and they'll move very slow.\n\nThis drug is widely distributed throughout the rim and mostly seen being used by combatants of well developed civilizations. -->
-  <SteelElixir.description>Ein speziell gebrautes Elixier, das von der Jägerwerkstatt entdeckt wurde. Wer es trinkt, erhält eine erhöhte Schadensresistenz und Immunität gegen Feuer. Im Gegenzug schmeckt das Stahlexir jedoch unglaublich schlecht, und die Konsumenten bewegen sich sehr langsam.
+  <SteelElixir.description>Ein besonderes Gebräu aus der Jägerwerkstatt. Es verringert Schmerzen und eingehenden Schaden erheblich, schützt vor Feuer und schärft die Sinne. Dafür schmeckt das Stahlelixier abscheulich und verlangsamt den Konsumenten stark.
 
 Diese Droge ist im gesamten Randgebiet weit verbreitet und wird vor allem von Kämpfern gut entwickelter Zivilisationen konsumiert.</SteelElixir.description>
   <!-- EN: Drink {0} -->
-  <SteelElixir.ingestible.ingestCommandString>Getränk {0}</SteelElixir.ingestible.ingestCommandString>
+  <SteelElixir.ingestible.ingestCommandString>{0} trinken</SteelElixir.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <SteelElixir.ingestible.ingestReportString>Trinken {0}.</SteelElixir.ingestible.ingestReportString>
+  <SteelElixir.ingestible.ingestReportString>{0} wird getrunken.</SteelElixir.ingestible.ingestReportString>
   <!-- EN: Tobacco cigars -->
   <Tobacco.label>Tabakzigarren</Tobacco.label>
   <!-- EN: A fancy looking joint filled with tobacco leaves, once smoked, it can calm the user's nerves and heightened their senses temporarily. -->
-  <Tobacco.description>Ein schick aussehender Joint, gefüllt mit Tabakblättern, der, einmal geraucht, die Nerven des Konsumenten beruhigen und seine Sinne vorübergehend schärfen kann.</Tobacco.description>
+  <Tobacco.description>Eine ansprechend gerollte Zigarre aus Tabakblättern. Beim Rauchen beruhigt sie die Nerven, lindert Schmerzen und schärft vorübergehend die Sinne.</Tobacco.description>
   <!-- EN: Smoke {0} -->
-  <Tobacco.ingestible.ingestCommandString>Rauchen {0}</Tobacco.ingestible.ingestCommandString>
+  <Tobacco.ingestible.ingestCommandString>{0} rauchen</Tobacco.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->
-  <Tobacco.ingestible.ingestReportString>Rauchen {0}.</Tobacco.ingestible.ingestReportString>
+  <Tobacco.ingestible.ingestReportString>{0} wird geraucht.</Tobacco.ingestible.ingestReportString>
   <!-- EN: Consuming {0}. -->
-  <Tobacco.ingestible.ingestReportStringEat>Verbrauchen {0}.</Tobacco.ingestible.ingestReportStringEat>
+  <Tobacco.ingestible.ingestReportStringEat>{0} wird konsumiert.</Tobacco.ingestible.ingestReportStringEat>
   <!-- EN: tobacco leaves -->
   <TobaccoLeaves.label>Tabakblätter</TobaccoLeaves.label>
   <!-- EN: Raw cut leaves of a tobacco plant. Can be manufactured into tobacco pipes at a nearest drug lab. -->
-  <TobaccoLeaves.description>Unverarbeitete, frisch geschnittene Blätter einer Tabakpflanze. Können im nächstgelegenen Drogenlabor zu Tabakpfeifen verarbeitet werden.</TobaccoLeaves.description>
+  <TobaccoLeaves.description>Rohe, frisch geschnittene Blätter einer Tabakpflanze. Sie können in einem Drogenlabor zu Tabakzigarren verarbeitet werden.</TobaccoLeaves.description>
   <!-- EN: trolls blood elixir -->
-  <TrollsBloodElixir.label>Trollblut-Elixier</TrollsBloodElixir.label>
+  <TrollsBloodElixir.label>Trollblutelixier</TrollsBloodElixir.label>
   <!-- EN: A specially brewed elixir discovered by the hunters workshop. Directly drinking this elixir can instantaneously regenerate the consumer's permanent and fatal wounds, and cure chronic illnesses. Although the downside is that their hunger rate has been quadrupled temporarily.\n\nDue to the high cost of producing one vile, only a handful of these elixirs were ever produced, unless they have some ways to accuire those raw resources, perhaps...... -->
-  <TrollsBloodElixir.description>Ein speziell gebrautes Elixier, das von der Jägerwerkstatt entdeckt wurde. Wird dieses Elixier direkt getrunken, kann es die dauerhaften und tödlichen Wunden des Konsumenten augenblicklich regenerieren und chronische Krankheiten heilen. Der Nachteil ist jedoch, dass sich die Hungerrate vorübergehend vervierfacht.
+  <TrollsBloodElixir.description>Ein besonderes Gebräu aus der Jägerwerkstatt. Es regeneriert augenblicklich dauerhafte und lebensbedrohliche Verletzungen und heilt chronische Krankheiten. Dafür vervierfacht sich vorübergehend die Hungerrate des Konsumenten.
 
-Aufgrund der hohen Herstellungskosten pro Fläschchen wurden nur eine Handvoll dieser Elixiere hergestellt – es sei denn, man verfügt über Möglichkeiten, an die entsprechenden Rohstoffe zu gelangen, vielleicht……</TrollsBloodElixir.description>
-  <TrollsBloodElixir.ingestible.ingestCommandString>Getränk {0}</TrollsBloodElixir.ingestible.ingestCommandString>
-  <TrollsBloodElixir.ingestible.ingestReportString>Trinken {0}.</TrollsBloodElixir.ingestible.ingestReportString>
+Aufgrund der hohen Herstellungskosten wurden nur wenige Fläschchen davon produziert. Mit einer zuverlässigen Quelle für die seltenen Rohstoffe ließe sich das vielleicht ändern …</TrollsBloodElixir.description>
+  <TrollsBloodElixir.ingestible.ingestCommandString>{0} trinken</TrollsBloodElixir.ingestible.ingestCommandString>
+  <TrollsBloodElixir.ingestible.ingestReportString>{0} wird getrunken.</TrollsBloodElixir.ingestible.ingestReportString>
 </LanguageData>
