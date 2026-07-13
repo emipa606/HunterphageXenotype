@@ -44,7 +44,7 @@
   <!-- EN: heavy weaponry -->
   <HeavyWeaponry.label>schwere Waffen</HeavyWeaponry.label>
   <!-- EN: Research a way to craft some devastating heavy weapons used by the powder keg hunters. -->
-  <HeavyWeaponry.description>Erforsche eine Möglichkeit, einige der verheerenden schweren Waffen herzustellen, die von den „Powder Keg“-Jägern verwendet werden.</HeavyWeaponry.description>
+  <HeavyWeaponry.description>Erforsche eine Möglichkeit, einige der verheerenden schweren Waffen der Powder-Keg-Jäger herzustellen.</HeavyWeaponry.description>
   <!-- EN: melee weapons -->
   <HunterMelee.label>Nahkampfwaffen</HunterMelee.label>
   <!-- EN: Research a way to manufacture some melee weapons used by the hunterphages. -->
@@ -62,9 +62,9 @@
   <!-- EN: Research a way to craft percussion firearms. -->
   <PercussionArmaments.description>Erforsche eine Möglichkeit, Perkussionswaffen herzustellen.</PercussionArmaments.description>
   <!-- EN: powder keg hunter's apparel -->
-  <PowderkegApparels.label>Pulverfass – Jägerkleidung</PowderkegApparels.label>
+  <PowderkegApparels.label>Ausrüstung der Powder-Keg-Jäger</PowderkegApparels.label>
   <!-- EN: Research a way to manufacture some apparels worn by the powder keg hunters. -->
-  <PowderkegApparels.description>Erforsche eine Methode zur Herstellung einiger Kleidungsstücke, die von den Pulverfassjägern getragen werden.</PowderkegApparels.description>
+  <PowderkegApparels.description>Erforsche die Herstellung der besonderen Ausrüstung der Powder-Keg-Jäger.</PowderkegApparels.description>
   <!-- EN: revolver armaments -->
   <RevolverArmaments.label>Revolver-Bewaffnung</RevolverArmaments.label>
   <!-- EN: Research a way to craft revolver-type firearms. -->

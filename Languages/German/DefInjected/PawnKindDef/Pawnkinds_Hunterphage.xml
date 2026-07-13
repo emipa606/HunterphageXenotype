@@ -4,9 +4,9 @@
   <!-- EN: wanderer -->
   <Companions_Starter.label>Wanderer</Companions_Starter.label>
   <!-- EN: powder keg hunter -->
-  <Hunter_ArmoredPowderKeg.label>Pulverfass-Jäger</Hunter_ArmoredPowderKeg.label>
+  <Hunter_ArmoredPowderKeg.label>Powder-Keg-Jäger</Hunter_ArmoredPowderKeg.label>
   <!-- EN: powder keg heavy blade -->
-  <Hunter_ArmoredPowderKegMelee.label>Pulverfass, schwere Klinge</Hunter_ArmoredPowderKegMelee.label>
+  <Hunter_ArmoredPowderKegMelee.label>Powder-Keg-Schwerkämpfer</Hunter_ArmoredPowderKegMelee.label>
   <!-- EN: hunter -->
   <Hunter_Basic.label>Jäger</Hunter_Basic.label>
   <!-- EN: hunter slasher -->
@@ -23,7 +23,7 @@
   <Hunter_IntermediateMelee.label>Fortgeschrittener Jäger-Plünderer</Hunter_IntermediateMelee.label>
   <!-- EN: covenant master -->
   <Hunter_Leader.label>Covenant-Meister</Hunter_Leader.label>
-  <Hunter_PowderKeg.label>Pulverfass-Jäger</Hunter_PowderKeg.label>
+  <Hunter_PowderKeg.label>Powder-Keg-Jäger</Hunter_PowderKeg.label>
   <!-- EN: merchant -->
   <Hunter_Trader.label>Händler</Hunter_Trader.label>
   <Hunterphage_Starter.label>Wanderer</Hunterphage_Starter.label>
