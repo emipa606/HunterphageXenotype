@@ -66,9 +66,9 @@
   <CorruptChi.injuryProps.destroyedOutLabel>Dem wütenden Chi zum Opfer gefallen</CorruptChi.injuryProps.destroyedOutLabel>
   <CorruptChi.labelNounPretty>{0} in der {1}</CorruptChi.labelNounPretty>
   <!-- EN: Crow Feathered Hood -->
-  <CrowFeatheredHood.label>Krähenfeder-Kapuze</CrowFeatheredHood.label>
+  <CrowFeatheredHood.label>Krähenfederkapuze</CrowFeatheredHood.label>
   <!-- EN: Some effects after wearing a crow feathered hood. -->
-  <CrowFeatheredHood.description>Einige Effekte nach dem Tragen einer Kapuze mit Krähenfedern.</CrowFeatheredHood.description>
+  <CrowFeatheredHood.description>Die Krähenfederkapuze erhöht leicht das Bewusstsein und verbessert die Immunitätsentwicklung.</CrowFeatheredHood.description>
   <!-- EN: dark constitution -->
   <DarkConstitution.label>dunkle Konstitution</DarkConstitution.label>
   <!-- EN: A natural condition only present from hunterphages. -->
@@ -95,9 +95,9 @@
   <!-- EN: Death. -->
   <InstantDeath.description>Tod.</InstantDeath.description>
   <!-- EN: Phantom Hood -->
-  <PhantomHood.label>Phantom-Kapuze</PhantomHood.label>
+  <PhantomHood.label>Phantomkapuze</PhantomHood.label>
   <!-- EN: Some effects after wearing a phantom hood. -->
-  <PhantomHood.description>Einige Effekte nach dem Tragen einer Phantomhaube.</PhantomHood.description>
+  <PhantomHood.description>Die Phantomkapuze erhöht leicht die Sehfähigkeit und das Bewusstsein.</PhantomHood.description>
   <!-- EN: phantom of death -->
   <PhantomOfDeath.label>Phantom des Todes</PhantomOfDeath.label>
   <!-- EN: A powerful aura containing the essence of death. -->
@@ -105,29 +105,29 @@
   <!-- EN: death impact -->
   <PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>Todesaufprall</PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>
   <!-- EN: Rogue Hood -->
-  <RogueHood.label>Schurkenhaube</RogueHood.label>
+  <RogueHood.label>Schurkenkapuze</RogueHood.label>
   <!-- EN: Some effects after wearing a rogue hood. -->
-  <RogueHood.description>Einige Effekte nach dem Tragen einer Schurkenkapuze.</RogueHood.description>
+  <RogueHood.description>Die Schurkenkapuze erhöht leicht das Bewusstsein.</RogueHood.description>
   <!-- EN: shadow walker cloak -->
   <ShadowCloakz.label>Umhang des Schattenwandlers</ShadowCloakz.label>
   <!-- EN: A technique that renders the user invisible, all while boosting melee damage significantly. -->
   <ShadowCloakz.description>Eine Technik, die den Spieler unsichtbar macht und gleichzeitig den Nahkampfschaden erheblich erhöht.</ShadowCloakz.description>
   <!-- EN: Shadow Guards -->
-  <ShadowGuards.label>Schattenwächter</ShadowGuards.label>
+  <ShadowGuards.label>Schattenpanzerhandschuhe</ShadowGuards.label>
   <!-- EN: Some effects after wearing a pair of shadow guards. -->
-  <ShadowGuards.description>Einige Effekte nach dem Anlegen eines Paars „Shadow Guards“.</ShadowGuards.description>
+  <ShadowGuards.description>Die Schattenpanzerhandschuhe erhöhen leicht die Manipulation.</ShadowGuards.description>
   <!-- EN: Shadow Stubs -->
-  <ShadowStubs.label>Schattenstummel</ShadowStubs.label>
+  <ShadowStubs.label>Schattenstiefel</ShadowStubs.label>
   <!-- EN: Some effects after wearing a pair of shadow stubs. -->
-  <ShadowStubs.description>Einige Effekte nach dem Anlegen eines Paars „Shadow Stubs“.</ShadowStubs.description>
+  <ShadowStubs.description>Die Schattenstiefel erhöhen leicht die Bewegungsfähigkeit und Manipulation.</ShadowStubs.description>
   <!-- EN: Shadow Walker Coat -->
   <ShadowWalkerCoat.label>Schattenwandler-Mantel</ShadowWalkerCoat.label>
   <!-- EN: Some effects after wearing a shadow walker coat. -->
-  <ShadowWalkerCoat.description>Einige Effekte nach dem Anlegen eines Schattenwandler-Mantels.</ShadowWalkerCoat.description>
+  <ShadowWalkerCoat.description>Der Schattenwandler-Mantel erhöht leicht die Bewegungsfähigkeit und Manipulation.</ShadowWalkerCoat.description>
   <!-- EN: Shadow Walker Feathered Coat -->
   <ShadowWalkerFeatheredCoat.label>Schattenwandler-Federmantel</ShadowWalkerFeatheredCoat.label>
   <!-- EN: Some effects after wearing a shadow walker feathered coat. -->
-  <ShadowWalkerFeatheredCoat.description>Einige Effekte nach dem Anlegen eines Federmantels des Schattenwandlers.</ShadowWalkerFeatheredCoat.description>
+  <ShadowWalkerFeatheredCoat.description>Der Schattenwandler-Federmantel erhöht die Bewegungsfähigkeit und verbessert leicht die Manipulation.</ShadowWalkerFeatheredCoat.description>
   <!-- EN: socialize -->
   <Socialize.label>Kontakte knüpfen</Socialize.label>
   <!-- EN: Natural effects during socializations. -->
@@ -135,9 +135,9 @@
   <!-- EN: for -->
   <Socialize.targetPrefix>für</Socialize.targetPrefix>
   <!-- EN: Stake Driver Gloves -->
-  <StakeDriverGloves.label>Handschuhe für den Pfahlrammer</StakeDriverGloves.label>
+  <StakeDriverGloves.label>Pfahltreiber-Handschuhe</StakeDriverGloves.label>
   <!-- EN: Some effects after wearing a pair of stake driver gloves. -->
-  <StakeDriverGloves.description>Einige Effekte nach dem Anlegen eines Paars „Stake Driver“-Handschuhe.</StakeDriverGloves.description>
+  <StakeDriverGloves.description>Die Pfahltreiber-Handschuhe ermöglichen verheerende Nahkampfangriffe, verringern jedoch leicht die Manipulation.</StakeDriverGloves.description>
   <!-- EN: stake driver -->
   <StakeDriverGloves.comps.HediffComp_VerbGiver.tools.stake_driver.label>Pfahlrammer</StakeDriverGloves.comps.HediffComp_VerbGiver.tools.stake_driver.label>
   <!-- EN: wither -->
