@@ -67,10 +67,10 @@ Achtung! Sehr explosiv!</GatlingAmmoBox.description>
   <ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>
   <Shell_AntiArmorCannon.label>Panzerabwehr-Kanonengranate</Shell_AntiArmorCannon.label>
   <!-- EN: A specially-grade cannon shell made by the hunters workshop. Although it deals less damage, it can inflict enemies under a 10.9 explosion radius with armor bane. -->
-  <Shell_AntiArmorCannon.description>Eine Kanonenkugel der Sonderklasse, hergestellt in der Werkstatt der Jäger. Sie verursacht zwar weniger Schaden, kann aber Gegnern innerhalb eines Explosionsradius von 10,9 den Effekt „Rüstungszerstörer“ zufügen.</Shell_AntiArmorCannon.description>
+  <Shell_AntiArmorCannon.description>Ein Spezialgeschoss aus der Jägerwerkstatt. Es verursacht zwar weniger direkten Schaden, kann Gegner im Explosionsradius von 10,9 Feldern jedoch mit Rüstungsfluch belegen.</Shell_AntiArmorCannon.description>
   <Shell_HighExplosiveCannon.label>hochexplosive Kanonengranate</Shell_HighExplosiveCannon.label>
   <!-- EN: An explosive shell used by the mannable cannon turret. -->
-  <Shell_HighExplosiveCannon.description>Eine Sprenggranate, die vom bemannten Geschützturm eingesetzt wird.</Shell_HighExplosiveCannon.description>
+  <Shell_HighExplosiveCannon.description>Eine Sprenggranate für den bemannten Kanonenturm.</Shell_HighExplosiveCannon.description>
   <!-- EN: daedalus components -->
   <SimpleComponent.label>Daedalus-Komponenten</SimpleComponent.label>
   <!-- EN: A collection of gears and complicated mechanical components which are used to craft multiple equipments, and build wonderful low-tech contraptions. -->

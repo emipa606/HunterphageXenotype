@@ -4,7 +4,7 @@
   <!-- EN: bastard sword -->
   <MeleeWeapon_Hunterphage_BastardSword.label>Bastardschwert</MeleeWeapon_Hunterphage_BastardSword.label>
   <!-- EN: Few of the longswords that was ever used in the hunters covenant, famed for its balanced sharpness and durability. -->
-  <MeleeWeapon_Hunterphage_BastardSword.description>Eines der wenigen Langschwerter, die jemals im Jägerbund verwendet wurden, der für seine ausgewogene Kombination aus Schärfe und Haltbarkeit bekannt ist.</MeleeWeapon_Hunterphage_BastardSword.description>
+  <MeleeWeapon_Hunterphage_BastardSword.description>Eines der wenigen Langschwerter im Arsenal des Jägerbundes. Es ist für sein ausgewogenes Verhältnis aus Schärfe und Haltbarkeit bekannt.</MeleeWeapon_Hunterphage_BastardSword.description>
   <!-- EN: handle -->
   <MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>Griff</MeleeWeapon_Hunterphage_BastardSword.tools.handle.label>
   <!-- EN: point -->
@@ -14,14 +14,14 @@
   <!-- EN: heavy saw blade -->
   <MeleeWeapon_Hunterphage_HeavySawBlade.label>schweres Sägeblatt</MeleeWeapon_Hunterphage_HeavySawBlade.label>
   <!-- EN: A two-handed great chainsaw mainly used by the powder keg hunters. Its saw tips are so sharp that it can rip apart tough flesh and armor with ease, although with an exchange of slight movement penalty. -->
-  <MeleeWeapon_Hunterphage_HeavySawBlade.description>Eine zweihändige Großkettensäge, die hauptsächlich von den Powder-Keg-Jägern verwendet wird. Ihre Sägezähne sind so scharf, dass sie zähes Fleisch und Rüstungen mühelos zerreißen können, was jedoch mit einer leichten Bewegungseinschränkung einhergeht.</MeleeWeapon_Hunterphage_HeavySawBlade.description>
+  <MeleeWeapon_Hunterphage_HeavySawBlade.description>Eine gewaltige zweihändige Kettensäge, die vor allem von den Powder-Keg-Jägern eingesetzt wird. Ihre rasiermesserscharfen Zähne zerreißen selbst zähes Fleisch und schwere Rüstungen mühelos. Das hohe Gewicht schränkt jedoch die Bewegungsfähigkeit des Trägers leicht ein.</MeleeWeapon_Hunterphage_HeavySawBlade.description>
   <MeleeWeapon_Hunterphage_HeavySawBlade.tools.handle.label>Griff</MeleeWeapon_Hunterphage_HeavySawBlade.tools.handle.label>
   <!-- EN: saw blades -->
   <MeleeWeapon_Hunterphage_HeavySawBlade.tools.saw_blades.label>Sägeblätter</MeleeWeapon_Hunterphage_HeavySawBlade.tools.saw_blades.label>
   <!-- EN: hunter's battle axe -->
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.label>Jäger-Streitaxt</MeleeWeapon_Hunterphage_HuntersBattleAxe.label>
   <!-- EN: A large battleaxe used by experienced hunters, can inflict even greater cutting damage than most conventional melee weapons on the rim. -->
-  <MeleeWeapon_Hunterphage_HuntersBattleAxe.description>Eine große Streitaxt, die von erfahrenen Jägern verwendet wird und noch größeren Schnittschaden verursachen kann als die meisten herkömmlichen Nahkampfwaffen am Rand.</MeleeWeapon_Hunterphage_HuntersBattleAxe.description>
+  <MeleeWeapon_Hunterphage_HuntersBattleAxe.description>Eine große Streitaxt für erfahrene Jäger. Ihre wuchtigen Hiebe verursachen mehr Schnittschaden als die meisten herkömmlichen Nahkampfwaffen des Randgebiets.</MeleeWeapon_Hunterphage_HuntersBattleAxe.description>
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>Griff</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.handle.label>
   <MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>Spitze</MeleeWeapon_Hunterphage_HuntersBattleAxe.tools.point.label>
   <!-- EN: axe head -->
@@ -29,33 +29,33 @@
   <!-- EN: hunter's spear -->
   <MeleeWeapon_Hunterphage_HunterSpear.label>Jägerspeer</MeleeWeapon_Hunterphage_HunterSpear.label>
   <!-- EN: A sizable hunting spear that was used to hunt thrumbos due to its base armor penetration, now used to impale foolish pirates and hostile outlanders. -->
-  <MeleeWeapon_Hunterphage_HunterSpear.description>Ein stattlicher Jagdspeer, der aufgrund seiner hohen Grundpanzerungsdurchdringung früher zur Jagd auf Thrumbos verwendet wurde und nun dazu dient, törichte Piraten und feindliche Fremde aufzuspießen.</MeleeWeapon_Hunterphage_HunterSpear.description>
+  <MeleeWeapon_Hunterphage_HunterSpear.description>Ein großer Jagdspeer mit hoher Rüstungsdurchdringung. Einst diente er der Jagd auf Thrumbos, heute werden damit unvorsichtige Piraten und feindliche Außenweltler aufgespießt.</MeleeWeapon_Hunterphage_HunterSpear.description>
   <MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>Griff</MeleeWeapon_Hunterphage_HunterSpear.tools.handle.label>
   <MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>Spitze</MeleeWeapon_Hunterphage_HunterSpear.tools.point.label>
   <!-- EN: hunting knife -->
   <MeleeWeapon_Hunterphage_HuntingKnife.label>Jagdmesser</MeleeWeapon_Hunterphage_HuntingKnife.label>
   <!-- EN: A basic melee weapon and one of the lightest one-handed weapon, which allows for faster melee hits. It can also boost the user's plant worker speed when equipped -->
-  <MeleeWeapon_Hunterphage_HuntingKnife.description>Eine einfache Nahkampfwaffe und eine der leichtesten Einhandwaffen, die schnellere Nahkampfangriffe ermöglicht. Wenn sie ausgerüstet ist, erhöht sie zudem die Arbeitsgeschwindigkeit des Benutzers bei der Pflanzenpflege.</MeleeWeapon_Hunterphage_HuntingKnife.description>
+  <MeleeWeapon_Hunterphage_HuntingKnife.description>Eine einfache und besonders leichte Einhandwaffe, die schnelle Nahkampfangriffe ermöglicht. Ihre handliche Klinge beschleunigt außerdem die Pflanzenarbeit.</MeleeWeapon_Hunterphage_HuntingKnife.description>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>Griff</MeleeWeapon_Hunterphage_HuntingKnife.tools.handle.label>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>Spitze</MeleeWeapon_Hunterphage_HuntingKnife.tools.point.label>
   <MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>Schneide</MeleeWeapon_Hunterphage_HuntingKnife.tools.edge.label>
   <!-- EN: katana -->
   <MeleeWeapon_Hunterphage_Katana.label>Katana</MeleeWeapon_Hunterphage_Katana.label>
   <!-- EN: An ancient weapon originated in a country long forgoten called "Japan", and it persisted until the production methods were fallen in the hands of the hunterphages. Widely used for it's superb cutting ability and ease of use. -->
-  <MeleeWeapon_Hunterphage_Katana.description>Eine uralte Waffe, die ihren Ursprung in einem längst vergessenen Land namens „Japan“ hat und so lange weiterbestehte, bis die Herstellungsmethoden in die Hände der Hunterphagen fielen. Sie wird aufgrund ihrer hervorragenden Schneidkraft und ihrer einfachen Handhabung weit verbreitet eingesetzt.</MeleeWeapon_Hunterphage_Katana.description>
+  <MeleeWeapon_Hunterphage_Katana.description>Eine uralte Waffe aus einem längst vergessenen Land namens Japan. Ihre Herstellungstechnik gelangte schließlich in die Hände der Hunterphagen, die das Katana wegen seiner hervorragenden Schneidkraft und einfachen Handhabung schätzen.</MeleeWeapon_Hunterphage_Katana.description>
   <MeleeWeapon_Hunterphage_Katana.tools.handle.label>Griff</MeleeWeapon_Hunterphage_Katana.tools.handle.label>
   <MeleeWeapon_Hunterphage_Katana.tools.point.label>Spitze</MeleeWeapon_Hunterphage_Katana.tools.point.label>
   <MeleeWeapon_Hunterphage_Katana.tools.edge.label>Schneide</MeleeWeapon_Hunterphage_Katana.tools.edge.label>
   <!-- EN: ripper saber -->
   <MeleeWeapon_Hunterphage_RipperSaber.label>Ripper-Säbel</MeleeWeapon_Hunterphage_RipperSaber.label>
   <!-- EN: A one-handed saber with a modified ripper chainsaw. -->
-  <MeleeWeapon_Hunterphage_RipperSaber.description>Ein einhändiges Säbel mit einer modifizierten Ripper-Kettensäge.</MeleeWeapon_Hunterphage_RipperSaber.description>
+  <MeleeWeapon_Hunterphage_RipperSaber.description>Ein einhändiger Säbel mit einer modifizierten Ripper-Kettensäge.</MeleeWeapon_Hunterphage_RipperSaber.description>
   <MeleeWeapon_Hunterphage_RipperSaber.tools.handle.label>Griff</MeleeWeapon_Hunterphage_RipperSaber.tools.handle.label>
   <MeleeWeapon_Hunterphage_RipperSaber.tools.saw_blades.label>Sägeblätter</MeleeWeapon_Hunterphage_RipperSaber.tools.saw_blades.label>
   <!-- EN: ripper saw blade -->
   <MeleeWeapon_Hunterphage_RipperSawBlade.label>Ripper-Sägeblatt</MeleeWeapon_Hunterphage_RipperSawBlade.label>
   <!-- EN: A two-handed saw blade with a giant circular saw. The pizza cutter "circular saw" is so heavy that it takes some effort to swing it, but with the saw revving-up and the power of centrifugal force, the ripper saw blade can deal heavy amounts of damage in a single swing. -->
-  <MeleeWeapon_Hunterphage_RipperSawBlade.description>Ein zweihändiges Sägeblatt mit einer riesigen Kreissäge. Der Pizzaschneider „Kreissäge“ ist so schwer, dass es einiger Mühe bedarf, ihn zu schwingen, doch wenn die Säge auf Hochtouren läuft und die Zentrifugalkraft zum Tragen kommt, kann das Ripper-Sägeblatt mit einem einzigen Hieb enormen Schaden anrichten.</MeleeWeapon_Hunterphage_RipperSawBlade.description>
+  <MeleeWeapon_Hunterphage_RipperSawBlade.description>Eine zweihändige Waffe mit einem gewaltigen Kreissägeblatt. Dieser überdimensionierte „Pizzaschneider“ lässt sich nur mit Mühe schwingen. Läuft die Säge jedoch auf Hochtouren, richtet das Ripper-Sägeblatt dank der Zentrifugalkraft mit einem einzigen Hieb verheerenden Schaden an.</MeleeWeapon_Hunterphage_RipperSawBlade.description>
   <MeleeWeapon_Hunterphage_RipperSawBlade.tools.handle.label>Griff</MeleeWeapon_Hunterphage_RipperSawBlade.tools.handle.label>
   <MeleeWeapon_Hunterphage_RipperSawBlade.tools.saw_blades.label>Sägeblätter</MeleeWeapon_Hunterphage_RipperSawBlade.tools.saw_blades.label>
   <!-- EN: pizza cutter -->
@@ -69,7 +69,7 @@
   <!-- EN: shadow bane -->
   <MeleeWeapon_Hunterphage_ShadowBane.label>Schattenfluch</MeleeWeapon_Hunterphage_ShadowBane.label>
   <!-- EN: One of the deadliest weapon wielded by elite shadow walkers. This weapon in particular is designed to take down powerful targets more efficiently than any other melee weapons in the hunters covenant, and all of this was possible due to its ability to inflict armor bane more frequently and superior armor penetration. -->
-  <MeleeWeapon_Hunterphage_ShadowBane.description>Eine der tödlichsten Waffen, die von Elite-Schattenwandlern eingesetzt wird. Diese Waffe wurde speziell dafür entwickelt, mächtige Ziele effizienter zu besiegen als jede andere Nahkampfwaffe im Jägerbund, und all dies war möglich dank ihrer Fähigkeit, häufiger „Rüstungsfluch“ zu verursachen, sowie ihrer überragenden Rüstungsdurchdringung.</MeleeWeapon_Hunterphage_ShadowBane.description>
+  <MeleeWeapon_Hunterphage_ShadowBane.description>Eine der tödlichsten Waffen der Elite-Schattenwandler. Sie wurde eigens dafür geschaffen, mächtige Gegner wirkungsvoller auszuschalten als jede andere Nahkampfwaffe des Jägerbundes. Ihre überragende Rüstungsdurchdringung und die hohe Chance auf Rüstungsfluch machen sie besonders gefährlich.</MeleeWeapon_Hunterphage_ShadowBane.description>
   <MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>Griff</MeleeWeapon_Hunterphage_ShadowBane.tools.handle.label>
   <MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>Spitze</MeleeWeapon_Hunterphage_ShadowBane.tools.point.label>
   <!-- EN: blade edge -->
@@ -77,14 +77,14 @@
   <!-- EN: shadow dagger -->
   <MeleeWeapon_Hunterphage_ShadowDagger.label>Schatten-Dolch</MeleeWeapon_Hunterphage_ShadowDagger.label>
   <!-- EN: A one-handed dagger wielded by the shadow walkers. Although lacking in damage, it's light and possess better grip, which allows for faster melee hits and increased chance to inflict armor bane in every hit. -->
-  <MeleeWeapon_Hunterphage_ShadowDagger.description>Ein einhändiger Dolch, der von den Schattenwandlern geführt wird. Er verursacht zwar nur geringen Schaden, ist jedoch leicht und liegt besser in der Hand, was schnellere Nahkampfangriffe ermöglicht und die Chance erhöht, bei jedem Treffer „Rüstungsfluch“ zu verursachen.</MeleeWeapon_Hunterphage_ShadowDagger.description>
+  <MeleeWeapon_Hunterphage_ShadowDagger.description>Ein leichter einhändiger Dolch der Schattenwandler. Sein geringer Grundschaden wird durch schnelle Angriffe und eine erhöhte Chance ausgeglichen, bei jedem Treffer Rüstungsfluch zu verursachen.</MeleeWeapon_Hunterphage_ShadowDagger.description>
   <MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>Griff</MeleeWeapon_Hunterphage_ShadowDagger.tools.handle.label>
   <MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>Spitze</MeleeWeapon_Hunterphage_ShadowDagger.tools.point.label>
   <MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>Klingenschneide</MeleeWeapon_Hunterphage_ShadowDagger.tools.blade_edge.label>
   <!-- EN: shadow saber -->
   <MeleeWeapon_Hunterphage_ShadowSaber.label>Schattensäbel</MeleeWeapon_Hunterphage_ShadowSaber.label>
   <!-- EN: A one-handed saber wielded by the shadow walkers. Both increadibly sharp and easy to use, which allows for more deadly and precise cuts, along with an added bonus of having a chance to inflict armor bane upon melee hit. -->
-  <MeleeWeapon_Hunterphage_ShadowSaber.description>Ein einhändiger Säbel, der von den Schattenwandlern geführt wird. Er ist sowohl unglaublich scharf als auch einfach zu handhaben, was tödlichere und präzisere Hiebe ermöglicht, und bietet zudem den zusätzlichen Vorteil, dass bei einem Nahkampftreffer die Chance besteht, „Rüstungsfluch“ zu verursachen.</MeleeWeapon_Hunterphage_ShadowSaber.description>
+  <MeleeWeapon_Hunterphage_ShadowSaber.description>Ein außergewöhnlich scharfer und leicht zu führender Säbel der Schattenwandler. Er ermöglicht präzise, tödliche Hiebe und kann bei Nahkampftreffern Rüstungsfluch verursachen.</MeleeWeapon_Hunterphage_ShadowSaber.description>
   <MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>Griff</MeleeWeapon_Hunterphage_ShadowSaber.tools.handle.label>
   <MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>Spitze</MeleeWeapon_Hunterphage_ShadowSaber.tools.point.label>
   <MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>Klingenschneide</MeleeWeapon_Hunterphage_ShadowSaber.tools.blade_edge.label>
@@ -98,7 +98,7 @@
   <!-- EN: zweihander -->
   <MeleeWeapon_Hunterphage_Zweihander.label>Zweihänder</MeleeWeapon_Hunterphage_Zweihander.label>
   <!-- EN: A two-handed greatsword that originated in "Germany", according to ancient records. Once used by the Germanic mercenaries "Landsknechte", now used by experienced hunterphages for slicing scythers in half. -->
-  <MeleeWeapon_Hunterphage_Zweihander.description>Ein zweihändiges Großschwert, das laut alten Aufzeichnungen seinen Ursprung in „Deutschland“ hat. Einst wurde es von den germanischen Söldnern, den „Landsknechten“, verwendet, heute nutzen es erfahrene Hunterphages, um Scyther in zwei Hälften zu zerteilen.</MeleeWeapon_Hunterphage_Zweihander.description>
+  <MeleeWeapon_Hunterphage_Zweihander.description>Ein zweihändiges Großschwert, das alten Aufzeichnungen zufolge aus Deutschland stammt. Einst von den Landsknechten geführt, dient es erfahrenen Hunterphagen heute dazu, Scyther in zwei Hälften zu spalten.</MeleeWeapon_Hunterphage_Zweihander.description>
   <MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>Griff</MeleeWeapon_Hunterphage_Zweihander.tools.handle.label>
   <MeleeWeapon_Hunterphage_Zweihander.tools.point.label>Spitze</MeleeWeapon_Hunterphage_Zweihander.tools.point.label>
   <MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>Schneide</MeleeWeapon_Hunterphage_Zweihander.tools.edge.label>

@@ -4,7 +4,7 @@
   <!-- EN: high on adrenaline -->
   <AdrenalineHigh.label>voller Adrenalin</AdrenalineHigh.label>
   <!-- EN: Bursts of chemicals are coursing in the bloodstream. Eliminating all pain, reduce bleeding, and increase movement and healing speed. -->
-  <AdrenalineHigh.description>Chemikalien strömen in Schüben durch den Blutkreislauf. Sie beseitigen jegliche Schmerzen, verringern Blutungen und erhöhen die Bewegungs- und Heilungsgeschwindigkeit.</AdrenalineHigh.description>
+  <AdrenalineHigh.description>Adrenalin durchströmt den Körper, unterdrückt sämtliche Schmerzen, verlangsamt Blutungen und beschleunigt Bewegung und Heilung.</AdrenalineHigh.description>
   <!-- EN: an adrenaline high -->
   <AdrenalineHigh.labelNoun>ein Adrenalinschub</AdrenalineHigh.labelNoun>
   <!-- EN: armor bane -->
@@ -23,28 +23,28 @@
   <!-- EN: blade heart -->
   <BladeHeartDicipline.label>Klingenherz</BladeHeartDicipline.label>
   <!-- EN: A powerful condition that allows a carrier to inflict aura damage, while having the chance to inflict armor bane when hitting the armor. -->
-  <BladeHeartDicipline.description>Ein mächtiger Zustand, der es dem Träger ermöglicht, Aura-Schaden zu verursachen, und bei einem Treffer gegen die Rüstung zusätzlich die Chance bietet, Rüstungsfluch zu verursachen.</BladeHeartDicipline.description>
+  <BladeHeartDicipline.description>Eine mächtige Disziplin, durch die der Träger Auraschaden verursacht und bei Treffern gegen gerüstete Ziele gelegentlich Rüstungsfluch hervorruft.</BladeHeartDicipline.description>
   <!-- EN: aura impact -->
   <BladeHeartDicipline.comps.HediffComp_VerbGiver.tools.aura_impact.label>Aura-Einfluss</BladeHeartDicipline.comps.HediffComp_VerbGiver.tools.aura_impact.label>
   <!-- EN: chi corruption -->
   <ChiCorruption.label>Chi-Korruption</ChiCorruption.label>
   <!-- EN: A vile energy that can take hold of any sentient beings, be it humanoids or machines, where it can slowly weaken them and slowly inflict damage over time. All of this was possible by allowing the corrupted chi to rampage violently inside the target without regards of their well being. -->
-  <ChiCorruption.description>Eine abscheuliche Energie, die von jedem empfindungsfähigen Wesen Besitz ergreifen kann, seien es Humanoide oder Maschinen, um es langsam zu schwächen und ihm im Laufe der Zeit Schaden zuzufügen. All dies wurde dadurch ermöglicht, dass das verdorbene Chi im Inneren des Ziels ungehindert wüten konnte, ohne Rücksicht auf dessen Wohlergehen.</ChiCorruption.description>
+  <ChiCorruption.description>Eine verderbte Energie, die empfindungsfähige Wesen ebenso befällt wie Maschinen. Das verdorbene Chi wütet ungehindert im Ziel, schwächt es zunehmend und verursacht mit der Zeit immer schwerere Verletzungen.</ChiCorruption.description>
   <!-- EN: minor -->
-  <ChiCorruption.stages.minor.label>kleinere</ChiCorruption.stages.minor.label>
+  <ChiCorruption.stages.minor.label>leicht</ChiCorruption.stages.minor.label>
   <!-- EN: moderate -->
-  <ChiCorruption.stages.moderate.label>mäßig</ChiCorruption.stages.moderate.label>
+  <ChiCorruption.stages.moderate.label>mittel</ChiCorruption.stages.moderate.label>
   <!-- EN: major -->
-  <ChiCorruption.stages.major.label>Hauptsächlich</ChiCorruption.stages.major.label>
+  <ChiCorruption.stages.major.label>schwer</ChiCorruption.stages.major.label>
   <!-- EN: serious -->
-  <ChiCorruption.stages.serious.label>seriös</ChiCorruption.stages.serious.label>
+  <ChiCorruption.stages.serious.label>kritisch</ChiCorruption.stages.serious.label>
   <!-- EN: corrosive acid -->
   <CorrosiveAcid.label>ätzende Säure</CorrosiveAcid.label>
   <!-- EN: A lethal solution that slowly eats away at any target, while lowering their move speed and manipulation over time. -->
-  <CorrosiveAcid.description>Eine tödliche Lösung, die jedes Ziel langsam zerfrisst und dabei im Laufe der Zeit dessen Bewegungsgeschwindigkeit und Handlungsfähigkeit verringert.</CorrosiveAcid.description>
-  <CorrosiveAcid.stages.minor.label>kleinere</CorrosiveAcid.stages.minor.label>
-  <CorrosiveAcid.stages.moderate.label>mäßig</CorrosiveAcid.stages.moderate.label>
-  <CorrosiveAcid.stages.major.label>Hauptsächlich</CorrosiveAcid.stages.major.label>
+  <CorrosiveAcid.description>Eine tödliche Säure, die ihr Ziel langsam zerfrisst und dessen Bewegungsfähigkeit und Manipulation zunehmend einschränkt.</CorrosiveAcid.description>
+  <CorrosiveAcid.stages.minor.label>leicht</CorrosiveAcid.stages.minor.label>
+  <CorrosiveAcid.stages.moderate.label>mittel</CorrosiveAcid.stages.moderate.label>
+  <CorrosiveAcid.stages.major.label>schwer</CorrosiveAcid.stages.major.label>
   <!-- EN: corrosive damage -->
   <CorrosiveDamage.label>Ätzschaden</CorrosiveDamage.label>
   <!-- EN: A severe injury caused by corrosive acid. -->
@@ -60,7 +60,7 @@
   <!-- EN: A severe injury caused by corrupted chi. -->
   <CorruptChi.description>Eine schwere Verletzung, verursacht durch verdorbenes Chi.</CorruptChi.description>
   <!-- EN: corrupt chi scar -->
-  <CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>Verfälschte Chi-Narbe</CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>
+  <CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>Narbe durch verdorbenes Chi</CorruptChi.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to rampaging chi -->
   <CorruptChi.injuryProps.destroyedLabel>Dem wütenden Chi zum Opfer gefallen</CorruptChi.injuryProps.destroyedLabel>
   <CorruptChi.injuryProps.destroyedOutLabel>Dem wütenden Chi zum Opfer gefallen</CorruptChi.injuryProps.destroyedOutLabel>
@@ -111,7 +111,7 @@
   <!-- EN: shadow walker cloak -->
   <ShadowCloakz.label>Umhang des Schattenwandlers</ShadowCloakz.label>
   <!-- EN: A technique that renders the user invisible, all while boosting melee damage significantly. -->
-  <ShadowCloakz.description>Eine Technik, die den Spieler unsichtbar macht und gleichzeitig den Nahkampfschaden erheblich erhöht.</ShadowCloakz.description>
+  <ShadowCloakz.description>Eine Technik, die den Anwender unsichtbar macht und zugleich seinen Nahkampfschaden erheblich erhöht.</ShadowCloakz.description>
   <!-- EN: Shadow Guards -->
   <ShadowGuards.label>Schattenpanzerhandschuhe</ShadowGuards.label>
   <!-- EN: Some effects after wearing a pair of shadow guards. -->
