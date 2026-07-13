@@ -73,7 +73,7 @@ Achtung! Sehr explosiv!</GatlingAmmoBox.description>
   <!-- EN: daedalus components -->
   <SimpleComponent.label>Daedalus-Komponenten</SimpleComponent.label>
   <!-- EN: A collection of gears and complicated mechanical components which are used to craft multiple equipments, and build wonderful low-tech contraptions. -->
-  <SimpleComponent.description>Eine Sammlung von Zahnrädern und komplizierten mechanischen Bauteilen, die zum Herstellen verschiedener Ausrüstungsgegenstände und zum Bauen wunderbarer Low-Tech-Konstruktionen verwendet werden.</SimpleComponent.description>
+  <SimpleComponent.description>Eine Sammlung aus Zahnrädern und komplexen mechanischen Bauteilen, die zur Herstellung verschiedener Ausrüstungsgegenstände und erstaunlicher Lowtech-Konstruktionen verwendet wird.</SimpleComponent.description>
   <!-- EN: visceral solution -->
   <VisceralSolution.label>viszerale Lösung</VisceralSolution.label>
   <!-- EN: A syrup-like substance made from brain matter. Exclusively manufactured from the hunter's workshop as a main ingredient for their combat potions. -->

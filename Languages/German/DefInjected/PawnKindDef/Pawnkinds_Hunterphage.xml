@@ -9,17 +9,17 @@
   <!-- EN: hunter -->
   <Hunter_Basic.label>Jäger</Hunter_Basic.label>
   <!-- EN: hunter slasher -->
-  <Hunter_BasicMelee.label>Jäger-Slasher</Hunter_BasicMelee.label>
+  <Hunter_BasicMelee.label>Jäger-Klingenkämpfer</Hunter_BasicMelee.label>
   <!-- EN: hunter bodyguard -->
   <Hunter_Bodyguard.label>Jäger-Leibwächter</Hunter_Bodyguard.label>
   <!-- EN: elite hunter -->
   <Hunter_Elite.label>Elite-Jäger</Hunter_Elite.label>
   <!-- EN: elite hunter bane blade -->
-  <Hunter_EliteMelee.label>Elite-Jäger-Bane-Klinge</Hunter_EliteMelee.label>
+  <Hunter_EliteMelee.label>Elite-Jäger mit Fluchklinge</Hunter_EliteMelee.label>
   <!-- EN: intermediate hunter -->
   <Hunter_Intermediate.label>Fortgeschrittener Jäger</Hunter_Intermediate.label>
   <!-- EN: intermediate hunter marauder -->
-  <Hunter_IntermediateMelee.label>Fortgeschrittener Jäger-Plünderer</Hunter_IntermediateMelee.label>
+  <Hunter_IntermediateMelee.label>Jäger-Marodeur</Hunter_IntermediateMelee.label>
   <!-- EN: covenant master -->
   <Hunter_Leader.label>Meister des Jägerbundes</Hunter_Leader.label>
   <Hunter_PowderKeg.label>Powder-Keg-Jäger</Hunter_PowderKeg.label>

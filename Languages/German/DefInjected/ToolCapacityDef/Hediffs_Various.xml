@@ -3,17 +3,17 @@
   <!-- EN: crushing aura -->
   <AuraCrush.label>Zermalmende Aura</AuraCrush.label>
   <!-- EN: aura slash -->
-  <AuraSlash.label>Aura-Schrägstrich</AuraSlash.label>
+  <AuraSlash.label>Aurahieb</AuraSlash.label>
   <!-- EN: aura stab -->
-  <AuraStab.label>Aura-Stich</AuraStab.label>
+  <AuraStab.label>Aurastich</AuraStab.label>
   <!-- EN: blast stab -->
-  <BlastStab.label>Explosion, Stich</BlastStab.label>
+  <BlastStab.label>Explosionsstich</BlastStab.label>
   <!-- EN: death impact -->
   <DeathImpact.label>Todesaufprall</DeathImpact.label>
   <!-- EN: heart seeker stab -->
-  <HeartSeekerStab.label>Herzsucher-Stich</HeartSeekerStab.label>
+  <HeartSeekerStab.label>Herzsucherstich</HeartSeekerStab.label>
   <!-- EN: shadow edge slash -->
-  <ShadowEdgeSlash.label>Schattenkante-Hieb</ShadowEdgeSlash.label>
+  <ShadowEdgeSlash.label>Schattenklingenhieb</ShadowEdgeSlash.label>
   <!-- EN: shadow impact crush -->
-  <ShadowImpactCrush.label>Schattenaufprall-Zerschmetterung</ShadowImpactCrush.label>
+  <ShadowImpactCrush.label>zerschmetternder Schattenschlag</ShadowImpactCrush.label>
 </LanguageData>

@@ -3,7 +3,7 @@
   <!-- EN: corrupt chi -->
   <CorruptChi.label>verdorbenes Chi</CorruptChi.label>
   <!-- EN: Throw a ball full of corrupt chi against a singular target. Very effective against boss-like entities. -->
-  <CorruptChi.description>Schleudere eine Kugel aus verdorbenem Chi auf ein einzelnes Ziel. Besonders wirksam gegen besonders mächtige Gegner.</CorruptChi.description>
+  <CorruptChi.description>Schleudere eine Kugel aus verdorbenem Chi auf ein einzelnes Ziel. Besonders wirksam gegen mächtige Gegner.</CorruptChi.description>
   <!-- EN: crows leap -->
   <CrowsLeap.label>Krähensprung</CrowsLeap.label>
   <!-- EN: Leap through distant location, exuding crow feathers and dark energy during propultion. -->
@@ -37,7 +37,7 @@
   <!-- EN: socialize -->
   <Socialize.label>Kontakte knüpfen</Socialize.label>
   <!-- EN: Use your good looks and silver tongue to improve their opinion on you. -->
-  <Socialize.description>Nutze dein gutes Aussehen und deine Redegewandtheit, um ihre Meinung über dich zu verbessern.</Socialize.description>
+  <Socialize.description>Nutze dein gutes Aussehen und deine Redegewandtheit, um andere für dich einzunehmen.</Socialize.description>
   <!-- EN: summon automatons -->
   <SummonAutomatons.label>Automaten beschwören</SummonAutomatons.label>
   <!-- EN: Summon automaton soldiers directly at the enemy to fight alongside you. Must be target at an enemy pawn. -->
