@@ -22,7 +22,7 @@
   <!-- EN: intermediate hunter marauder -->
   <Hunter_IntermediateMelee.label>Fortgeschrittener Jäger-Plünderer</Hunter_IntermediateMelee.label>
   <!-- EN: covenant master -->
-  <Hunter_Leader.label>Covenant-Meister</Hunter_Leader.label>
+  <Hunter_Leader.label>Meister des Jägerbundes</Hunter_Leader.label>
   <Hunter_PowderKeg.label>Powder-Keg-Jäger</Hunter_PowderKeg.label>
   <!-- EN: merchant -->
   <Hunter_Trader.label>Händler</Hunter_Trader.label>
@@ -30,8 +30,8 @@
   <!-- EN: shadow crow -->
   <ShadowWalker_Elite.label>Schattenkrähe</ShadowWalker_Elite.label>
   <!-- EN: shadow walker initiate -->
-  <ShadowWalker_Initiate.label>Schattenwanderer-Anwärter</ShadowWalker_Initiate.label>
+  <ShadowWalker_Initiate.label>Schattenwandler-Anwärter</ShadowWalker_Initiate.label>
   <!-- EN: shadow walker veteran -->
-  <ShadowWalker_Veteran.label>Schattenwanderer-Veteran</ShadowWalker_Veteran.label>
+  <ShadowWalker_Veteran.label>Schattenwandler-Veteran</ShadowWalker_Veteran.label>
   <Wanderer.label>Wanderer</Wanderer.label>
 </LanguageData>

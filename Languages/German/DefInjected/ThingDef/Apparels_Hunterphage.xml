@@ -50,13 +50,13 @@
   <!-- EN: An apparel worn by the powderkeg hunters, designed to be fireproof and provides more armor rating. -->
   <Apparel_PowderkegGarb.description>Eine feuerfeste, verstärkte Montur der Powder-Keg-Jäger, die einen höheren Rüstungswert bietet.</Apparel_PowderkegGarb.description>
   <!-- EN: shadow walker coat -->
-  <Apparel_ShadowWalkerCoat.label>Schattenwanderer-Mantel</Apparel_ShadowWalkerCoat.label>
+  <Apparel_ShadowWalkerCoat.label>Schattenwandler-Mantel</Apparel_ShadowWalkerCoat.label>
   <!-- EN: A light weight and fire-proof coat worn by the mysterious shadow walkers. Although it provides absolute defense to fire and heat damage, it has terrible defense to sharp and blunt damage, but the coat compensates with providing the user with increased movement speed and manipulation. -->
-  <Apparel_ShadowWalkerCoat.description>Ein leichter und feuerfester Mantel, der von den mysteriösen Schattenwanderern getragen wird. Er bietet zwar absoluten Schutz vor Feuer- und Hitzeschaden, ist jedoch äußerst anfällig für Schaden durch scharfe und stumpfe Gegenstände; dies gleicht der Mantel jedoch durch eine erhöhte Bewegungsgeschwindigkeit und bessere Manövrierfähigkeit des Trägers aus.</Apparel_ShadowWalkerCoat.description>
+  <Apparel_ShadowWalkerCoat.description>Ein leichter und feuerfester Mantel, der von den mysteriösen Schattenwandlern getragen wird. Er bietet zwar absoluten Schutz vor Feuer- und Hitzeschaden, ist jedoch äußerst anfällig für Schaden durch scharfe und stumpfe Gegenstände; dies gleicht der Mantel jedoch durch eine erhöhte Bewegungsgeschwindigkeit und bessere Manövrierfähigkeit des Trägers aus.</Apparel_ShadowWalkerCoat.description>
   <!-- EN: shadow walker feathered coat -->
-  <Apparel_ShadowWalkerFeatheredCoat.label>Schattenwanderer mit gefiedertem Mantel</Apparel_ShadowWalkerFeatheredCoat.label>
+  <Apparel_ShadowWalkerFeatheredCoat.label>Schattenwandler-Federmantel</Apparel_ShadowWalkerFeatheredCoat.label>
   <!-- EN: A feathered variant of the shadow walker coat, which immitates the notorious shadow crows. -->
-  <Apparel_ShadowWalkerFeatheredCoat.description>Eine mit Federn verzierte Variante des Shadow-Walker-Mantels, die den berüchtigten Schattenkrähen nachempfunden ist.</Apparel_ShadowWalkerFeatheredCoat.description>
+  <Apparel_ShadowWalkerFeatheredCoat.description>Eine mit Federn verzierte Variante des Schattenwandler-Mantels, die den berüchtigten Schattenkrähen nachempfunden ist.</Apparel_ShadowWalkerFeatheredCoat.description>
   <!-- EN: sniper top hat -->
   <Apparel_SniperTopHat.label>Scharfschützen-Zylinder</Apparel_SniperTopHat.label>
   <!-- EN: A fancy-looking top hat worn by experienced sharp shooters. Wearing it can grant the wearer a bonus to ranged weapon accuracy and social impact. -->
@@ -76,7 +76,7 @@
   <!-- EN: shadow stubs -->
   <FootWear_ShadowStubs.label>Schatten-Stubs</FootWear_ShadowStubs.label>
   <!-- EN: A pair of boots commonly worn by the shadow walkers, which grants bonus to movement speed and manipulation when worn. -->
-  <FootWear_ShadowStubs.description>Ein Paar Stiefel, das üblicherweise von den Schattenwanderern getragen wird und beim Tragen einen Bonus auf Bewegungsgeschwindigkeit und Manipulation gewährt.</FootWear_ShadowStubs.description>
+  <FootWear_ShadowStubs.description>Ein Paar Stiefel, das üblicherweise von den Schattenwandlern getragen wird und beim Tragen einen Bonus auf Bewegungsgeschwindigkeit und Manipulation gewährt.</FootWear_ShadowStubs.description>
   <!-- EN: hunters gloves -->
   <Handwear_HunterGloves.label>Jägerhandschuhe</Handwear_HunterGloves.label>
   <!-- EN: A standard pair of gloves worn by hunters of the hunters covenant, which adjustable straps that can fit in any hand sizes, sufficiently armored, and provides a small decrease in aiming delay. -->
@@ -84,7 +84,7 @@
   <!-- EN: shadow guards -->
   <Handwear_ShadowGuards.label>Schattenwächter</Handwear_ShadowGuards.label>
   <!-- EN: A pair of gloves worn by the shadow walkers, complete with wrist guards and mechanical enhancements that provides extra protection and bonus to melee and ranged combat efficiency. -->
-  <Handwear_ShadowGuards.description>Ein Paar Handschuhe, das von den Schattenwanderern getragen wird, komplett mit Handgelenkschützern und mechanischen Verbesserungen, die zusätzlichen Schutz sowie einen Bonus auf die Effizienz im Nah- und Fernkampf bieten.</Handwear_ShadowGuards.description>
+  <Handwear_ShadowGuards.description>Ein Paar Handschuhe, das von den Schattenwandlern getragen wird, komplett mit Handgelenkschützern und mechanischen Verbesserungen, die zusätzlichen Schutz sowie einen Bonus auf die Effizienz im Nah- und Fernkampf bieten.</Handwear_ShadowGuards.description>
   <!-- EN: stake driver gloves -->
   <Handwear_StakeDriverGloves.label>Handschuhe für den Pfahlrammer</Handwear_StakeDriverGloves.label>
   <!-- EN: A pair of gloves with stake drivers attached in both sides, which can inflict deadly blast damage in melee range. These gloves were commonly worn by the powderkeg hunters on the hunters covenant. -->
@@ -100,5 +100,5 @@
   <!-- EN: rogue hood -->
   <Headgear_RogueHood.label>Schurkenhaube</Headgear_RogueHood.label>
   <!-- EN: A dark hood worn by the shadow walkers, capable of raising the wearer's consciousness by a slight margin. -->
-  <Headgear_RogueHood.description>Eine dunkle Kapuze, die von den Schattenwanderern getragen wird und das Bewusstsein des Trägers geringfügig steigern kann.</Headgear_RogueHood.description>
+  <Headgear_RogueHood.description>Eine dunkle Kapuze, die von den Schattenwandlern getragen wird und das Bewusstsein des Trägers geringfügig steigern kann.</Headgear_RogueHood.description>
 </LanguageData>
