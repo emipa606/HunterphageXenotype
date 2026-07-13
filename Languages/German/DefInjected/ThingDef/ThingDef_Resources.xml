@@ -10,14 +10,14 @@
   <!-- EN: high-explosive cannon shell -->
   <Bullet_Shell_HighExCannon.label>hochexplosive Kanonengranate</Bullet_Shell_HighExCannon.label>
   <!-- EN: scroll of dwarves "Summon Automatons" -->
-  <Dwarven_SummonAutomatons.label>Zwerge-Schriftrolle „Automaton beschwören“</Dwarven_SummonAutomatons.label>
+  <Dwarven_SummonAutomatons.label>Zwergenrolle „Automaten beschwören“</Dwarven_SummonAutomatons.label>
   <!-- EN: An advanced dwarven device that can teach any pawn with a dark constitution gene the summon ballista ability. -->
-  <Dwarven_SummonAutomatons.description>Ein hochentwickeltes Zwergengerät, das jedem Charakter mit dem Gen für eine dunkle Konstitution die Fähigkeit „Balliste beschwören“ beibringen kann.</Dwarven_SummonAutomatons.description>
+  <Dwarven_SummonAutomatons.description>Ein hochentwickeltes zwergisches Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Automaten beschwören“ vermitteln kann.</Dwarven_SummonAutomatons.description>
   <!-- EN: Use {0_label} -->
   <Dwarven_SummonAutomatons.comps.CompUsableImplant.useLabel>Verwende {0_label}</Dwarven_SummonAutomatons.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of dwarves "Summon Ballista" -->
-  <Dwarven_SummonBallista.label>Zwerge-Schriftrolle „Balliste beschwören“</Dwarven_SummonBallista.label>
-  <Dwarven_SummonBallista.description>Ein hochentwickeltes Zwergengerät, das jedem Charakter mit dem Gen für eine dunkle Konstitution die Fähigkeit „Balliste beschwören“ beibringen kann.</Dwarven_SummonBallista.description>
+  <Dwarven_SummonBallista.label>Zwergenrolle „Balliste beschwören“</Dwarven_SummonBallista.label>
+  <Dwarven_SummonBallista.description>Ein hochentwickeltes zwergisches Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Balliste beschwören“ vermitteln kann.</Dwarven_SummonBallista.description>
   <Dwarven_SummonBallista.comps.CompUsableImplant.useLabel>Verwende {0_label}</Dwarven_SummonBallista.comps.CompUsableImplant.useLabel>
   <!-- EN: gatling ammo box -->
   <GatlingAmmoBox.label>Gatling-Munitionskiste</GatlingAmmoBox.label>
@@ -26,44 +26,44 @@
 
 Achtung! Sehr explosiv!</GatlingAmmoBox.description>
   <!-- EN: scroll of shadows "Corrupt Chi" -->
-  <ScrollShadowWalker_CorruptChi.label>Schattenrolle „Corrupt Chi“</ScrollShadowWalker_CorruptChi.label>
+  <ScrollShadowWalker_CorruptChi.label>Schattenrolle „Verdorbenes Chi“</ScrollShadowWalker_CorruptChi.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the corrupt chi ability. -->
-  <ScrollShadowWalker_CorruptChi.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit einem Gen für dunkle Konstitution die Fähigkeit „Korruptes Chi“ beibringen kann.</ScrollShadowWalker_CorruptChi.description>
+  <ScrollShadowWalker_CorruptChi.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Verdorbenes Chi“ vermitteln kann.</ScrollShadowWalker_CorruptChi.description>
   <ScrollShadowWalker_CorruptChi.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_CorruptChi.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Crow's Leap" -->
-  <ScrollShadowWalker_CrowsLeap.label>Schattenrolle „Crow’s Leap“</ScrollShadowWalker_CrowsLeap.label>
+  <ScrollShadowWalker_CrowsLeap.label>Schattenrolle „Krähensprung“</ScrollShadowWalker_CrowsLeap.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the crow's leap ability. -->
-  <ScrollShadowWalker_CrowsLeap.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit dem Gen für eine dunkle Konstitution die Fähigkeit „Crow’s Leap“ beibringen kann.</ScrollShadowWalker_CrowsLeap.description>
+  <ScrollShadowWalker_CrowsLeap.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Krähensprung“ vermitteln kann.</ScrollShadowWalker_CrowsLeap.description>
   <ScrollShadowWalker_CrowsLeap.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_CrowsLeap.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Dark Knife" -->
-  <ScrollShadowWalker_DarkKnife.label>Schattenrolle „Dark Knife“</ScrollShadowWalker_DarkKnife.label>
+  <ScrollShadowWalker_DarkKnife.label>Schattenrolle „Dunkles Messer“</ScrollShadowWalker_DarkKnife.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark knife ability. -->
-  <ScrollShadowWalker_DarkKnife.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit dem Gen für dunkle Konstitution die Fähigkeit „Dunkles Messer“ beibringen kann.</ScrollShadowWalker_DarkKnife.description>
+  <ScrollShadowWalker_DarkKnife.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Dunkles Messer“ vermitteln kann.</ScrollShadowWalker_DarkKnife.description>
   <ScrollShadowWalker_DarkKnife.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_DarkKnife.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Dark Mine" -->
-  <ScrollShadowWalker_DarkMine.label>Schattenrolle „Dark Mine“</ScrollShadowWalker_DarkMine.label>
+  <ScrollShadowWalker_DarkMine.label>Schattenrolle „Dunkle Mine“</ScrollShadowWalker_DarkMine.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark mine ability. -->
-  <ScrollShadowWalker_DarkMine.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit dem Gen für dunkle Konstitution die Fähigkeit „Dunkle Mine“ beibringen kann.</ScrollShadowWalker_DarkMine.description>
+  <ScrollShadowWalker_DarkMine.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Dunkle Mine beschwören“ vermitteln kann.</ScrollShadowWalker_DarkMine.description>
   <ScrollShadowWalker_DarkMine.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_DarkMine.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Dark Shuriken" -->
-  <ScrollShadowWalker_DarkShuriken.label>Schattenrolle „Dark Shuriken“</ScrollShadowWalker_DarkShuriken.label>
+  <ScrollShadowWalker_DarkShuriken.label>Schattenrolle „Dunkler Shuriken“</ScrollShadowWalker_DarkShuriken.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark shuriken ability. -->
-  <ScrollShadowWalker_DarkShuriken.description>Ein fortschrittliches Archotech-Gerät, das jedem Spielfigur mit dem Gen für dunkle Konstitution die Fähigkeit „Dunkler Shuriken“ beibringen kann.</ScrollShadowWalker_DarkShuriken.description>
+  <ScrollShadowWalker_DarkShuriken.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Dunkler Shuriken“ vermitteln kann.</ScrollShadowWalker_DarkShuriken.description>
   <ScrollShadowWalker_DarkShuriken.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_DarkShuriken.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Dark Spear" -->
-  <ScrollShadowWalker_DarkSpear.label>Schattenrolle „Dark Spear“</ScrollShadowWalker_DarkSpear.label>
+  <ScrollShadowWalker_DarkSpear.label>Schattenrolle „Dunkler Speer“</ScrollShadowWalker_DarkSpear.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the dark spear ability. -->
-  <ScrollShadowWalker_DarkSpear.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit dem Gen für dunkle Konstitution die Fähigkeit „Dunkler Speer“ beibringen kann.</ScrollShadowWalker_DarkSpear.description>
+  <ScrollShadowWalker_DarkSpear.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Dunkler Speer“ vermitteln kann.</ScrollShadowWalker_DarkSpear.description>
   <ScrollShadowWalker_DarkSpear.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_DarkSpear.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Phantom Of Death" -->
-  <ScrollShadowWalker_PhantomOfDeath.label>Schattenrolle „Phantom Of Death“</ScrollShadowWalker_PhantomOfDeath.label>
+  <ScrollShadowWalker_PhantomOfDeath.label>Schattenrolle „Phantom des Todes“</ScrollShadowWalker_PhantomOfDeath.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the phantom of death ability. -->
-  <ScrollShadowWalker_PhantomOfDeath.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit einem „Dark Constitution“-Gen die Fähigkeit „Phantom of Death“ beibringen kann.</ScrollShadowWalker_PhantomOfDeath.description>
+  <ScrollShadowWalker_PhantomOfDeath.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Phantom des Todes“ vermitteln kann.</ScrollShadowWalker_PhantomOfDeath.description>
   <ScrollShadowWalker_PhantomOfDeath.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_PhantomOfDeath.comps.CompUsableImplant.useLabel>
   <!-- EN: scroll of shadows "Summon Decoy" -->
-  <ScrollShadowWalker_SummonDecoy.label>Schattenrolle „Summon Decoy“</ScrollShadowWalker_SummonDecoy.label>
+  <ScrollShadowWalker_SummonDecoy.label>Schattenrolle „Köder beschwören“</ScrollShadowWalker_SummonDecoy.label>
   <!-- EN: An advanced archotech device that can teach any pawn with a dark constitution gene the summon decoy ability. -->
-  <ScrollShadowWalker_SummonDecoy.description>Ein fortschrittliches Archotech-Gerät, das jedem Pawn mit einem Gen für dunkle Konstitution die Fähigkeit „Köder beschwören“ beibringen kann.</ScrollShadowWalker_SummonDecoy.description>
+  <ScrollShadowWalker_SummonDecoy.description>Ein fortschrittliches Archotech-Gerät, das jedem Träger des Gens „Dunkle Konstitution“ die Fähigkeit „Köder beschwören“ vermitteln kann.</ScrollShadowWalker_SummonDecoy.description>
   <ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>Verwende {0_label}</ScrollShadowWalker_SummonDecoy.comps.CompUsableImplant.useLabel>
   <Shell_AntiArmorCannon.label>Panzerabwehr-Kanonengranate</Shell_AntiArmorCannon.label>
   <!-- EN: A specially-grade cannon shell made by the hunters workshop. Although it deals less damage, it can inflict enemies under a 10.9 explosion radius with armor bane. -->
