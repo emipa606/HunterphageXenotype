@@ -28,9 +28,9 @@
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_Blunderbuss.description>
   <!-- EN: stock -->
-  <Gun_Blunderbuss.tools.stock.label>Lager</Gun_Blunderbuss.tools.stock.label>
+  <Gun_Blunderbuss.tools.stock.label>Schaft</Gun_Blunderbuss.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_Blunderbuss.tools.barrel.label>Fass</Gun_Blunderbuss.tools.barrel.label>
+  <Gun_Blunderbuss.tools.barrel.label>Lauf</Gun_Blunderbuss.tools.barrel.label>
   <Gun_Blunderbuss.verbs.Verb_Shoot.label>Blunderbuss</Gun_Blunderbuss.verbs.Verb_Shoot.label>
   <!-- EN: blunderbuss long gun -->
   <Gun_BlunderbussLongGun.label>Donnerbüchse, Langwaffe</Gun_BlunderbussLongGun.label>
@@ -38,8 +38,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_BlunderbussLongGun.description>Eine Langwaffenversion der Donnerbüchse, die zwar hinsichtlich der Reichweite der normalen Steinschloss-Langwaffe unterlegen ist, jedoch die einzige Feuerwaffe ihrer Klasse darstellt, die im Nah- bis Mittelbereich mehrere Schrotkugeln abfeuern kann.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_BlunderbussLongGun.description>
-  <Gun_BlunderbussLongGun.tools.stock.label>Lager</Gun_BlunderbussLongGun.tools.stock.label>
-  <Gun_BlunderbussLongGun.tools.barrel.label>Fass</Gun_BlunderbussLongGun.tools.barrel.label>
+  <Gun_BlunderbussLongGun.tools.stock.label>Schaft</Gun_BlunderbussLongGun.tools.stock.label>
+  <Gun_BlunderbussLongGun.tools.barrel.label>Lauf</Gun_BlunderbussLongGun.tools.barrel.label>
   <Gun_BlunderbussLongGun.verbs.Verb_Shoot.label>Donnerbüchse, Langwaffe</Gun_BlunderbussLongGun.verbs.Verb_Shoot.label>
   <!-- EN: enouy revolver -->
   <Gun_EnouyRevolver.label>Enouy-Revolver</Gun_EnouyRevolver.label>
@@ -47,8 +47,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_EnouyRevolver.description>Eine Variante des traditionellen Revolvers mit acht Revolverzylindern, die revolverartig miteinander verbunden sind, was durch das Drehen des leeren Revolverzylinders zusammen mit den anderen Zylindern eine schnellere Nachladezeit ermöglicht.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen an die Bedürfnisse des Bundes angepasst, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_EnouyRevolver.description>
-  <Gun_EnouyRevolver.tools.stock.label>Lager</Gun_EnouyRevolver.tools.stock.label>
-  <Gun_EnouyRevolver.tools.barrel.label>Fass</Gun_EnouyRevolver.tools.barrel.label>
+  <Gun_EnouyRevolver.tools.stock.label>Schaft</Gun_EnouyRevolver.tools.stock.label>
+  <Gun_EnouyRevolver.tools.barrel.label>Lauf</Gun_EnouyRevolver.tools.barrel.label>
   <Gun_EnouyRevolver.verbs.Verb_Shoot.label>Enouy-Revolver</Gun_EnouyRevolver.verbs.Verb_Shoot.label>
   <!-- EN: flintlock long gun -->
   <Gun_FlintlockLongGun.label>Langwaffe mit Steinschloss</Gun_FlintlockLongGun.label>
@@ -56,8 +56,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_FlintlockLongGun.description>Ein Langfeuerwaffe mit Steinschloss und größerer Reichweite, die in großen Verteidigungsfestungen eingesetzt wird. Sie verfügt über eine größere Reichweite und einen höheren Schaden, allerdings dauert es im Gegenzug länger als gewöhnlich, bis in regelmäßigen Abständen ein Schuss abgefeuert werden kann.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_FlintlockLongGun.description>
-  <Gun_FlintlockLongGun.tools.stock.label>Lager</Gun_FlintlockLongGun.tools.stock.label>
-  <Gun_FlintlockLongGun.tools.barrel.label>Fass</Gun_FlintlockLongGun.tools.barrel.label>
+  <Gun_FlintlockLongGun.tools.stock.label>Schaft</Gun_FlintlockLongGun.tools.stock.label>
+  <Gun_FlintlockLongGun.tools.barrel.label>Lauf</Gun_FlintlockLongGun.tools.barrel.label>
   <Gun_FlintlockLongGun.verbs.Verb_Shoot.label>Langwaffe mit Steinschloss</Gun_FlintlockLongGun.verbs.Verb_Shoot.label>
   <!-- EN: flintlock rifle -->
   <Gun_FlintlockRifle.label>Steinschlossgewehr</Gun_FlintlockRifle.label>
@@ -65,8 +65,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_FlintlockRifle.description>Eine der frühesten jemals entwickelten Feuerwaffen und ein zuverlässiges Werkzeug sowohl für die Jagd als auch zur Verteidigung der Kolonie.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_FlintlockRifle.description>
-  <Gun_FlintlockRifle.tools.stock.label>Lager</Gun_FlintlockRifle.tools.stock.label>
-  <Gun_FlintlockRifle.tools.barrel.label>Fass</Gun_FlintlockRifle.tools.barrel.label>
+  <Gun_FlintlockRifle.tools.stock.label>Schaft</Gun_FlintlockRifle.tools.stock.label>
+  <Gun_FlintlockRifle.tools.barrel.label>Lauf</Gun_FlintlockRifle.tools.barrel.label>
   <Gun_FlintlockRifle.verbs.Verb_Shoot.label>Steinschlossgewehr</Gun_FlintlockRifle.verbs.Verb_Shoot.label>
   <!-- EN: frontier revolver -->
   <Gun_FrontierRevolver.label>Frontier-Revolver</Gun_FrontierRevolver.label>
@@ -74,21 +74,21 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_FrontierRevolver.description>Ein alter, aber zuverlässiger Single-Action-Perkussionsrevolver, der in den Holstern zahlreicher Siedler im gesamten Randgebiet zu finden ist. Im Gegensatz zu den übrigen Revolvern verfügt der Frontier-Revolver über eine etwas höhere Feuerrate, eine etwas kürzere Aufwärmzeit und jeder Schuss hat es in sich.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_FrontierRevolver.description>
-  <Gun_FrontierRevolver.tools.stock.label>Lager</Gun_FrontierRevolver.tools.stock.label>
-  <Gun_FrontierRevolver.tools.barrel.label>Fass</Gun_FrontierRevolver.tools.barrel.label>
+  <Gun_FrontierRevolver.tools.stock.label>Schaft</Gun_FrontierRevolver.tools.stock.label>
+  <Gun_FrontierRevolver.tools.barrel.label>Lauf</Gun_FrontierRevolver.tools.barrel.label>
   <Gun_FrontierRevolver.verbs.Verb_Shoot.label>Frontier-Revolver</Gun_FrontierRevolver.verbs.Verb_Shoot.label>
   <!-- EN: hunters flame sprayer -->
   <Gun_HuntersFlamesprayer.label>Flammenwerfer der Jäger</Gun_HuntersFlamesprayer.label>
   <!-- EN: A hand-held flame thrower that was used to burn insect hives and sangophages. Regardless of its size, this mini flamer can spread a sea of inferno at short range, and it can do so in a matter of seconds. A perfect weapon to use in kill boxes by funneling enemies in a tight corridor, and blasting them once they reach the exit. -->
   <Gun_HuntersFlamesprayer.description>Ein handgehaltener Flammenwerfer, der zum Verbrennen von Insektennestern und Sangophagen verwendet wurde. Ungeachtet seiner Größe kann dieser Mini-Flammenwerfer auf kurze Distanz ein Meer aus Feuer entfesseln – und das innerhalb von Sekunden. Eine perfekte Waffe für „Kill Boxes“, bei denen man Gegner in einen engen Korridor treibt und sie vernichtet, sobald sie den Ausgang erreichen.</Gun_HuntersFlamesprayer.description>
-  <Gun_HuntersFlamesprayer.tools.stock.label>Lager</Gun_HuntersFlamesprayer.tools.stock.label>
-  <Gun_HuntersFlamesprayer.tools.barrel.label>Fass</Gun_HuntersFlamesprayer.tools.barrel.label>
+  <Gun_HuntersFlamesprayer.tools.stock.label>Schaft</Gun_HuntersFlamesprayer.tools.stock.label>
+  <Gun_HuntersFlamesprayer.tools.barrel.label>Lauf</Gun_HuntersFlamesprayer.tools.barrel.label>
   <Gun_HuntersFlamesprayer.verbs.Verb_SpewFire.label>Flammenwerfer der Jäger</Gun_HuntersFlamesprayer.verbs.Verb_SpewFire.label>
   <!-- EN: marauder cannon -->
   <Gun_MarauderCannon.label>Marodeur-Kanone</Gun_MarauderCannon.label>
   <!-- EN: A hand held cannon that was once used in naval warships, now repurposed as a hand-held heavy weapon used by the powder keg hunters. It possess devastating firepower and incredible range, which allows the user to take-out groups of enemies at long distances. -->
   <Gun_MarauderCannon.description>Eine Handkanone, die einst auf Kriegsschiffen zum Einsatz kam und nun von den Powder-Keg-Jägern als schwere Handwaffe genutzt wird. Sie verfügt über verheerende Feuerkraft und eine unglaubliche Reichweite, wodurch der Benutzer ganze Gruppen von Gegnern aus großer Entfernung ausschalten kann.</Gun_MarauderCannon.description>
-  <Gun_MarauderCannon.tools.barrel.label>Fass</Gun_MarauderCannon.tools.barrel.label>
+  <Gun_MarauderCannon.tools.barrel.label>Lauf</Gun_MarauderCannon.tools.barrel.label>
   <Gun_MarauderCannon.verbs.Verb_Shoot.label>Marodeur-Kanone</Gun_MarauderCannon.verbs.Verb_Shoot.label>
   <!-- EN: marauder gatling gun -->
   <Gun_MarauderGatling.label>Marauder-Gatling-Kanone</Gun_MarauderGatling.label>
@@ -96,7 +96,7 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_MarauderGatling.description>Eine handgeführte, maschinengetriebene Gatling-Kanone, die von den Powder-Keg-Jägern eingesetzt wird. Sie ist sperrig, schwer zu handhaben und benötigt eine mit Chemfuel betriebene Maschine, um 30 Schüsse auf Gruppen von Gegnern abzufeuern, erfüllt jedoch ihren Zweck bei der Kontrolle von Menschenmengen und als Sperrfeuer gegen jegliche Gegner.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_MarauderGatling.description>
-  <Gun_MarauderGatling.tools.barrel.label>Fass</Gun_MarauderGatling.tools.barrel.label>
+  <Gun_MarauderGatling.tools.barrel.label>Lauf</Gun_MarauderGatling.tools.barrel.label>
   <Gun_MarauderGatling.verbs.Verb_Shoot.label>Marauder-Gatling-Kanone</Gun_MarauderGatling.verbs.Verb_Shoot.label>
   <!-- EN: percussion long gun -->
   <Gun_PercussionLongGun.label>Schlagwaffe (Langwaffe)</Gun_PercussionLongGun.label>
@@ -104,8 +104,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_PercussionLongGun.description>Eine Langwaffenversion des Perkussionsgewehrs, die über eine größere Reichweite und eine bessere Rüstungsdurchschlagskraft verfügt.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_PercussionLongGun.description>
-  <Gun_PercussionLongGun.tools.stock.label>Lager</Gun_PercussionLongGun.tools.stock.label>
-  <Gun_PercussionLongGun.tools.barrel.label>Fass</Gun_PercussionLongGun.tools.barrel.label>
+  <Gun_PercussionLongGun.tools.stock.label>Schaft</Gun_PercussionLongGun.tools.stock.label>
+  <Gun_PercussionLongGun.tools.barrel.label>Lauf</Gun_PercussionLongGun.tools.barrel.label>
   <Gun_PercussionLongGun.verbs.Verb_Shoot.label>Schlagwaffe (Langwaffe)</Gun_PercussionLongGun.verbs.Verb_Shoot.label>
   <!-- EN: percussion rifle -->
   <Gun_PercussionRifle.label>Perkussionsgewehr</Gun_PercussionRifle.label>
@@ -113,8 +113,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_PercussionRifle.description>Eine verbesserte Version der Steinschlosswaffen, bei der Zündkapseln verwendet werden, um das Schwarzpulver in der Kammer zu entzünden. Dank der fünfeckigen Züge im Lauf kann das Projektil eine noch größere Strecke zurücklegen und selbst die härteste Rüstung durchschlagen.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_PercussionRifle.description>
-  <Gun_PercussionRifle.tools.stock.label>Lager</Gun_PercussionRifle.tools.stock.label>
-  <Gun_PercussionRifle.tools.barrel.label>Fass</Gun_PercussionRifle.tools.barrel.label>
+  <Gun_PercussionRifle.tools.stock.label>Schaft</Gun_PercussionRifle.tools.stock.label>
+  <Gun_PercussionRifle.tools.barrel.label>Lauf</Gun_PercussionRifle.tools.barrel.label>
   <Gun_PercussionRifle.verbs.Verb_Shoot.label>Perkussionsgewehr</Gun_PercussionRifle.verbs.Verb_Shoot.label>
   <!-- EN: revolving long gun -->
   <Gun_RevolvingLongGun.label>Drehbare Langwaffe</Gun_RevolvingLongGun.label>
@@ -122,8 +122,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_RevolvingLongGun.description>Eine Langwaffenversion des Revolvergewehrs. Die Revolver-Langwaffe hat eine geringe Feuerrate, gleicht dies jedoch durch eine höhere Treffgenauigkeit bei jedem Schuss aus.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen an die Bedürfnisse des Bundes angepasst, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_RevolvingLongGun.description>
-  <Gun_RevolvingLongGun.tools.stock.label>Lager</Gun_RevolvingLongGun.tools.stock.label>
-  <Gun_RevolvingLongGun.tools.barrel.label>Fass</Gun_RevolvingLongGun.tools.barrel.label>
+  <Gun_RevolvingLongGun.tools.stock.label>Schaft</Gun_RevolvingLongGun.tools.stock.label>
+  <Gun_RevolvingLongGun.tools.barrel.label>Lauf</Gun_RevolvingLongGun.tools.barrel.label>
   <Gun_RevolvingLongGun.verbs.Verb_Shoot.label>Drehbare Langwaffe</Gun_RevolvingLongGun.verbs.Verb_Shoot.label>
   <!-- EN: revolving rifle -->
   <Gun_RevolvingRifle.label>Drehgewehr</Gun_RevolvingRifle.label>
@@ -131,8 +131,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_RevolvingRifle.description>Ein Einaktions-Perussions-Revolvergewehr. Dank seines Zylinders kann das Gewehr 5 scharfe Geschosse in gleichmäßigem Tempo abfeuern und verfügt über eine beachtliche Rüstungsdurchschlagskraft.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_RevolvingRifle.description>
-  <Gun_RevolvingRifle.tools.stock.label>Lager</Gun_RevolvingRifle.tools.stock.label>
-  <Gun_RevolvingRifle.tools.barrel.label>Fass</Gun_RevolvingRifle.tools.barrel.label>
+  <Gun_RevolvingRifle.tools.stock.label>Schaft</Gun_RevolvingRifle.tools.stock.label>
+  <Gun_RevolvingRifle.tools.barrel.label>Lauf</Gun_RevolvingRifle.tools.barrel.label>
   <Gun_RevolvingRifle.verbs.Verb_Shoot.label>Drehgewehr</Gun_RevolvingRifle.verbs.Verb_Shoot.label>
   <!-- EN: scoped percussion long gun -->
   <Gun_ScopedPercussionLongGun.label>Langwaffe mit Zielfernrohr und Schlagfeuer</Gun_ScopedPercussionLongGun.label>
@@ -140,8 +140,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_ScopedPercussionLongGun.description>Eine Langwaffenversion des Perkussionsgewehrs, die über eine größere Reichweite und eine bessere Rüstungsdurchschlagskraft verfügt und nun mit einem Zielfernrohr ausgestattet ist, das dem Träger eine höhere Treffgenauigkeit bei Fernkampfwaffen bietet.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_ScopedPercussionLongGun.description>
-  <Gun_ScopedPercussionLongGun.tools.stock.label>Lager</Gun_ScopedPercussionLongGun.tools.stock.label>
-  <Gun_ScopedPercussionLongGun.tools.barrel.label>Fass</Gun_ScopedPercussionLongGun.tools.barrel.label>
+  <Gun_ScopedPercussionLongGun.tools.stock.label>Schaft</Gun_ScopedPercussionLongGun.tools.stock.label>
+  <Gun_ScopedPercussionLongGun.tools.barrel.label>Lauf</Gun_ScopedPercussionLongGun.tools.barrel.label>
   <Gun_ScopedPercussionLongGun.verbs.Verb_Shoot.label>Langwaffe mit Zielfernrohr und Schlagfeuer</Gun_ScopedPercussionLongGun.verbs.Verb_Shoot.label>
   <!-- EN: scoped revolving long gun -->
   <Gun_ScopedRevolvingLongGun.label>Langwaffe mit Zielfernrohr und drehbarem Lauf</Gun_ScopedRevolvingLongGun.label>
@@ -149,8 +149,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_ScopedRevolvingLongGun.description>Eine Langwaffenversion des Revolvergewehrs. Die Revolver-Langwaffe hat zwar eine geringe Feuerrate, gleicht dies jedoch durch eine höhere Treffgenauigkeit bei jedem Schuss aus und ist nun mit einem Zielfernrohr ausgestattet, das die Treffgenauigkeit der Waffe weiter erhöht.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_ScopedRevolvingLongGun.description>
-  <Gun_ScopedRevolvingLongGun.tools.stock.label>Lager</Gun_ScopedRevolvingLongGun.tools.stock.label>
-  <Gun_ScopedRevolvingLongGun.tools.barrel.label>Fass</Gun_ScopedRevolvingLongGun.tools.barrel.label>
+  <Gun_ScopedRevolvingLongGun.tools.stock.label>Schaft</Gun_ScopedRevolvingLongGun.tools.stock.label>
+  <Gun_ScopedRevolvingLongGun.tools.barrel.label>Lauf</Gun_ScopedRevolvingLongGun.tools.barrel.label>
   <Gun_ScopedRevolvingLongGun.verbs.Verb_Shoot.label>Langwaffe mit Zielfernrohr und drehbarem Lauf</Gun_ScopedRevolvingLongGun.verbs.Verb_Shoot.label>
   <!-- EN: six barrel magnum -->
   <Gun_SixBarrelMagnum.label>Sechs-Lauf-Magnum</Gun_SixBarrelMagnum.label>
@@ -158,8 +158,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_SixBarrelMagnum.description>Eine bizarre Feuerwaffe mit sechs Läufen, die wie bei einem Revolver angeordnet sind. Abgesehen von ihrem bizarren Design funktioniert die Waffe hinsichtlich des Abfeuerns und Nachladens wie ein Revolver und kann aus kurzer bis mittlerer Entfernung verheerenden Schaden anrichten. Man nimmt an, dass eine solche Waffe zur Jagd auf Hexen verwendet wurde.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden verursachen können.</Gun_SixBarrelMagnum.description>
-  <Gun_SixBarrelMagnum.tools.stock.label>Lager</Gun_SixBarrelMagnum.tools.stock.label>
-  <Gun_SixBarrelMagnum.tools.barrel.label>Fass</Gun_SixBarrelMagnum.tools.barrel.label>
+  <Gun_SixBarrelMagnum.tools.stock.label>Schaft</Gun_SixBarrelMagnum.tools.stock.label>
+  <Gun_SixBarrelMagnum.tools.barrel.label>Lauf</Gun_SixBarrelMagnum.tools.barrel.label>
   <Gun_SixBarrelMagnum.verbs.Verb_Shoot.label>Sechs-Lauf-Magnum</Gun_SixBarrelMagnum.verbs.Verb_Shoot.label>
   <!-- EN: turret magnum -->
   <Gun_TurretMagnum.label>Magnum-Geschütz</Gun_TurretMagnum.label>
@@ -167,8 +167,8 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_TurretMagnum.description>Eine Mittelstrecken-Handfeuerwaffe, die zehn Schüsse in einem einzigen Schusswechsel abfeuert. Die Fähigkeit, zehnmal zu schießen, wurde durch die Konstruktion ihres Zylinders ermöglicht, der scheibenförmig ist und an dessen Umfang die Kugeln geladen werden.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat diese Waffen an die Bedürfnisse des Bundes angepasst, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_TurretMagnum.description>
-  <Gun_TurretMagnum.tools.stock.label>Lager</Gun_TurretMagnum.tools.stock.label>
-  <Gun_TurretMagnum.tools.barrel.label>Fass</Gun_TurretMagnum.tools.barrel.label>
+  <Gun_TurretMagnum.tools.stock.label>Schaft</Gun_TurretMagnum.tools.stock.label>
+  <Gun_TurretMagnum.tools.barrel.label>Lauf</Gun_TurretMagnum.tools.barrel.label>
   <Gun_TurretMagnum.verbs.Verb_Shoot.label>Magnum-Geschütz</Gun_TurretMagnum.verbs.Verb_Shoot.label>
   <!-- EN: volley rifle -->
   <Gun_VolleyRifle.label>Salvengewehr</Gun_VolleyRifle.label>
@@ -176,7 +176,7 @@ Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch di
   <Gun_VolleyRifle.description>Ein exotisches Gewehr und eine Alternative zur Donnerbüchse. Das Salvengewehr besteht im Grunde aus sieben gezogenen Zylindern, die zu einem einzigen Zylinder zusammengefasst sind. Werden diese gleichzeitig abgefeuert, können sie das Ziel mit großer Genauigkeit und Reichweite treffen.
 
 Die Entwürfe für diese Waffen stammen offensichtlich von den Menschen, doch die Werkstatt der Jäger hat sie für die Bedürfnisse des Bundes modifiziert, sodass diese Feuerwaffen mit geringer Wahrscheinlichkeit bei einem einzigen Treffer enormen Schaden anrichten können.</Gun_VolleyRifle.description>
-  <Gun_VolleyRifle.tools.stock.label>Lager</Gun_VolleyRifle.tools.stock.label>
-  <Gun_VolleyRifle.tools.barrel.label>Fass</Gun_VolleyRifle.tools.barrel.label>
+  <Gun_VolleyRifle.tools.stock.label>Schaft</Gun_VolleyRifle.tools.stock.label>
+  <Gun_VolleyRifle.tools.barrel.label>Lauf</Gun_VolleyRifle.tools.barrel.label>
   <Gun_VolleyRifle.verbs.Verb_Shoot.label>Salvengewehr</Gun_VolleyRifle.verbs.Verb_Shoot.label>
 </LanguageData>

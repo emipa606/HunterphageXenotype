@@ -37,7 +37,7 @@
   <!-- EN: {0} have been stabbed to death. -->
   <DarkSpearDamage.deathMessage>{0} wurden erstochen.</DarkSpearDamage.deathMessage>
   <!-- EN: death impact -->
-  <DeathImpact.label>Todesauswirkung</DeathImpact.label>
+  <DeathImpact.label>Todesaufprall</DeathImpact.label>
   <!-- EN: {0} has died. -->
   <DeathImpact.deathMessage>{0} ist gestorben.</DeathImpact.deathMessage>
   <ExplosionEX.deathMessage>{0} sind bei der Explosion ums Leben gekommen.</ExplosionEX.deathMessage>
@@ -52,7 +52,7 @@
   <HeartSeekerStabzNormal.deathMessage>{0} wurde zu Tode gehackt.</HeartSeekerStabzNormal.deathMessage>
   <RandyRevenge.deathMessage>{0} sind bei der Explosion ums Leben gekommen.</RandyRevenge.deathMessage>
   <!-- EN: shadow cut -->
-  <ShadowCut.label>Schattenausschnitt</ShadowCut.label>
+  <ShadowCut.label>Schattenschnitt</ShadowCut.label>
   <ShadowCut.deathMessage>{0} wurde zu Tode geschnitten.</ShadowCut.deathMessage>
   <!-- EN: shadow edge slash -->
   <ShadowEdgez.label>Schattenkante-Hieb</ShadowEdgez.label>

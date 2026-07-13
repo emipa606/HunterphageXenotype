@@ -42,7 +42,7 @@
   <!-- EN: summon automatons -->
   <SummonAutomatons.label>Automaten beschwören</SummonAutomatons.label>
   <!-- EN: Summon automaton soldiers directly at the enemy to fight alongside you. Must be target at an enemy pawn. -->
-  <SummonAutomatons.description>Beschwöre Automaten-Soldaten direkt beim Gegner, damit sie an deiner Seite kämpfen. Du musst einen gegnerischen Spielstein als Ziel auswählen.</SummonAutomatons.description>
+  <SummonAutomatons.description>Beschwöre Automatensoldaten direkt beim Gegner, damit sie an deiner Seite kämpfen. Du musst einen Gegner als Ziel auswählen.</SummonAutomatons.description>
   <!-- EN: summon ballista -->
   <SummonBallista.label>Balliste beschwören</SummonBallista.label>
   <!-- EN: Summon a ballista turret that can provide cover fire for you. -->

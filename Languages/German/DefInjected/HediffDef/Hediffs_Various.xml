@@ -103,7 +103,7 @@
   <!-- EN: A powerful aura containing the essence of death. -->
   <PhantomOfDeath.description>Eine mächtige Aura, die die Essenz des Todes in sich trägt.</PhantomOfDeath.description>
   <!-- EN: death impact -->
-  <PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>Todesauswirkung</PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>
+  <PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>Todesaufprall</PhantomOfDeath.comps.HediffComp_VerbGiver.tools.death_impact.label>
   <!-- EN: Rogue Hood -->
   <RogueHood.label>Schurkenhaube</RogueHood.label>
   <!-- EN: Some effects after wearing a rogue hood. -->

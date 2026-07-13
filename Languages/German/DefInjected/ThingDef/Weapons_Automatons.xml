@@ -6,18 +6,18 @@
   <!-- EN: automaton handcannon -->
   <Gun_AutomatonHandCannon.label>Automat-Handkanone</Gun_AutomatonHandCannon.label>
   <!-- EN: A six-barreled handcannon wielded by the automaton soldiers. -->
-  <Gun_AutomatonHandCannon.description>Eine sechsläufige Handkanone, die von den Automaten-Soldaten geführt wird.</Gun_AutomatonHandCannon.description>
+  <Gun_AutomatonHandCannon.description>Eine sechsläufige Handkanone, die von Automatensoldaten geführt wird.</Gun_AutomatonHandCannon.description>
   <!-- EN: stock -->
-  <Gun_AutomatonHandCannon.tools.stock.label>Lager</Gun_AutomatonHandCannon.tools.stock.label>
+  <Gun_AutomatonHandCannon.tools.stock.label>Schaft</Gun_AutomatonHandCannon.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_AutomatonHandCannon.tools.barrel.label>Fass</Gun_AutomatonHandCannon.tools.barrel.label>
+  <Gun_AutomatonHandCannon.tools.barrel.label>Lauf</Gun_AutomatonHandCannon.tools.barrel.label>
   <Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>Automat-Handkanone</Gun_AutomatonHandCannon.verbs.Verb_Shoot.label>
   <!-- EN: automaton hand blade -->
   <Melee_AutomatonHandBlade.label>Automat-Handklinge</Melee_AutomatonHandBlade.label>
   <!-- EN: An sharp hand blade wielded by an automaton soldier. -->
-  <Melee_AutomatonHandBlade.description>Eine scharfe Handklinge, die von einem Automaten-Soldaten geführt wird.</Melee_AutomatonHandBlade.description>
+  <Melee_AutomatonHandBlade.description>Eine scharfe Handklinge, die von einem Automatensoldaten geführt wird.</Melee_AutomatonHandBlade.description>
   <!-- EN: edge -->
-  <Melee_AutomatonHandBlade.tools.edge.label>Rand</Melee_AutomatonHandBlade.tools.edge.label>
+  <Melee_AutomatonHandBlade.tools.edge.label>Schneide</Melee_AutomatonHandBlade.tools.edge.label>
   <!-- EN: blade tip -->
   <Melee_AutomatonHandBlade.tools.blade_tip.label>Klingenspitze</Melee_AutomatonHandBlade.tools.blade_tip.label>
 </LanguageData>
