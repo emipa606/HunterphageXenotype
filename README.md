@@ -1,8 +1,9 @@
 # [Hunterphage Xenotype (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3542200033)
-
+
+
 ![Image](https://img.litet.net/logos/Info.png)
 
-Update of BlackMarket420s mod https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138
+Update of BlackMarket420s mod [Hunterphage Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138)
 
 - Several bug-fixes included by SypherRed
 
@@ -110,12 +111,6 @@ The Hunterphage mod is just a precursor of other projects I have in mind, so loo
 
 ![Image](https://img.litet.net/bSVpViV.png)
 
-![Image](https://img.litet.net/YOPIUHV.png)
-
-"Planned Projects Underway"
-  - New enemies and enemy faction "The Army of Fetid Corpse"
-  - Chemfuelpunk, it's Dieselpunk but chemfuel
-  - Chemfuelpunk Vehicles
 ![Image](https://img.litet.net/kekF0pY.png)
 
 Q: Is it safe to add mid-save?
@@ -124,13 +119,9 @@ A: Probably, but the faction wont appear if you do. But I bet you can fix it wit
 Q: Is it CE compatible?
 A: No, I don't make CE patches, sorry. Please ask the authors of CE instead.
 
-Q: Do you take commissions?
-A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://discord.com/invite/rimworld.
-
--RimWorld is owned by Ludeon Studios
+_RimWorld is owned by Ludeon Studios_
 
 ![Image](https://img.litet.net/logos/ReportingIssues.png)
-
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
@@ -140,7 +131,5 @@ A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://d
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
-
-  | tags: xenotype,  hive faction,  hunter 
 
 [![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3542200033) | tags: hunter, xenotype, hive faction
