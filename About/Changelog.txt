@@ -1,5 +1,8 @@
 # Changelog for HunterphageXenotype
 
+1.6.3 - Updated german and french translations, by SypherRed
+
+
 1.6.2 - Translation fixes, thanks to SypherRed
 
 

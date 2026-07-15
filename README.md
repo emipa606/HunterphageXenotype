@@ -124,9 +124,6 @@ A: Probably, but the faction wont appear if you do. But I bet you can fix it wit
 Q: Is it CE compatible?
 A: No, I don't make CE patches, sorry. Please ask the authors of CE instead.
 
-Q: Do you take commissions?
-A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://discord.com/invite/rimworld.
-
 -RimWorld is owned by Ludeon Studios
 
 ![Image](https://img.litet.net/logos/ReportingIssues.png)
@@ -141,6 +138,6 @@ A: I sure am! Just message me on Rimworld Discord, or DM me on Discord https://d
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
-  | tags: xenotype,  hive faction,  hunter 
+ 
 
 [![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3542200033) | tags: hunter, xenotype, hive faction
