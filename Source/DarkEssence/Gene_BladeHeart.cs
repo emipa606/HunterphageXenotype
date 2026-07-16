@@ -3,42 +3,13 @@ using Verse;
 
 namespace DarkEssence;
 
-public class Gene_BladeHeart : Gene
+public class Gene_BladeHeart : Gene_HediffBound
 {
-    public override void PostAdd()
+    protected override HediffDef BoundHediff => HediffDefOf.BladeHeartDicipline;
+
+    protected override void AddBoundHediff()
     {
-        base.PostAdd();
-        EnsureBladeHeartHediff();
-    }
-
-    public override void PostRemove()
-    {
-        var hediff = pawn.health.hediffSet.GetFirstHediffOfDef(HediffDefOf.BladeHeartDicipline);
-        if (hediff != null)
-        {
-            pawn.health.RemoveHediff(hediff);
-        }
-
-        base.PostRemove();
-    }
-
-    public override void Tick()
-    {
-        base.Tick();
-        if (pawn.IsHashIntervalTick(60))
-        {
-            EnsureBladeHeartHediff();
-        }
-    }
-
-    private void EnsureBladeHeartHediff()
-    {
-        if (!Active || pawn.health.hediffSet.HasHediff(HediffDefOf.BladeHeartDicipline))
-        {
-            return;
-        }
-
         var parts = new List<BodyPartDef> { DarkEssenceDefof.Heart };
-        HediffGiverUtility.TryApply(pawn, HediffDefOf.BladeHeartDicipline, parts, true);
+        HediffGiverUtility.TryApply(pawn, BoundHediff, parts, true);
     }
 }

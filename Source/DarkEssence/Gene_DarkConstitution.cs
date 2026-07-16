@@ -2,11 +2,7 @@ using Verse;
 
 namespace DarkEssence;
 
-public class Gene_DarkConstitution : Gene
+public class Gene_DarkConstitution : Gene_HediffBound
 {
-    public override void PostAdd()
-    {
-        pawn.health.AddHediff(HediffDefOf.DarkConstitution);
-        base.PostAdd();
-    }
+    protected override HediffDef BoundHediff => HediffDefOf.DarkConstitution;
 }

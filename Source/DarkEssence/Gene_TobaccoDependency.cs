@@ -2,11 +2,7 @@ using Verse;
 
 namespace DarkEssence;
 
-public class Gene_TobaccoDependency : Gene
+public class Gene_TobaccoDependency : Gene_HediffBound
 {
-    public override void PostAdd()
-    {
-        pawn.health.AddHediff(HediffDefOf.TobaccoAddiction);
-        base.PostAdd();
-    }
+    protected override HediffDef BoundHediff => HediffDefOf.TobaccoAddiction;
 }

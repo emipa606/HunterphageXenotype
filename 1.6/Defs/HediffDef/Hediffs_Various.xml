@@ -41,7 +41,7 @@
     <defName>HyperRegenerative</defName>
     <label>hyper-regenerative</label>
     <description>An innate ability that regenerates wounds incredibly fast.</description>
-    <hediffClass>HediffWithComps</hediffClass>
+    <hediffClass>DarkEssence.Hediff_HyperRegenerative</hediffClass>
     <defaultLabelColor>(1,0,0)</defaultLabelColor>
     <isBad>false</isBad>
     <makesSickThought>false</makesSickThought>
@@ -610,7 +610,7 @@
     <defName>DarkConstitution</defName>
     <label>dark constitution</label>
     <description>A natural condition only present from hunterphages.</description>
-    <hediffClass>HediffWithComps</hediffClass>
+    <hediffClass>DarkEssence.Hediff_DarkConstitution</hediffClass>
     <defaultLabelColor>(0.3,0.2,0.6)</defaultLabelColor>
     <isBad>false</isBad>
     <makesSickThought>false</makesSickThought>
