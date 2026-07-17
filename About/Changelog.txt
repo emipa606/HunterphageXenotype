@@ -1,5 +1,13 @@
 # Changelog for HunterphageXenotype
 
+1.6.4 - Fixes by SypherRed
+Adds the required hediff while the gene is active.
+Removes the hediff when the gene is removed or becomes inactive.
+Periodically checks the state as an additional safeguard.
+Lets gene-specific hediffs remove themselves if their required gene is no longer active.
+Applies the behavior to Blade Heart, Hyper-Healing, Dark Constitution, and Tobacco Dependency.
+
+
 1.6.3 - Updated german and french translations, by SypherRed
 
 
