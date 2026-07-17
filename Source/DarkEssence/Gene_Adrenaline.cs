@@ -2,11 +2,7 @@ using Verse;
 
 namespace DarkEssence;
 
-public class Gene_Adrenaline : Gene
+public class Gene_Adrenaline : Gene_HediffBound
 {
-    public override void PostAdd()
-    {
-        pawn.health.AddHediff(HediffDefOf.HyperRegenerative);
-        base.PostAdd();
-    }
+    protected override HediffDef BoundHediff => HediffDefOf.HyperRegenerative;
 }
