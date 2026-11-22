@@ -1,10 +1,11 @@
-# [Hunterphage Xenotype (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3542200033)
+# [Hunterphage Xenotype (Continued)]()
 
 ![Image](https://img.litet.net/logos/Info.png)
 
 Update of BlackMarket420s mod https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138
 
-- Several bug-fixes included by SypherRed
+**The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance**.
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3542200033).
 
 **The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md)**.
 To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3376685206).
@@ -138,6 +139,4 @@ A: No, I don't make CE patches, sorry. Please ask the authors of CE instead.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
- 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3542200033) | tags: hunter, xenotype, hive faction
+  | hive faction, hunter, xenotype

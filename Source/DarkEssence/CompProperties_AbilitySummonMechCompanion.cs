@@ -11,9 +11,9 @@ public class CompProperties_AbilitySummonMechCompanion : CompProperties_AbilityE
     public IntRange Amount;
     public List<PawnKindDef> Automatons;
 
-    public bool sendSkipSignal = true;
-
     public bool Weapon = false;
+
+    public bool sendSkipSignal = true;
 
     public CompProperties_AbilitySummonMechCompanion()
     {
