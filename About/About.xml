@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Hunterphage Xenotype (Continued)</name>
+  <name>[1.6] Hunterphage Xenotype (Continued)</name>
   <packageId>Mlie.HunterphageXenotype</packageId>
   <author>BlackMarket420</author>
   <url>https://github.com/emipa606/HunterphageXenotype</url>
@@ -32,7 +32,9 @@
   <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of BlackMarket420s mod https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138
 
-- Several bug-fixes included by SypherRed
+[b]The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance[/b].
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3844416912]here[/url].
+This version will not receive any further updates.
 
 [b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url][/b].
 To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3376685206]here[/url].
@@ -40,7 +42,7 @@ To avoid doubling the size of the mod, it was re-released using only Asset Bundl
 [img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/HunterphageXenotype][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/HunterphageXenotype/tree/assetbundles][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
@@ -128,6 +130,6 @@ A: No, I don't make CE patches, sorry. Please ask the authors of CE instead.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3542200033][img]https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: hunter, xenotype, hive faction</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.4</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3542200033][img]https://img.shields.io/github/v/release/emipa606/HunterphageXenotype?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | hive faction, hunter, xenotype</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.5</modVersion>
 </ModMetaData>
