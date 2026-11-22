@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: socialite -->
   <Socialize.label>socialite</Socialize.label>
   <!-- EN:
@@ -16,4 +17,5 @@
     <li>r_logentry->[INITIATOR_nameDef] invites [RECIPIENT_nameDef] for a dinner.</li>
     <li>r_logentry->Are you a piece of flake [RECIPIENT_nameDef]? Because I am addicted to you.</li>
   </Socialize.logRulesInitiator.rulesStrings>
+  
 </LanguageData>
